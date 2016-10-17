@@ -1,0 +1,42 @@
+<!DOCTYPE Cannes [
+    <!ELEMENT Cannes (movies|jury|persons|palmares)*>
+    <!ATTLIST Cannes
+            year CDATA #REQUIRED>
+    <!ELEMENT movies (movie)*>
+    <!ELEMENT movie (synopsis|nationalities|languages|genres|cast_members)*>
+    <!ATTLIST movie
+            duration CDATA #REQUIRED
+            movie_type CDATA #REQUIRED
+            production_year CDATA #REQUIRED
+            release_date CDATA #REQUIRED
+            title CDATA #REQUIRED>
+    <!ELEMENT synopsis (#PCDATA)>
+    <!ELEMENT nationalities (nationality)*>
+    <!ELEMENT nationality (nationality)*>
+    <!ATTLIST nationality
+            name CDATA #REQUIRED>
+    <!ELEMENT languages (language)*>
+    <!ELEMENT language (#PCDATA)>
+    <!ATTLIST language
+            name CDATA #REQUIRED>
+    <!ELEMENT genres (genre)*>
+    <!ELEMENT genre (#PCDATA)>
+    <!ATTLIST genre
+            name CDATA #REQUIRED>
+    <!ELEMENT cast_members (person)*>
+    <!ELEMENT person (nationalities)*>
+    <!ATTLIST person
+            biography CDATA #IMPLIED
+            code CDATA #IMPLIED
+            gender CDATA #IMPLIED
+            id CDATA #IMPLIED
+            name CDATA #IMPLIED
+            role CDATA #IMPLIED>
+    <!ELEMENT jury (person)*>
+    <!ELEMENT persons (person)*>
+    <!ELEMENT palmares (prix)*>
+    <!ELEMENT prix (#PCDATA)>
+    <!ATTLIST prix
+            code CDATA #REQUIRED
+            name CDATA #REQUIRED>
+]>
