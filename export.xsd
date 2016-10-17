@@ -6,18 +6,6 @@
       <xs:element type="genreType" name="genre" maxOccurs="unbounded" minOccurs="0"/>
     </xs:sequence>
   </xs:complexType>
-  <xs:complexType name="cast_membersType">
-    <xs:sequence>
-      <xs:element type="personType" name="person" maxOccurs="unbounded" minOccurs="0"/>
-    </xs:sequence>
-  </xs:complexType>
-  <xs:complexType name="genreType">
-    <xs:simpleContent>
-      <xs:extension base="xs:string">
-        <xs:attribute type="xs:string" name="name" use="optional"/>
-      </xs:extension>
-    </xs:simpleContent>
-  </xs:complexType>
   <xs:complexType name="languageType">
     <xs:simpleContent>
       <xs:extension base="xs:string">
@@ -38,6 +26,50 @@
     <xs:attribute type="xs:string" name="production_year" use="optional"/>
     <xs:attribute type="xs:string" name="release_date" use="optional"/>
     <xs:attribute type="xs:string" name="duration" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="juryType">
+    <xs:sequence>
+      <xs:element type="personType" name="person" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="palmaresType">
+    <xs:sequence>
+      <xs:element type="prixType" name="prix" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="languagesType">
+    <xs:sequence>
+      <xs:element type="languageType" name="language"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CannesType">
+    <xs:sequence>
+      <xs:element type="moviesType" name="movies"/>
+      <xs:element type="juryType" name="jury"/>
+      <xs:element type="personsType" name="persons"/>
+      <xs:element type="palmaresType" name="palmares"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="year"/>
+  </xs:complexType>
+  <xs:complexType name="cast_membersType">
+    <xs:sequence>
+      <xs:element type="personType" name="person" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="genreType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="name" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="prixType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="name" use="optional"/>
+        <xs:attribute type="xs:string" name="code" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
   </xs:complexType>
   <xs:complexType name="nationalityType" mixed="true">
     <xs:sequence>
@@ -72,21 +104,9 @@
     <xs:attribute type="xs:string" name="gender" use="optional"/>
     <xs:attribute type="xs:string" name="biography" use="optional"/>
   </xs:complexType>
-  <xs:complexType name="languagesType">
-    <xs:sequence>
-      <xs:element type="languageType" name="language"/>
-    </xs:sequence>
-  </xs:complexType>
   <xs:complexType name="moviesType">
     <xs:sequence>
       <xs:element type="movieType" name="movie" maxOccurs="unbounded" minOccurs="0"/>
     </xs:sequence>
-  </xs:complexType>
-  <xs:complexType name="CannesType">
-    <xs:sequence>
-      <xs:element type="moviesType" name="movies"/>
-      <xs:element type="personsType" name="persons"/>
-    </xs:sequence>
-    <xs:attribute type="xs:string" name="year"/>
   </xs:complexType>
 </xs:schema>
