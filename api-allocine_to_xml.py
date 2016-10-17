@@ -166,5 +166,5 @@ x_prix.set('name', 'prix vulcain de l\'artiste technicien, decerne par la C.S.T'
 x_prix.set('code', str(231299))
 
 # export xml with pretty printing
-with open('export.xml', mode='w', encoding='UTF-8') as file:
+with open('cannes.xml', mode='w', encoding='UTF-8') as file:
     file.write(etree.tostring(x_root, pretty_print=True).decode('utf-8'))
