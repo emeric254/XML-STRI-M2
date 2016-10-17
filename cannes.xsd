@@ -71,11 +71,12 @@
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>
-  <xs:complexType name="nationalityType" mixed="true">
-    <xs:sequence>
-      <xs:element type="nationalityType" name="nationality" minOccurs="0"/>
-    </xs:sequence>
-    <xs:attribute type="xs:string" name="name" use="optional"/>
+  <xs:complexType name="nationalityType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="name" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
   </xs:complexType>
   <xs:complexType name="personsType">
     <xs:sequence>
@@ -84,15 +85,16 @@
   </xs:complexType>
   <xs:complexType name="nationalitiesType">
     <xs:sequence>
-      <xs:element type="nationalityType" name="nationality" minOccurs="0"/>
+      <xs:element type="nationalityType" name="nationality" maxOccurs="unbounded" minOccurs="0"/>
     </xs:sequence>
   </xs:complexType>
   <xs:complexType name="personType" mixed="true">
     <xs:sequence>
+      <xs:element type="xs:string" name="biograhy" minOccurs="0"/>
       <xs:element name="nationalities" minOccurs="0">
         <xs:complexType mixed="true">
           <xs:sequence>
-            <xs:element type="nationalityType" name="nationality" minOccurs="0"/>
+            <xs:element type="nationalityType" name="nationality" maxOccurs="unbounded" minOccurs="0"/>
           </xs:sequence>
         </xs:complexType>
       </xs:element>
@@ -102,7 +104,6 @@
     <xs:attribute type="xs:string" name="code" use="optional"/>
     <xs:attribute type="xs:string" name="name" use="optional"/>
     <xs:attribute type="xs:string" name="gender" use="optional"/>
-    <xs:attribute type="xs:string" name="biography" use="optional"/>
   </xs:complexType>
   <xs:complexType name="moviesType">
     <xs:sequence>

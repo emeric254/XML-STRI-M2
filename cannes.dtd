@@ -12,7 +12,7 @@
             title CDATA #REQUIRED>
     <!ELEMENT synopsis (#PCDATA)>
     <!ELEMENT nationalities (nationality)*>
-    <!ELEMENT nationality (nationality)*>
+    <!ELEMENT nationality (#PCDATA)>
     <!ATTLIST nationality
             name CDATA #REQUIRED>
     <!ELEMENT languages (language)*>
@@ -24,9 +24,8 @@
     <!ATTLIST genre
             name CDATA #REQUIRED>
     <!ELEMENT cast_members (person)*>
-    <!ELEMENT person (nationalities)*>
+    <!ELEMENT person (biograhy|nationalities)*>
     <!ATTLIST person
-            biography CDATA #IMPLIED
             code CDATA #IMPLIED
             gender CDATA #IMPLIED
             id CDATA #IMPLIED
@@ -34,6 +33,7 @@
             role CDATA #IMPLIED>
     <!ELEMENT jury (person)*>
     <!ELEMENT persons (person)*>
+    <!ELEMENT biograhy (#PCDATA)>
     <!ELEMENT palmares (prix)*>
     <!ELEMENT prix (#PCDATA)>
     <!ATTLIST prix

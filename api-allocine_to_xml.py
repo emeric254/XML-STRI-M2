@@ -103,8 +103,8 @@ for film in films:
     x_sysnopsis.text = film['synopsis']
     x_nationalities = etree.SubElement(x_film, 'nationalities')
     for nation in film['nationalities']:
-        x_nationalities = etree.SubElement(x_nationalities, 'nationality')
-        x_nationalities.set('name', nation)
+        x_nation = etree.SubElement(x_nationalities, 'nationality')
+        x_nation.set('name', nation)
     x_languages = etree.SubElement(x_film, 'languages')
     for lang in film['languages']:
         x_lang = etree.SubElement(x_languages, 'language')
@@ -130,11 +130,11 @@ for person in persons:
     x_person.set('code', str(person['code']))
     x_person.set('name', person['name'])
     x_person.set('gender', person['gender'])
-    x_person.set('biography', person['biography'])
+    etree.SubElement(x_person, 'biograhy').text = person['biography']
     x_nationalities = etree.SubElement(x_person, 'nationalities')
     for nation in person['nationalities']:
-        x_nationalities = etree.SubElement(x_nationalities, 'nationality')
-        x_nationalities.set('name', nation)
+        x_nation = etree.SubElement(x_nationalities, 'nationality')
+        x_nation.set('name', nation)
 
 x_palmares = etree.SubElement(x_root, 'palmares')
 x_prix = etree.SubElement(x_palmares, 'prix')
