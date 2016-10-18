@@ -43,6 +43,13 @@
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>
+  <xs:complexType name="roleType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="name" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
   <xs:complexType name="languagesType">
     <xs:sequence>
       <xs:element type="languageType" name="language"/>
@@ -91,7 +98,7 @@
   </xs:complexType>
   <xs:complexType name="personType" mixed="true">
     <xs:sequence>
-      <xs:element type="xs:string" name="role" minOccurs="0"/>
+      <xs:element type="roleType" name="role" minOccurs="0"/>
       <xs:element type="xs:string" name="code" minOccurs="0"/>
       <xs:element type="xs:string" name="name" minOccurs="0"/>
       <xs:element name="gender" minOccurs="0">

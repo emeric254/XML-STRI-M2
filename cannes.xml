@@ -33,91 +33,91 @@
       </genres>
       <cast_members>
         <person code="6440">
-          <role>R&#233;alisateur</role>
+          <role name="R&#233;alisateur"/>
         </person>
         <person code="754724">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="673624">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="770950">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="435479">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="770951">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="131046">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="74893">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="770949">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="465510">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="39474">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="69414">
-          <role>Productrice</role>
+          <role name="Productrice"/>
         </person>
         <person code="208983">
-          <role>Producteur ex&#233;cutif</role>
+          <role name="Producteur ex&#233;cutif"/>
         </person>
         <person code="706702">
-          <role>Producteur associ&#233;</role>
+          <role name="Producteur associ&#233;"/>
         </person>
         <person code="52865">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="80435">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="48396">
-          <role>Sc&#233;nariste</role>
+          <role name="Sc&#233;nariste"/>
         </person>
         <person code="69418">
-          <role>Chef monteur</role>
+          <role name="Chef monteur"/>
         </person>
         <person code="132732">
-          <role>Directrice du casting</role>
+          <role name="Directrice du casting"/>
         </person>
         <person code="143091">
-          <role>Directeur de la photographie</role>
+          <role name="Directeur de la photographie"/>
         </person>
         <person code="149379">
-          <role>Chef d&#233;coratrice</role>
+          <role name="Chef d&#233;coratrice"/>
         </person>
         <person code="208936">
-          <role>Monteur son</role>
+          <role name="Monteur son"/>
         </person>
         <person code="208978">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="208983">
-          <role>Directeur de production</role>
+          <role name="Directeur de production"/>
         </person>
         <person code="775367">
-          <role>Costumi&#232;re</role>
+          <role name="Costumi&#232;re"/>
         </person>
         <person code="151391">
-          <role>Chef d&#233;corateur</role>
+          <role name="Chef d&#233;corateur"/>
         </person>
         <person code="162854">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
         <person code="630200">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
         <person code="41712">
-          <role>Compositeur</role>
+          <role name="Compositeur"/>
         </person>
       </cast_members>
     </movie>
@@ -146,67 +146,67 @@
       </genres>
       <cast_members>
         <person code="191178">
-          <role>R&#233;alisateur</role>
+          <role name="R&#233;alisateur"/>
         </person>
         <person code="72721">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="21038">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="674467">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="772603">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="221683">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="224671">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="772608">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="262492">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="191178">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="734507">
-          <role>Producteur ex&#233;cutif</role>
+          <role name="Producteur ex&#233;cutif"/>
         </person>
         <person code="773294">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="734517">
-          <role>Sc&#233;nariste</role>
+          <role name="Sc&#233;nariste"/>
         </person>
         <person code="221676">
-          <role>Consultant</role>
+          <role name="Consultant"/>
         </person>
         <person code="223629">
-          <role>Directeur de la photographie</role>
+          <role name="Directeur de la photographie"/>
         </person>
         <person code="224850">
-          <role>Directeur artistique</role>
+          <role name="Directeur artistique"/>
         </person>
         <person code="408065">
-          <role>Chef d&#233;corateur</role>
+          <role name="Chef d&#233;corateur"/>
         </person>
         <person code="408068">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="773293">
-          <role>Chef monteur</role>
+          <role name="Chef monteur"/>
         </person>
         <person code="152476">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
         <person code="408067">
-          <role>Compositeur</role>
+          <role name="Compositeur"/>
         </person>
       </cast_members>
     </movie>
@@ -238,88 +238,88 @@
       </genres>
       <cast_members>
         <person code="261433">
-          <role>R&#233;alisateur</role>
+          <role name="R&#233;alisateur"/>
         </person>
         <person code="82057">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="1696">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="149205">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="16217">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="17367">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="36273">
-          <role>Producteur ex&#233;cutif</role>
+          <role name="Producteur ex&#233;cutif"/>
         </person>
         <person code="493614">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="261433">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="265075">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="177797">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="782979">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="642135">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="261433">
-          <role>Sc&#233;nariste</role>
+          <role name="Sc&#233;nariste"/>
         </person>
         <person code="775034">
-          <role>D'apr&#232;s l'oeuvre de</role>
+          <role name="D'apr&#232;s l'oeuvre de"/>
         </person>
         <person code="63554">
-          <role>Directeur de la photographie</role>
+          <role name="Directeur de la photographie"/>
         </person>
         <person code="261433">
-          <role>Chef monteur</role>
+          <role name="Chef monteur"/>
         </person>
         <person code="263274">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="263274">
-          <role>Mixage</role>
+          <role name="Mixage"/>
         </person>
         <person code="263274">
-          <role>Superviseur du design sonore</role>
+          <role name="Superviseur du design sonore"/>
         </person>
         <person code="509357">
-          <role>Chef d&#233;coratrice</role>
+          <role name="Chef d&#233;coratrice"/>
         </person>
         <person code="514205">
-          <role>1er assistant r&#233;alisateur</role>
+          <role name="1er assistant r&#233;alisateur"/>
         </person>
         <person code="649864">
-          <role>Chef maquilleur</role>
+          <role name="Chef maquilleur"/>
         </person>
         <person code="649864">
-          <role>Chef coiffeur</role>
+          <role name="Chef coiffeur"/>
         </person>
         <person code="703316">
-          <role>Etalonneur</role>
+          <role name="Etalonneur"/>
         </person>
         <person code="754083">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
         <person code="152389">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
         <person code="36267">
-          <role>Compositeur</role>
+          <role name="Compositeur"/>
         </person>
       </cast_members>
     </movie>
@@ -348,67 +348,67 @@
       </genres>
       <cast_members>
         <person code="191178">
-          <role>R&#233;alisateur</role>
+          <role name="R&#233;alisateur"/>
         </person>
         <person code="72721">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="21038">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="674467">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="772603">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="221683">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="224671">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="772608">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="262492">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="191178">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="734507">
-          <role>Producteur ex&#233;cutif</role>
+          <role name="Producteur ex&#233;cutif"/>
         </person>
         <person code="773294">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="734517">
-          <role>Sc&#233;nariste</role>
+          <role name="Sc&#233;nariste"/>
         </person>
         <person code="221676">
-          <role>Consultant</role>
+          <role name="Consultant"/>
         </person>
         <person code="223629">
-          <role>Directeur de la photographie</role>
+          <role name="Directeur de la photographie"/>
         </person>
         <person code="224850">
-          <role>Directeur artistique</role>
+          <role name="Directeur artistique"/>
         </person>
         <person code="408065">
-          <role>Chef d&#233;corateur</role>
+          <role name="Chef d&#233;corateur"/>
         </person>
         <person code="408068">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="773293">
-          <role>Chef monteur</role>
+          <role name="Chef monteur"/>
         </person>
         <person code="152476">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
         <person code="408067">
-          <role>Compositeur</role>
+          <role name="Compositeur"/>
         </person>
       </cast_members>
     </movie>
@@ -440,106 +440,106 @@
       </genres>
       <cast_members>
         <person code="104291">
-          <role>R&#233;alisateur</role>
+          <role name="R&#233;alisateur"/>
         </person>
         <person code="479343">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="196939">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="129313">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="773621">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="697344">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="773622">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="766412">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="773623">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="774094">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="774095">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="774096">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="774097">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="773624">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="126796">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="104291">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="104291">
-          <role>Sc&#233;nariste</role>
+          <role name="Sc&#233;nariste"/>
         </person>
         <person code="59495">
-          <role>Mixage</role>
+          <role name="Mixage"/>
         </person>
         <person code="102350">
-          <role>Chef monteur</role>
+          <role name="Chef monteur"/>
         </person>
         <person code="513620">
-          <role>Chef maquilleur</role>
+          <role name="Chef maquilleur"/>
         </person>
         <person code="520326">
-          <role>Chef d&#233;corateur</role>
+          <role name="Chef d&#233;corateur"/>
         </person>
         <person code="734024">
-          <role>Photographe</role>
+          <role name="Photographe"/>
         </person>
         <person code="773625">
-          <role>1er assistant r&#233;alisateur</role>
+          <role name="1er assistant r&#233;alisateur"/>
         </person>
         <person code="773626">
-          <role>Scripte</role>
+          <role name="Scripte"/>
         </person>
         <person code="773627">
-          <role>Assistant r&#233;alisateur</role>
+          <role name="Assistant r&#233;alisateur"/>
         </person>
         <person code="773629">
-          <role>Directeur de la photographie</role>
+          <role name="Directeur de la photographie"/>
         </person>
         <person code="773630">
-          <role>Cadreur</role>
+          <role name="Cadreur"/>
         </person>
         <person code="773631">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="773632">
-          <role>Chef costumier</role>
+          <role name="Chef costumier"/>
         </person>
         <person code="773633">
-          <role>Directeur de production</role>
+          <role name="Directeur de production"/>
         </person>
         <person code="773628">
-          <role>Assistant r&#233;alisateur</role>
+          <role name="Assistant r&#233;alisateur"/>
         </person>
         <person code="152246">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
         <person code="184802">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
         <person code="524914">
-          <role>Compositeur</role>
+          <role name="Compositeur"/>
         </person>
       </cast_members>
     </movie>
@@ -571,94 +571,94 @@
       </genres>
       <cast_members>
         <person code="5790">
-          <role>R&#233;alisateur</role>
+          <role name="R&#233;alisateur"/>
         </person>
         <person code="73144">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="228367">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="574967">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="149206">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="15549">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="756629">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="42248">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="577023">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="222555">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="654381">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="534123">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="76489">
-          <role>Producteur ex&#233;cutif</role>
+          <role name="Producteur ex&#233;cutif"/>
         </person>
         <person code="126531">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="204868">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="568365">
-          <role>Coproducteur</role>
+          <role name="Coproducteur"/>
         </person>
         <person code="199251">
-          <role>Producteur ex&#233;cutif</role>
+          <role name="Producteur ex&#233;cutif"/>
         </person>
         <person code="500609">
-          <role>Coproducteur</role>
+          <role name="Coproducteur"/>
         </person>
         <person code="500609">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="5790">
-          <role>Sc&#233;nariste</role>
+          <role name="Sc&#233;nariste"/>
         </person>
         <person code="5790">
-          <role>Dialoguiste</role>
+          <role name="Dialoguiste"/>
         </person>
         <person code="13684">
-          <role>Chef d&#233;corateur</role>
+          <role name="Chef d&#233;corateur"/>
         </person>
         <person code="39575">
-          <role>Chef maquilleur</role>
+          <role name="Chef maquilleur"/>
         </person>
         <person code="43723">
-          <role>Directrice du casting</role>
+          <role name="Directrice du casting"/>
         </person>
         <person code="43952">
-          <role>Directeur de la photographie</role>
+          <role name="Directeur de la photographie"/>
         </person>
         <person code="48616">
-          <role>1er assistant r&#233;alisateur</role>
+          <role name="1er assistant r&#233;alisateur"/>
         </person>
         <person code="95961">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="152460">
-          <role>Chef monteur</role>
+          <role name="Chef monteur"/>
         </person>
         <person code="214601">
-          <role>Chef costumier</role>
+          <role name="Chef costumier"/>
         </person>
         <person code="152389">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
       </cast_members>
     </movie>
@@ -693,112 +693,112 @@
       </genres>
       <cast_members>
         <person code="75342">
-          <role>R&#233;alisateur</role>
+          <role name="R&#233;alisateur"/>
         </person>
         <person code="160976">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="264013">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="179480">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="774485">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="148431">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="436252">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="774487">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="222208">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="436253">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="436255">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="148429">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="193339">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="8265">
-          <role>Coproducteur</role>
+          <role name="Coproducteur"/>
         </person>
         <person code="72036">
-          <role>Producteur associ&#233;</role>
+          <role name="Producteur associ&#233;"/>
         </person>
         <person code="75342">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="534315">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="8264">
-          <role>Coproducteur</role>
+          <role name="Coproducteur"/>
         </person>
         <person code="39474">
-          <role>Coproducteur</role>
+          <role name="Coproducteur"/>
         </person>
         <person code="52865">
-          <role>Coproducteur</role>
+          <role name="Coproducteur"/>
         </person>
         <person code="80435">
-          <role>Coproducteur</role>
+          <role name="Coproducteur"/>
         </person>
         <person code="75342">
-          <role>Sc&#233;nariste</role>
+          <role name="Sc&#233;nariste"/>
         </person>
         <person code="45750">
-          <role>Mixage</role>
+          <role name="Mixage"/>
         </person>
         <person code="180371">
-          <role>1er assistant r&#233;alisateur</role>
+          <role name="1er assistant r&#233;alisateur"/>
         </person>
         <person code="208649">
-          <role>D&#233;corateur</role>
+          <role name="D&#233;corateur"/>
         </person>
         <person code="418342">
-          <role>Chef d&#233;coratrice</role>
+          <role name="Chef d&#233;coratrice"/>
         </person>
         <person code="418342">
-          <role>Directeur artistique</role>
+          <role name="Directeur artistique"/>
         </person>
         <person code="454465">
-          <role>Chef costumier</role>
+          <role name="Chef costumier"/>
         </person>
         <person code="571607">
-          <role>Chef monteur</role>
+          <role name="Chef monteur"/>
         </person>
         <person code="571607">
-          <role>Monteur son</role>
+          <role name="Monteur son"/>
         </person>
         <person code="609205">
-          <role>Directeur du casting</role>
+          <role name="Directeur du casting"/>
         </person>
         <person code="789217">
-          <role>Chef maquilleur</role>
+          <role name="Chef maquilleur"/>
         </person>
         <person code="789217">
-          <role>Chef coiffeur</role>
+          <role name="Chef coiffeur"/>
         </person>
         <person code="789220">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="157215">
-          <role>Directrice du casting</role>
+          <role name="Directrice du casting"/>
         </person>
         <person code="168339">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
       </cast_members>
     </movie>
@@ -833,154 +833,154 @@
       </genres>
       <cast_members>
         <person code="26839">
-          <role>R&#233;alisatrice</role>
+          <role name="R&#233;alisatrice"/>
         </person>
         <person code="770818">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="94482">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="422947">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="697212">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="776583">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="783563">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="776585">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="118802">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="783564">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="783565">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="776584">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="427578">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="783566">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="38776">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="16289">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="421648">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="521894">
-          <role>Producteur ex&#233;cutif</role>
+          <role name="Producteur ex&#233;cutif"/>
         </person>
         <person code="676416">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="785142">
-          <role>Coproducteur</role>
+          <role name="Coproducteur"/>
         </person>
         <person code="179287">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="501182">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="92320">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="421647">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="152229">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="651306">
-          <role>Productrice</role>
+          <role name="Productrice"/>
         </person>
         <person code="136660">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="179292">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="12133">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="783569">
-          <role>Productrice</role>
+          <role name="Productrice"/>
         </person>
         <person code="748268">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="785141">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="26839">
-          <role>Sc&#233;nariste</role>
+          <role name="Sc&#233;nariste"/>
         </person>
         <person code="26839">
-          <role>Dialoguiste</role>
+          <role name="Dialoguiste"/>
         </person>
         <person code="43512">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="43512">
-          <role>Monteur son</role>
+          <role name="Monteur son"/>
         </person>
         <person code="66564">
-          <role>Chef d&#233;coratrice</role>
+          <role name="Chef d&#233;coratrice"/>
         </person>
         <person code="72373">
-          <role>Chef monteur</role>
+          <role name="Chef monteur"/>
         </person>
         <person code="143091">
-          <role>Directeur de la photographie</role>
+          <role name="Directeur de la photographie"/>
         </person>
         <person code="209554">
-          <role>Coordinateur des cascades</role>
+          <role name="Coordinateur des cascades"/>
         </person>
         <person code="493583">
-          <role>Superviseur post-production</role>
+          <role name="Superviseur post-production"/>
         </person>
         <person code="501603">
-          <role>Directrice du casting</role>
+          <role name="Directrice du casting"/>
         </person>
         <person code="506565">
-          <role>Chef maquilleur</role>
+          <role name="Chef maquilleur"/>
         </person>
         <person code="683543">
-          <role>D&#233;corateur</role>
+          <role name="D&#233;corateur"/>
         </person>
         <person code="687361">
-          <role>Directeur de production</role>
+          <role name="Directeur de production"/>
         </person>
         <person code="727582">
-          <role>Chef costumier</role>
+          <role name="Chef costumier"/>
         </person>
         <person code="91187">
-          <role>Monteur son</role>
+          <role name="Monteur son"/>
         </person>
         <person code="679457">
-          <role>Directrice du casting</role>
+          <role name="Directrice du casting"/>
         </person>
         <person code="725694">
-          <role>Chef maquilleur</role>
+          <role name="Chef maquilleur"/>
         </person>
         <person code="152389">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
       </cast_members>
     </movie>
@@ -1012,115 +1012,115 @@
       </genres>
       <cast_members>
         <person code="1057">
-          <role>R&#233;alisateur</role>
+          <role name="R&#233;alisateur"/>
         </person>
         <person code="502681">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="172028">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="520404">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="761844">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="761845">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="761846">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="782407">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="520403">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="449530">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="237287">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="51932">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="613588">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="155625">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="680175">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="69887">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="787869">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="39776">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="72036">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="229532">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="656029">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="175360">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="56913">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="1057">
-          <role>Sc&#233;nariste</role>
+          <role name="Sc&#233;nariste"/>
         </person>
         <person code="45193">
-          <role>Directeur de la photographie</role>
+          <role name="Directeur de la photographie"/>
         </person>
         <person code="50529">
-          <role>1er assistant r&#233;alisateur</role>
+          <role name="1er assistant r&#233;alisateur"/>
         </person>
         <person code="60158">
-          <role>Chef d&#233;corateur</role>
+          <role name="Chef d&#233;corateur"/>
         </person>
         <person code="102607">
-          <role>Monteur</role>
+          <role name="Monteur"/>
         </person>
         <person code="171793">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="226377">
-          <role>2&#232;me assistant r&#233;alisateur</role>
+          <role name="2&#232;me assistant r&#233;alisateur"/>
         </person>
         <person code="408075">
-          <role>Chef costumier</role>
+          <role name="Chef costumier"/>
         </person>
         <person code="167522">
-          <role>Attach&#233; de presse</role>
+          <role name="Attach&#233; de presse"/>
         </person>
         <person code="167523">
-          <role>Attach&#233; de presse</role>
+          <role name="Attach&#233; de presse"/>
         </person>
         <person code="1057">
-          <role>Compositeur</role>
+          <role name="Compositeur"/>
         </person>
         <person code="60167">
-          <role>Mixage musical&#160;</role>
+          <role name="Mixage musical&#160;"/>
         </person>
         <person code="656029">
-          <role>Compositeur</role>
+          <role name="Compositeur"/>
         </person>
         <person code="775382">
-          <role>Compositeur</role>
+          <role name="Compositeur"/>
         </person>
       </cast_members>
     </movie>
@@ -1155,163 +1155,163 @@
       </genres>
       <cast_members>
         <person code="146744">
-          <role>R&#233;alisateur</role>
+          <role name="R&#233;alisateur"/>
         </person>
         <person code="488">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="562442">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="459517">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="668847">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="743518">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="601053">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="743520">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="743522">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="743517">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="568700">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="743519">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="223820">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="654094">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="710624">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="598236">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="664216">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="697846">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="562905">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="743529">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="743525">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="688668">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="695720">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="743528">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="743530">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="743531">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="1875">
-          <role>Producteur associ&#233;</role>
+          <role name="Producteur associ&#233;"/>
         </person>
         <person code="6096">
-          <role>Coproducteur</role>
+          <role name="Coproducteur"/>
         </person>
         <person code="562434">
-          <role>Productrice</role>
+          <role name="Productrice"/>
         </person>
         <person code="772716">
-          <role>Producteur d&#233;l&#233;gu&#233;</role>
+          <role name="Producteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="65210">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="642135">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="146744">
-          <role>Sc&#233;nariste</role>
+          <role name="Sc&#233;nariste"/>
         </person>
         <person code="75168">
-          <role>Costumi&#232;re</role>
+          <role name="Costumi&#232;re"/>
         </person>
         <person code="222450">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="255714">
-          <role>Directeur du casting</role>
+          <role name="Directeur du casting"/>
         </person>
         <person code="562435">
-          <role>Directeur de la photographie</role>
+          <role name="Directeur de la photographie"/>
         </person>
         <person code="562908">
-          <role>Directeur artistique</role>
+          <role name="Directeur artistique"/>
         </person>
         <person code="562908">
-          <role>D&#233;corateur</role>
+          <role name="D&#233;corateur"/>
         </person>
         <person code="594255">
-          <role>Directeur de production</role>
+          <role name="Directeur de production"/>
         </person>
         <person code="598802">
-          <role>Monteur</role>
+          <role name="Monteur"/>
         </person>
         <person code="620794">
-          <role>Coach</role>
+          <role name="Coach"/>
         </person>
         <person code="629784">
-          <role>Maquilleur</role>
+          <role name="Maquilleur"/>
         </person>
         <person code="633237">
-          <role>1er assistant r&#233;alisateur</role>
+          <role name="1er assistant r&#233;alisateur"/>
         </person>
         <person code="692717">
-          <role>Collaborateur artistique</role>
+          <role name="Collaborateur artistique"/>
         </person>
         <person code="222453">
-          <role>Coach</role>
+          <role name="Coach"/>
         </person>
         <person code="562437">
-          <role>Directeur de la photographie</role>
+          <role name="Directeur de la photographie"/>
         </person>
         <person code="624444">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="633242">
-          <role>Directeur de production</role>
+          <role name="Directeur de production"/>
         </person>
         <person code="696267">
-          <role>Directeur artistique</role>
+          <role name="Directeur artistique"/>
         </person>
         <person code="696267">
-          <role>D&#233;corateur</role>
+          <role name="D&#233;corateur"/>
         </person>
         <person code="152748">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
         <person code="493269">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
       </cast_members>
     </movie>
@@ -1340,112 +1340,112 @@
       </genres>
       <cast_members>
         <person code="22580">
-          <role>R&#233;alisateur</role>
+          <role name="R&#233;alisateur"/>
         </person>
         <person code="506920">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="506290">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="19706">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="229397">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="775186">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="758535">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="691362">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="97055">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="553843">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="44018">
-          <role>Productrice</role>
+          <role name="Productrice"/>
         </person>
         <person code="78006">
-          <role>Coproducteur</role>
+          <role name="Coproducteur"/>
         </person>
         <person code="253007">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="568365">
-          <role>Coproducteur</role>
+          <role name="Coproducteur"/>
         </person>
         <person code="22580">
-          <role>Sc&#233;nariste</role>
+          <role name="Sc&#233;nariste"/>
         </person>
         <person code="34833">
-          <role>Directeur de production</role>
+          <role name="Directeur de production"/>
         </person>
         <person code="39467">
-          <role>Directeur du casting</role>
+          <role name="Directeur du casting"/>
         </person>
         <person code="82128">
-          <role>Photographe de plateau</role>
+          <role name="Photographe de plateau"/>
         </person>
         <person code="86749">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="102190">
-          <role>Chef monteur</role>
+          <role name="Chef monteur"/>
         </person>
         <person code="173105">
-          <role>Directeur de la photographie</role>
+          <role name="Directeur de la photographie"/>
         </person>
         <person code="178163">
-          <role>Scripte</role>
+          <role name="Scripte"/>
         </person>
         <person code="192813">
-          <role>Chef coiffeur</role>
+          <role name="Chef coiffeur"/>
         </person>
         <person code="192813">
-          <role>Chef maquilleur</role>
+          <role name="Chef maquilleur"/>
         </person>
         <person code="202056">
-          <role>1er assistant op&#233;rateur</role>
+          <role name="1er assistant op&#233;rateur"/>
         </person>
         <person code="234130">
-          <role>Directeur artistique</role>
+          <role name="Directeur artistique"/>
         </person>
         <person code="253000">
-          <role>Directeur de post-production</role>
+          <role name="Directeur de post-production"/>
         </person>
         <person code="401652">
-          <role>1er assistant r&#233;alisateur</role>
+          <role name="1er assistant r&#233;alisateur"/>
         </person>
         <person code="525412">
-          <role>Chef d&#233;corateur</role>
+          <role name="Chef d&#233;corateur"/>
         </person>
         <person code="641793">
-          <role>R&#233;gisseur  g&#233;n&#233;ral</role>
+          <role name="R&#233;gisseur  g&#233;n&#233;ral"/>
         </person>
         <person code="775192">
-          <role>Chef costumier</role>
+          <role name="Chef costumier"/>
         </person>
         <person code="75383">
-          <role>Chef costumier</role>
+          <role name="Chef costumier"/>
         </person>
         <person code="543065">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="42077">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="775195">
-          <role>Chef costumier</role>
+          <role name="Chef costumier"/>
         </person>
         <person code="135364">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
       </cast_members>
     </movie>
@@ -1480,112 +1480,112 @@
       </genres>
       <cast_members>
         <person code="81272">
-          <role>R&#233;alisateur</role>
+          <role name="R&#233;alisateur"/>
         </person>
         <person code="104417">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="738736">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="150063">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="462826">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="263233">
-          <role>Acteur</role>
+          <role name="Acteur"/>
         </person>
         <person code="96596">
-          <role>Actrice</role>
+          <role name="Actrice"/>
         </person>
         <person code="81272">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="91121">
-          <role>Coproducteur d&#233;l&#233;gu&#233;</role>
+          <role name="Coproducteur d&#233;l&#233;gu&#233;"/>
         </person>
         <person code="156584">
-          <role>Producteur ex&#233;cutif</role>
+          <role name="Producteur ex&#233;cutif"/>
         </person>
         <person code="168359">
-          <role>Producteur associ&#233;</role>
+          <role name="Producteur associ&#233;"/>
         </person>
         <person code="784802">
-          <role>Coproducteur</role>
+          <role name="Coproducteur"/>
         </person>
         <person code="551178">
-          <role>Coproducteur</role>
+          <role name="Coproducteur"/>
         </person>
         <person code="685851">
-          <role>Producteur</role>
+          <role name="Producteur"/>
         </person>
         <person code="784803">
-          <role>Coproducteur</role>
+          <role name="Coproducteur"/>
         </person>
         <person code="81272">
-          <role>Sc&#233;nariste</role>
+          <role name="Sc&#233;nariste"/>
         </person>
         <person code="176194">
-          <role>D'apr&#232;s l'oeuvre de</role>
+          <role name="D'apr&#232;s l'oeuvre de"/>
         </person>
         <person code="261114">
-          <role>Dialoguiste</role>
+          <role name="Dialoguiste"/>
         </person>
         <person code="81272">
-          <role>Dialoguiste</role>
+          <role name="Dialoguiste"/>
         </person>
         <person code="261114">
-          <role>Sc&#233;nariste</role>
+          <role name="Sc&#233;nariste"/>
         </person>
         <person code="104637">
-          <role>Ing&#233;nieur du son</role>
+          <role name="Ing&#233;nieur du son"/>
         </person>
         <person code="136913">
-          <role>Directeur de la photographie</role>
+          <role name="Directeur de la photographie"/>
         </person>
         <person code="148983">
-          <role>Costumier</role>
+          <role name="Costumier"/>
         </person>
         <person code="175397">
-          <role>Chef d&#233;corateur</role>
+          <role name="Chef d&#233;corateur"/>
         </person>
         <person code="175399">
-          <role>Chef coiffeur</role>
+          <role name="Chef coiffeur"/>
         </person>
         <person code="175399">
-          <role>Chef maquilleur</role>
+          <role name="Chef maquilleur"/>
         </person>
         <person code="263236">
-          <role>Chef monteur</role>
+          <role name="Chef monteur"/>
         </person>
         <person code="784801">
-          <role>Superviseur des effets visuels</role>
+          <role name="Superviseur des effets visuels"/>
         </person>
         <person code="263235">
-          <role>Chef monteur</role>
+          <role name="Chef monteur"/>
         </person>
         <person code="152476">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
         <person code="191989">
-          <role>Attach&#233;e de presse</role>
+          <role name="Attach&#233;e de presse"/>
         </person>
         <person code="136912">
-          <role>Compositeur</role>
+          <role name="Compositeur"/>
         </person>
       </cast_members>
     </movie>
   </movies>
   <jury>
-    <person code="14398"/>
     <person code="9685"/>
-    <person code="11882"/>
-    <person code="561"/>
     <person code="88478"/>
     <person code="6414"/>
+    <person code="561"/>
     <person code="731082"/>
+    <person code="14398"/>
+    <person code="11882"/>
     <person code="675127"/>
   </jury>
   <persons>
@@ -2081,15 +2081,6 @@
       <nationalities/>
     </person>
     <person>
-      <code>9685</code>
-      <name>Dunst Kirsten</name>
-      <gender>female</gender>
-      <biograhy>Kirsten Dunst d&#233;bute sa carri&#232;re &#224; l'&#226;ge de trois ans en tournant des spots publicitaires avant de devenir mannequin, notamment pour l'agence Ford. Elle fait ses premiers pas au cin&#233;ma en 1989 chez &lt;a class="apilink" href="http://api.allocine.fr/person?code=357" rel="aco:more" typeof="aco:Person" about="[person:357]"&gt;Woody Allen&lt;/a&gt;, dans le film &#224; sketches &lt;a class="apilink" href="http://api.allocine.fr/movie?code=28347" rel="aco:more" typeof="aco:Movie" about="[movie:28347]"&gt;New York stories&lt;/a&gt;. Un an plus tard, elle voit son nom cr&#233;dit&#233; pour la premi&#232;re fois au g&#233;n&#233;rique du &lt;a class="apilink" href="http://api.allocine.fr/movie?code=6552" rel="aco:more" typeof="aco:Movie" about="[movie:6552]"&gt;B&#251;cher des vanit&#233;s&lt;/a&gt;, de &lt;a class="apilink" href="http://api.allocine.fr/person?code=954" rel="aco:more" typeof="aco:Person" about="[person:954]"&gt;Brian De Palma&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;Elle n'a que douze ans lorsque &lt;a class="apilink" href="http://api.allocine.fr/person?code=12309" rel="aco:more" typeof="aco:Person" about="[person:12309]"&gt;Neil Jordan&lt;/a&gt; la choisit parmi quelques 5000 candidates pour incarner Claudia, cr&#233;ature des t&#233;n&#232;bres condamn&#233;e &#224; demeurer dans un corps d'enfant, dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=11234" rel="aco:more" typeof="aco:Movie" about="[movie:11234]"&gt;Entretien avec un vampire&lt;/a&gt;. Elle y donne la r&#233;plique &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=1722" rel="aco:more" typeof="aco:Person" about="[person:1722]"&gt;Tom Cruise&lt;/a&gt; et &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=12302" rel="aco:more" typeof="aco:Person" about="[person:12302]"&gt;Brad Pitt&lt;/a&gt; et obtient pour ce r&#244;le une nomination aux Golden Globes. Aur&#233;ol&#233;e de ce succ&#232;s pr&#233;coce, la jeune fille tourne aux c&#244;t&#233;s d'acteurs prestigieux comme &lt;a class="apilink" href="http://api.allocine.fr/person?code=1087" rel="aco:more" typeof="aco:Person" about="[person:1087]"&gt;Susan Sarandon&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=12391" rel="aco:more" typeof="aco:Movie" about="[movie:12391]"&gt;Les Quatre Filles du docteur March&lt;/a&gt;), &lt;a class="apilink" href="http://api.allocine.fr/person?code=1191" rel="aco:more" typeof="aco:Person" about="[person:1191]"&gt;Robin Williams&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=13970" rel="aco:more" typeof="aco:Movie" about="[movie:13970]"&gt;Jumanji&lt;/a&gt;) ou encore &lt;a class="apilink" href="http://api.allocine.fr/person?code=8" rel="aco:more" typeof="aco:Person" about="[person:8]"&gt;Robert De Niro&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=17370" rel="aco:more" typeof="aco:Movie" about="[movie:17370]"&gt;Des hommes d'influence&lt;/a&gt;). Elle participe &#233;galement &#224; de nombreux films d'animation, pr&#234;tant sa voix &#224; &lt;a class="apilink" href="http://api.allocine.fr/movie?code=40137" rel="aco:more" typeof="aco:Movie" about="[movie:40137]"&gt;Kiki la petite sorci&#232;re&lt;/a&gt;, &lt;a class="apilink" href="http://api.allocine.fr/movie?code=3316" rel="aco:more" typeof="aco:Movie" about="[movie:3316]"&gt;Anastasia&lt;/a&gt; ou encore Christy (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=18602" rel="aco:more" typeof="aco:Movie" about="[movie:18602]"&gt;Small Soldiers&lt;/a&gt;).&lt;br/&gt;&lt;br/&gt;1999 marque sa rencontre avec la cin&#233;aste &lt;a class="apilink" href="http://api.allocine.fr/person?code=9684" rel="aco:more" typeof="aco:Person" about="[person:9684]"&gt;Sofia Coppola&lt;/a&gt;, qui lui offre le r&#244;le de Lux Lisbon dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=3942" rel="aco:more" typeof="aco:Movie" about="[movie:3942]"&gt;Virgin suicides&lt;/a&gt;. La critique salue unanimement sa prestation de jeune fille d&#233;sesp&#233;r&#233;e dans l'Am&#233;rique des ann&#233;es 1970. Kirsten Dunst se sp&#233;cialise alors dans les com&#233;dies pour adolescents, lyc&#233;enne d&#233;termin&#233;e &#224; gagner un concours de beaut&#233; dans l&#8217;irr&#233;v&#233;rencieux &lt;a class="apilink" href="http://api.allocine.fr/movie?code=22431" rel="aco:more" typeof="aco:Movie" about="[movie:22431]"&gt;Belles &#224; mourir&lt;/a&gt;, entraineuse d'une &#233;quipe de cheerleaders dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=34132" rel="aco:more" typeof="aco:Movie" about="[movie:34132]"&gt;American girls&lt;/a&gt;, jeune fille riche voyant son histoire d'amour avec un gar&#231;on pauvre contrari&#233;e dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=35371" rel="aco:more" typeof="aco:Movie" about="[movie:35371]"&gt;Crazy/Beautiful&lt;/a&gt;. Elle acc&#232;de &#224; la gloire en 2002 en interpr&#233;tant Mary Jane Watson, la fianc&#233;e de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=29007" rel="aco:more" typeof="aco:Movie" about="[movie:29007]"&gt;Spider-Man&lt;/a&gt;, r&#244;le qu'elle reprend dans les opus suivants, &lt;a class="apilink" href="http://api.allocine.fr/movie?code=46112" rel="aco:more" typeof="aco:Movie" about="[movie:46112]"&gt;Spider-Man 2&lt;/a&gt; et &lt;a class="apilink" href="http://api.allocine.fr/movie?code=56136" rel="aco:more" typeof="aco:Movie" about="[movie:56136]"&gt;3&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;Partenaire de &lt;a class="apilink" href="http://api.allocine.fr/person?code=13593" rel="aco:more" typeof="aco:Person" about="[person:13593]"&gt;Julia Roberts&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=40141" rel="aco:more" typeof="aco:Movie" about="[movie:40141]"&gt;Le Sourire de Mona Lisa&lt;/a&gt;, de &lt;a class="apilink" href="http://api.allocine.fr/person?code=53429" rel="aco:more" typeof="aco:Person" about="[person:53429]"&gt;Jim Carrey&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=40191" rel="aco:more" typeof="aco:Movie" about="[movie:40191]"&gt;Eternal sunshine of the spotless mind&lt;/a&gt;, Kirsten Dunst joue avec son image de &lt;i&gt;girl next door&lt;/i&gt; et encha&#238;ne les com&#233;dies romantiques, s&#233;duisant &#224; l'&#233;cran &lt;a class="apilink" href="http://api.allocine.fr/person?code=64652" rel="aco:more" typeof="aco:Person" about="[person:64652]"&gt;Paul Bettany&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=51621" rel="aco:more" typeof="aco:Movie" about="[movie:51621]"&gt;La Plus belle victoire&lt;/a&gt;) et &lt;a class="apilink" href="http://api.allocine.fr/person?code=64908" rel="aco:more" typeof="aco:Person" about="[person:64908]"&gt;Orlando Bloom&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=53579" rel="aco:more" typeof="aco:Movie" about="[movie:53579]"&gt;Rencontres &#224; Elizabethtown&lt;/a&gt;). En 2006, la jeune actrice retrouve &lt;a class="apilink" href="http://api.allocine.fr/person?code=9684" rel="aco:more" typeof="aco:Person" about="[person:9684]"&gt;Sofia Coppola&lt;/a&gt; pour le long m&#233;trage &lt;a class="apilink" href="http://api.allocine.fr/movie?code=57887" rel="aco:more" typeof="aco:Movie" about="[movie:57887]"&gt;Marie-Antoinette&lt;/a&gt;, pr&#233;sent&#233; en comp&#233;tition du Festival de Cannes, dans lequel elle incarne la princesse autrichienne devenue reine de de France, portant ainsi pour la premi&#232;re fois enti&#232;rement un film sur ses &#233;paules.&lt;br/&gt;&lt;br/&gt;Avide de nouvelles exp&#233;riences, Kirsten Dunst passe derri&#232;re la cam&#233;ra et r&#233;alise deux courts m&#233;trages, &lt;a class="apilink" href="http://api.allocine.fr/movie?code=129057" rel="aco:more" typeof="aco:Movie" about="[movie:129057]"&gt;Welcome&lt;/a&gt; (2007) et &lt;a class="apilink" href="http://api.allocine.fr/movie?code=180880" rel="aco:more" typeof="aco:Movie" about="[movie:180880]"&gt;Bastard&lt;/a&gt; (2010). L'actrice trouve ensuite l'un des r&#244;les les plus forts de sa carri&#232;re : celui de l&#8217;h&#233;ro&#239;ne d&#233;prim&#233;e de l'envoutant &lt;a class="apilink" href="http://api.allocine.fr/movie?code=173873" rel="aco:more" typeof="aco:Movie" about="[movie:173873]"&gt;Melancholia&lt;/a&gt; sous la direction du sulfureux &lt;a class="apilink" href="http://api.allocine.fr/person?code=656" rel="aco:more" typeof="aco:Person" about="[person:656]"&gt;Lars von Trier&lt;/a&gt;. Elle incarne ensuite la jolie Camille dans l'adaptation de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=181593" rel="aco:more" typeof="aco:Movie" about="[movie:181593]"&gt;Sur la route&lt;/a&gt; (2012) et Regan dans la com&#233;die crue &lt;a class="apilink" href="http://api.allocine.fr/movie?code=193422" rel="aco:more" typeof="aco:Movie" about="[movie:193422]"&gt;Bachelorette&lt;/a&gt; (id.). Kirsten renoue en 2013 avec la romance dans le renversant film de SF &lt;a class="apilink" href="http://api.allocine.fr/movie?code=83585" rel="aco:more" typeof="aco:Movie" about="[movie:83585]"&gt;Upside Down&lt;/a&gt;, avant d'&#234;tre l'&#233;pouse de &lt;a class="apilink" href="http://api.allocine.fr/person?code=14369" rel="aco:more" typeof="aco:Person" about="[person:14369]"&gt;Viggo Mortensen&lt;/a&gt; convoit&#233;e par &lt;a class="apilink" href="http://api.allocine.fr/person?code=147909" rel="aco:more" typeof="aco:Person" about="[person:147909]"&gt;Oscar Isaac&lt;/a&gt; dans le thriller &lt;a class="apilink" href="http://api.allocine.fr/movie?code=195432" rel="aco:more" typeof="aco:Movie" about="[movie:195432]"&gt;The Two Faces of January&lt;/a&gt;.</biograhy>
-      <nationalities>
-        <nationality name="U.S.A."/>
-      </nationalities>
-    </person>
-    <person>
       <code>152748</code>
       <name>Chabot Agn&#232;s</name>
       <gender>female</gender>
@@ -2265,6 +2256,15 @@
       <nationalities/>
     </person>
     <person>
+      <code>731082</code>
+      <name>Nemes L&#225;szl&#243;</name>
+      <gender>male</gender>
+      <biograhy></biograhy>
+      <nationalities>
+        <nationality name="Hongrie"/>
+      </nationalities>
+    </person>
+    <person>
       <code>680175</code>
       <name>McCarthy Brian</name>
       <gender>male</gender>
@@ -2303,6 +2303,15 @@
       <biograhy></biograhy>
       <nationalities>
         <nationality name="Br&#233;sil"/>
+      </nationalities>
+    </person>
+    <person>
+      <code>11882</code>
+      <name>Paradis Vanessa</name>
+      <gender>female</gender>
+      <biograhy>R&#233;v&#233;l&#233;e &#224; 14 ans par la chanson &lt;i&gt;Joe le Taxi&lt;/i&gt; qui triomphe dans les hit-parades durant tout l'&#233;t&#233; 1987, Vanessa Paradis fait ses premiers pas au cin&#233;ma, parrain&#233;e par son oncle, le com&#233;dien &lt;a class="apilink" href="http://api.allocine.fr/person?code=13196" rel="aco:more" typeof="aco:Person" about="[person:13196]"&gt;Didier Pain&lt;/a&gt;, dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=5118" rel="aco:more" typeof="aco:Movie" about="[movie:5118]"&gt;Noce blanche&lt;/a&gt; de &lt;a class="apilink" href="http://api.allocine.fr/person?code=9179" rel="aco:more" typeof="aco:Person" about="[person:9179]"&gt;Jean-Claude Brisseau&lt;/a&gt;. Sa composition passionn&#233;e d'adolescente fragile et amoureuse de son professeur (&lt;a class="apilink" href="http://api.allocine.fr/person?code=4637" rel="aco:more" typeof="aco:Person" about="[person:4637]"&gt;Bruno Cr&#233;mer&lt;/a&gt;) lui vaut d&#233;j&#224; le C&#233;sar du meilleur espoir f&#233;minin en 1990.&lt;br/&gt;&lt;br/&gt;Tout en poursuivant sa carri&#232;re de chanteuse -elle enregistre notamment un album avec &lt;a class="apilink" href="http://api.allocine.fr/person?code=2227" rel="aco:more" typeof="aco:Person" about="[person:2227]"&gt;Serge Gainsbourg&lt;/a&gt;-, Vanessa Paradis revient au cin&#233;ma en 1994 sous la direction de &lt;a class="apilink" href="http://api.allocine.fr/person?code=5488" rel="aco:more" typeof="aco:Person" about="[person:5488]"&gt;Jean Becker&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=11477" rel="aco:more" typeof="aco:Movie" about="[movie:11477]"&gt;Elisa&lt;/a&gt;, un film dont le titre fait justement r&#233;f&#233;rence &#224; une chanson-phare de l'homme &#224; t&#234;te de chou. Ce &lt;i&gt;road-movie&lt;/i&gt; dans lequel elle incarne une jeune fille &#224; la recherche de son p&#232;re (&lt;a class="apilink" href="http://api.allocine.fr/person?code=630" rel="aco:more" typeof="aco:Person" about="[person:630]"&gt;G&#233;rard Depardieu&lt;/a&gt;) conna&#238;t un gros succ&#232;s public. Apr&#232;s avoir crois&#233; &lt;a class="apilink" href="http://api.allocine.fr/person?code=398" rel="aco:more" typeof="aco:Person" about="[person:398]"&gt;Jeanne Moreau&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=13893" rel="aco:more" typeof="aco:Movie" about="[movie:13893]"&gt;Un amour de sorci&#232;re&lt;/a&gt;, Vanessa Paradis arbitre les retrouvailles de &lt;a class="apilink" href="http://api.allocine.fr/person?code=114" rel="aco:more" typeof="aco:Person" about="[person:114]"&gt;Belmondo&lt;/a&gt; et &lt;a class="apilink" href="http://api.allocine.fr/person?code=1920" rel="aco:more" typeof="aco:Person" about="[person:1920]"&gt;Delon&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=16718" rel="aco:more" typeof="aco:Movie" about="[movie:16718]"&gt;Une chance sur deux&lt;/a&gt; de &lt;a class="apilink" href="http://api.allocine.fr/person?code=1049" rel="aco:more" typeof="aco:Person" about="[person:1049]"&gt;Patrice Leconte&lt;/a&gt;, un cin&#233;aste qui lui offre ensuite le r&#244;le d'Ad&#232;le, jeune femme paum&#233;e et suicidaire dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=10044" rel="aco:more" typeof="aco:Movie" about="[movie:10044]"&gt;La Fille sur le pont&lt;/a&gt; en 1999 : l'actrice livre, face &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=5390" rel="aco:more" typeof="aco:Person" about="[person:5390]"&gt;Daniel Auteuil&lt;/a&gt;, une de ses prestations les plus remarqu&#233;es dans cette &#339;uvre po&#233;tique et sophistiqu&#233;e.&lt;br/&gt;&lt;br/&gt;Formant &#224; la ville un couple tr&#232;s &lt;i&gt;glamour&lt;/i&gt; avec le c&#233;l&#232;bre acteur am&#233;ricain &lt;a class="apilink" href="http://api.allocine.fr/person?code=12839" rel="aco:more" typeof="aco:Person" about="[person:12839]"&gt;Johnny Depp&lt;/a&gt;, la chanteuse et com&#233;dienne, longtemps absente des &#233;crans de cin&#233;ma, r&#233;appara&#238;t en 2004 dans le d&#233;lirant &lt;a class="apilink" href="http://api.allocine.fr/movie?code=48353" rel="aco:more" typeof="aco:Movie" about="[movie:48353]"&gt;Atomik circus : le retour de James Bataille&lt;/a&gt;. Prostitu&#233;e au grand c&#339;ur dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=54485" rel="aco:more" typeof="aco:Movie" about="[movie:54485]"&gt;Mon ange&lt;/a&gt; (2005), le premier long-m&#233;trage de &lt;a class="apilink" href="http://api.allocine.fr/person?code=51582" rel="aco:more" typeof="aco:Person" about="[person:51582]"&gt;Serge Frydman&lt;/a&gt; (sc&#233;nariste-f&#233;tiche de &lt;a class="apilink" href="http://api.allocine.fr/person?code=1049" rel="aco:more" typeof="aco:Person" about="[person:1049]"&gt;Leconte&lt;/a&gt;), elle rejoint ensuite la brillante distribution de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=112349" rel="aco:more" typeof="aco:Movie" about="[movie:112349]"&gt;La Clef&lt;/a&gt;, le polar de &lt;a class="apilink" href="http://api.allocine.fr/person?code=26856" rel="aco:more" typeof="aco:Person" about="[person:26856]"&gt;Guillaume Nicloux&lt;/a&gt; (2007). Pr&#233;f&#233;rant revenir &#224; la musique, elle d&#233;laisse quelques temps le cin&#233;ma avant d'y revenir en 2010. Apr&#232;s avoir enregistr&#233; une chanson sur la bande originale du film &lt;a class="apilink" href="http://api.allocine.fr/movie?code=138822" rel="aco:more" typeof="aco:Movie" about="[movie:138822]"&gt;Thelma, Louise et Chantal&lt;/a&gt;, elle partage l'affiche avec &lt;a class="apilink" href="http://api.allocine.fr/person?code=17028" rel="aco:more" typeof="aco:Person" about="[person:17028]"&gt;Romain Duris&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=148441" rel="aco:more" typeof="aco:Movie" about="[movie:148441]"&gt;L'Arnacoeur&lt;/a&gt;, grand succ&#232;s public qui la remet dans le c&#339;ur d'une nouvelle g&#233;n&#233;ration de cin&#233;philes.&lt;br/&gt;&lt;br/&gt;Port&#233;e par cet &#233;lan, elle fait vibrer sa voix enchanteresse pour le film d'animation &lt;a class="apilink" href="http://api.allocine.fr/movie?code=112337" rel="aco:more" typeof="aco:Movie" about="[movie:112337]"&gt;Un monstre &#224; Paris&lt;/a&gt;, o&#249; elle retrouve &lt;a class="apilink" href="http://api.allocine.fr/person?code=90662" rel="aco:more" typeof="aco:Person" about="[person:90662]"&gt;Mathieu Ch&#233;did&lt;/a&gt; apr&#232;s l'exp&#233;rience du &lt;a class="apilink" href="http://api.allocine.fr/movie?code=126902" rel="aco:more" typeof="aco:Movie" about="[movie:126902]"&gt;Soldat Rose&lt;/a&gt;. En 2012, elle privil&#233;gie les drames plus intimistes, avec le poignant &lt;a class="apilink" href="http://api.allocine.fr/movie?code=182049" rel="aco:more" typeof="aco:Movie" about="[movie:182049]"&gt;Caf&#233; de Flore&lt;/a&gt; et le tr&#232;s juste &lt;a class="apilink" href="http://api.allocine.fr/movie?code=205972" rel="aco:more" typeof="aco:Movie" about="[movie:205972]"&gt;Je me suis fait tout petit&lt;/a&gt; dans un premier temps, puis &lt;a class="apilink" href="http://api.allocine.fr/movie?code=10675" rel="aco:more" typeof="aco:Movie" about="[movie:10675]"&gt;Cornouaille&lt;/a&gt;, r&#233;alis&#233; par &lt;a class="apilink" href="http://api.allocine.fr/person?code=18013" rel="aco:more" typeof="aco:Person" about="[person:18013]"&gt;Anne Le Ny&lt;/a&gt;. La m&#234;me ann&#233;e, elle rompt avec son c&#233;l&#232;bre compagnon &lt;a class="apilink" href="http://api.allocine.fr/person?code=12839" rel="aco:more" typeof="aco:Person" about="[person:12839]"&gt;Johnny Depp&lt;/a&gt;, apr&#232;s quatorze ann&#233;es d'une belle histoire.</biograhy>
+      <nationalities>
+        <nationality name="France"/>
       </nationalities>
     </person>
     <person>
@@ -2626,15 +2635,6 @@
       <nationalities/>
     </person>
     <person>
-      <code>561</code>
-      <name>Sutherland Donald</name>
-      <gender>male</gender>
-      <biograhy>P&#232;re de l'acteur-r&#233;alisateur &lt;a class="apilink" href="http://api.allocine.fr/person?code=6285" rel="aco:more" typeof="aco:Person" about="[person:6285]"&gt;Kiefer Sutherland&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Donald Sutherland s'illustre d'abord comme disc-jockey pour des radios locales canadiennes, puis fait du th&#233;&#226;tre &#224; l'universit&#233; de Toronto. Encourag&#233; par un critique local, &lt;a class="apilink" href="http://api.allocine.fr/person?code=90619" rel="aco:more" typeof="aco:Person" about="[person:90619]"&gt;Herb Whitaker&lt;/a&gt;, il part pour l'Angleterre o&#249; il suit les cours de la London Academy of Dramatic Arts.&lt;br/&gt;&lt;br/&gt;Donald Sutherland d&#233;bute sur grand &#233;cran en 1963 dans une s&#233;rie z italienne intitul&#233;e &lt;_filmcfilm3d_22_3052322_ titre="Le Chateau des morts-vivants" target=""&gt;&lt;/_filmcfilm3d_22_3052322_&gt;. Apr&#232;s ces d&#233;buts pour le moins originaux, il obtient un petit r&#244;le dans le film de guerre &lt;a class="apilink" href="http://api.allocine.fr/movie?code=45138" rel="aco:more" typeof="aco:Movie" about="[movie:45138]"&gt;Aux postes de combat&lt;/a&gt; (1965) mais c'est en 1967, lorsque &lt;a class="apilink" href="http://api.allocine.fr/person?code=993" rel="aco:more" typeof="aco:Person" about="[person:993]"&gt;Robert Aldrich&lt;/a&gt; l'engage pour jouer l'un des &lt;a class="apilink" href="http://api.allocine.fr/movie?code=45365" rel="aco:more" typeof="aco:Movie" about="[movie:45365]"&gt;Douze Salopards&lt;/a&gt;, qu'il obtient son premier grand r&#244;le. Le public le d&#233;couvre cependant en 1970 avec &lt;a class="apilink" href="http://api.allocine.fr/movie?code=10053" rel="aco:more" typeof="aco:Movie" about="[movie:10053]"&gt;Mash&lt;/a&gt;, o&#249; il interpr&#232;te un m&#233;decin extraverti. Sa carri&#232;re sera d'abord &#233;maill&#233;e de prestations excentriques et d&#233;cal&#233;es.&lt;br/&gt;&lt;br/&gt;Avec le r&#244;le de l'inspecteur dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=45028" rel="aco:more" typeof="aco:Movie" about="[movie:45028]"&gt;Klute&lt;/a&gt; (1971) donne la r&#233;plique &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=1339" rel="aco:more" typeof="aco:Person" about="[person:1339]"&gt;Jane Fonda&lt;/a&gt;, Donald Sutherland s'impose dans le registre dramatique. Militant pacifiste, il collabore avec cette m&#234;me &lt;a class="apilink" href="http://api.allocine.fr/person?code=1339" rel="aco:more" typeof="aco:Person" about="[person:1339]"&gt;Jane Fonda&lt;/a&gt; au sc&#233;nario et &#224; la r&#233;alisation de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=52504" rel="aco:more" typeof="aco:Movie" about="[movie:52504]"&gt;F.T.A&lt;/a&gt; (1972)&#233;nonce l'engagement am&#233;ricain au Vietnam. Tr&#232;s prolifique, le com&#233;dien accumule les compositions de tous genres : architecte dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=15405" rel="aco:more" typeof="aco:Movie" about="[movie:15405]"&gt;Ne vous retournez pas&lt;/a&gt; (1973), notable path&#233;tique dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=43965" rel="aco:more" typeof="aco:Movie" about="[movie:43965]"&gt;Le Jour du fl&#233;au&lt;/a&gt; (1975), fasciste dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=2861" rel="aco:more" typeof="aco:Movie" about="[movie:2861]"&gt;1900&lt;/a&gt; (1976), interpr&#232;te du &lt;a class="apilink" href="http://api.allocine.fr/movie?code=147" rel="aco:more" typeof="aco:Movie" about="[movie:147]"&gt;Casanova de Fellini&lt;/a&gt;, espion dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=32077" rel="aco:more" typeof="aco:Movie" about="[movie:32077]"&gt;L' Aigle s'est envol&#233;&lt;/a&gt; (id.) ou encore chasseur de mutants dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=1139" rel="aco:more" typeof="aco:Movie" about="[movie:1139]"&gt;L'Invasion des profanateurs&lt;/a&gt; (1978), il prend m&#234;me le temps de jouer sous la direction de &lt;a class="apilink" href="http://api.allocine.fr/person?code=974" rel="aco:more" typeof="aco:Person" about="[person:974]"&gt;Claude Chabrol&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=43976" rel="aco:more" typeof="aco:Movie" about="[movie:43976]"&gt;Les Liens du Sang&lt;/a&gt;, 1978).&lt;br/&gt;&lt;br/&gt;On le voit parfois jouer des r&#244;les d'hommes discrets, comme de professeur d'histoire afrikaner luttant contre l'apartheid dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=5119" rel="aco:more" typeof="aco:Movie" about="[movie:5119]"&gt;Une saison blanche et seche&lt;/a&gt;, mais ce sont les r&#244;les d'hommes odieux et extr&#234;mes qui sont les plus r&#233;currents dans sa carri&#232;re. Il est ainsi le corrompu et immoral directeur de prison de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=42408" rel="aco:more" typeof="aco:Movie" about="[movie:42408]"&gt;Haute s&#233;curit&#233;&lt;/a&gt;, le militaire inqui&#233;tant et conspirateur d'&lt;a class="apilink" href="http://api.allocine.fr/movie?code=12240" rel="aco:more" typeof="aco:Movie" about="[movie:12240]"&gt;Alerte&lt;/a&gt; ou encore le conseiller politique v&#233;reux de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=10719" rel="aco:more" typeof="aco:Movie" about="[movie:10719]"&gt;Haute Trahison&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Donald Sutherland marque certains films par des passages &#233;clairs. Ses prestations d'incendiaire fou dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=7010" rel="aco:more" typeof="aco:Movie" about="[movie:7010]"&gt;Backdraft&lt;/a&gt; et de t&#233;moin myst&#233;rieux et haut plac&#233; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=1417" rel="aco:more" typeof="aco:Movie" about="[movie:1417]"&gt;JFK&lt;/a&gt; d&#233;montrent ainsi sa force de composition et son charisme. En 2000, il retrouve &lt;a class="apilink" href="http://api.allocine.fr/person?code=1146" rel="aco:more" typeof="aco:Person" about="[person:1146]"&gt;Clint Eastwood&lt;/a&gt; trente ans apr&#232;s &lt;a class="apilink" href="http://api.allocine.fr/movie?code=40174" rel="aco:more" typeof="aco:Movie" about="[movie:40174]"&gt;De l'or pour les braves&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=25639" rel="aco:more" typeof="aco:Movie" about="[movie:25639]"&gt;Space Cowboys&lt;/a&gt;. Tr&#232;s &#233;clectique, il passe r&#233;cemment du film d'action &lt;a class="apilink" href="http://api.allocine.fr/movie?code=45049" rel="aco:more" typeof="aco:Movie" about="[movie:45049]"&gt;Braquage &#224; l'italienne&lt;/a&gt;, 2002) au drame historique (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=35535" rel="aco:more" typeof="aco:Movie" about="[movie:35535]"&gt;Retour &#224; Cold Mountain&lt;/a&gt;, 2003) en passant par le film &#224; costumes (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=59068" rel="aco:more" typeof="aco:Movie" about="[movie:59068]"&gt;Orgueil et pr&#233;jug&#233;s&lt;/a&gt;, 2004).</biograhy>
-      <nationalities>
-        <nationality name="Canada"/>
-      </nationalities>
-    </person>
-    <person>
       <code>13684</code>
       <name>Labarthe Francois-Renaud</name>
       <gender>male</gender>
@@ -2656,6 +2656,15 @@
       <gender>male</gender>
       <biograhy></biograhy>
       <nationalities/>
+    </person>
+    <person>
+      <code>561</code>
+      <name>Sutherland Donald</name>
+      <gender>male</gender>
+      <biograhy>P&#232;re de l'acteur-r&#233;alisateur &lt;a class="apilink" href="http://api.allocine.fr/person?code=6285" rel="aco:more" typeof="aco:Person" about="[person:6285]"&gt;Kiefer Sutherland&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Donald Sutherland s'illustre d'abord comme disc-jockey pour des radios locales canadiennes, puis fait du th&#233;&#226;tre &#224; l'universit&#233; de Toronto. Encourag&#233; par un critique local, &lt;a class="apilink" href="http://api.allocine.fr/person?code=90619" rel="aco:more" typeof="aco:Person" about="[person:90619]"&gt;Herb Whitaker&lt;/a&gt;, il part pour l'Angleterre o&#249; il suit les cours de la London Academy of Dramatic Arts.&lt;br/&gt;&lt;br/&gt;Donald Sutherland d&#233;bute sur grand &#233;cran en 1963 dans une s&#233;rie z italienne intitul&#233;e &lt;_filmcfilm3d_22_3052322_ titre="Le Chateau des morts-vivants" target=""&gt;&lt;/_filmcfilm3d_22_3052322_&gt;. Apr&#232;s ces d&#233;buts pour le moins originaux, il obtient un petit r&#244;le dans le film de guerre &lt;a class="apilink" href="http://api.allocine.fr/movie?code=45138" rel="aco:more" typeof="aco:Movie" about="[movie:45138]"&gt;Aux postes de combat&lt;/a&gt; (1965) mais c'est en 1967, lorsque &lt;a class="apilink" href="http://api.allocine.fr/person?code=993" rel="aco:more" typeof="aco:Person" about="[person:993]"&gt;Robert Aldrich&lt;/a&gt; l'engage pour jouer l'un des &lt;a class="apilink" href="http://api.allocine.fr/movie?code=45365" rel="aco:more" typeof="aco:Movie" about="[movie:45365]"&gt;Douze Salopards&lt;/a&gt;, qu'il obtient son premier grand r&#244;le. Le public le d&#233;couvre cependant en 1970 avec &lt;a class="apilink" href="http://api.allocine.fr/movie?code=10053" rel="aco:more" typeof="aco:Movie" about="[movie:10053]"&gt;Mash&lt;/a&gt;, o&#249; il interpr&#232;te un m&#233;decin extraverti. Sa carri&#232;re sera d'abord &#233;maill&#233;e de prestations excentriques et d&#233;cal&#233;es.&lt;br/&gt;&lt;br/&gt;Avec le r&#244;le de l'inspecteur dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=45028" rel="aco:more" typeof="aco:Movie" about="[movie:45028]"&gt;Klute&lt;/a&gt; (1971) donne la r&#233;plique &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=1339" rel="aco:more" typeof="aco:Person" about="[person:1339]"&gt;Jane Fonda&lt;/a&gt;, Donald Sutherland s'impose dans le registre dramatique. Militant pacifiste, il collabore avec cette m&#234;me &lt;a class="apilink" href="http://api.allocine.fr/person?code=1339" rel="aco:more" typeof="aco:Person" about="[person:1339]"&gt;Jane Fonda&lt;/a&gt; au sc&#233;nario et &#224; la r&#233;alisation de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=52504" rel="aco:more" typeof="aco:Movie" about="[movie:52504]"&gt;F.T.A&lt;/a&gt; (1972)&#233;nonce l'engagement am&#233;ricain au Vietnam. Tr&#232;s prolifique, le com&#233;dien accumule les compositions de tous genres : architecte dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=15405" rel="aco:more" typeof="aco:Movie" about="[movie:15405]"&gt;Ne vous retournez pas&lt;/a&gt; (1973), notable path&#233;tique dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=43965" rel="aco:more" typeof="aco:Movie" about="[movie:43965]"&gt;Le Jour du fl&#233;au&lt;/a&gt; (1975), fasciste dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=2861" rel="aco:more" typeof="aco:Movie" about="[movie:2861]"&gt;1900&lt;/a&gt; (1976), interpr&#232;te du &lt;a class="apilink" href="http://api.allocine.fr/movie?code=147" rel="aco:more" typeof="aco:Movie" about="[movie:147]"&gt;Casanova de Fellini&lt;/a&gt;, espion dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=32077" rel="aco:more" typeof="aco:Movie" about="[movie:32077]"&gt;L' Aigle s'est envol&#233;&lt;/a&gt; (id.) ou encore chasseur de mutants dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=1139" rel="aco:more" typeof="aco:Movie" about="[movie:1139]"&gt;L'Invasion des profanateurs&lt;/a&gt; (1978), il prend m&#234;me le temps de jouer sous la direction de &lt;a class="apilink" href="http://api.allocine.fr/person?code=974" rel="aco:more" typeof="aco:Person" about="[person:974]"&gt;Claude Chabrol&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=43976" rel="aco:more" typeof="aco:Movie" about="[movie:43976]"&gt;Les Liens du Sang&lt;/a&gt;, 1978).&lt;br/&gt;&lt;br/&gt;On le voit parfois jouer des r&#244;les d'hommes discrets, comme de professeur d'histoire afrikaner luttant contre l'apartheid dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=5119" rel="aco:more" typeof="aco:Movie" about="[movie:5119]"&gt;Une saison blanche et seche&lt;/a&gt;, mais ce sont les r&#244;les d'hommes odieux et extr&#234;mes qui sont les plus r&#233;currents dans sa carri&#232;re. Il est ainsi le corrompu et immoral directeur de prison de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=42408" rel="aco:more" typeof="aco:Movie" about="[movie:42408]"&gt;Haute s&#233;curit&#233;&lt;/a&gt;, le militaire inqui&#233;tant et conspirateur d'&lt;a class="apilink" href="http://api.allocine.fr/movie?code=12240" rel="aco:more" typeof="aco:Movie" about="[movie:12240]"&gt;Alerte&lt;/a&gt; ou encore le conseiller politique v&#233;reux de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=10719" rel="aco:more" typeof="aco:Movie" about="[movie:10719]"&gt;Haute Trahison&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Donald Sutherland marque certains films par des passages &#233;clairs. Ses prestations d'incendiaire fou dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=7010" rel="aco:more" typeof="aco:Movie" about="[movie:7010]"&gt;Backdraft&lt;/a&gt; et de t&#233;moin myst&#233;rieux et haut plac&#233; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=1417" rel="aco:more" typeof="aco:Movie" about="[movie:1417]"&gt;JFK&lt;/a&gt; d&#233;montrent ainsi sa force de composition et son charisme. En 2000, il retrouve &lt;a class="apilink" href="http://api.allocine.fr/person?code=1146" rel="aco:more" typeof="aco:Person" about="[person:1146]"&gt;Clint Eastwood&lt;/a&gt; trente ans apr&#232;s &lt;a class="apilink" href="http://api.allocine.fr/movie?code=40174" rel="aco:more" typeof="aco:Movie" about="[movie:40174]"&gt;De l'or pour les braves&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=25639" rel="aco:more" typeof="aco:Movie" about="[movie:25639]"&gt;Space Cowboys&lt;/a&gt;. Tr&#232;s &#233;clectique, il passe r&#233;cemment du film d'action &lt;a class="apilink" href="http://api.allocine.fr/movie?code=45049" rel="aco:more" typeof="aco:Movie" about="[movie:45049]"&gt;Braquage &#224; l'italienne&lt;/a&gt;, 2002) au drame historique (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=35535" rel="aco:more" typeof="aco:Movie" about="[movie:35535]"&gt;Retour &#224; Cold Mountain&lt;/a&gt;, 2003) en passant par le film &#224; costumes (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=59068" rel="aco:more" typeof="aco:Movie" about="[movie:59068]"&gt;Orgueil et pr&#233;jug&#233;s&lt;/a&gt;, 2004).</biograhy>
+      <nationalities>
+        <nationality name="Canada"/>
+      </nationalities>
     </person>
     <person>
       <code>773624</code>
@@ -2681,13 +2690,6 @@
     <person>
       <code>776585</code>
       <name>Ezell Veronica</name>
-      <gender>female</gender>
-      <biograhy></biograhy>
-      <nationalities/>
-    </person>
-    <person>
-      <code>176194</code>
-      <name>Waters Sarah</name>
       <gender>female</gender>
       <biograhy></biograhy>
       <nationalities/>
@@ -2832,15 +2834,6 @@
       </nationalities>
     </person>
     <person>
-      <code>731082</code>
-      <name>Nemes L&#225;szl&#243;</name>
-      <gender>male</gender>
-      <biograhy></biograhy>
-      <nationalities>
-        <nationality name="Hongrie"/>
-      </nationalities>
-    </person>
-    <person>
       <code>8265</code>
       <name>Dardenne Luc</name>
       <gender>male</gender>
@@ -2862,6 +2855,16 @@
       <gender>female</gender>
       <biograhy></biograhy>
       <nationalities/>
+    </person>
+    <person>
+      <code>14398</code>
+      <name>Desplechin Arnaud</name>
+      <gender>male</gender>
+      <biograhy>&lt;p style="text-align: justify;"&gt;Dipl&#244;m&#233; de l'Idhec en section "r&#233;alisation et prises de vues", Arnaud Desplechin d&#233;bute comme directeur de la photo sur &lt;a class="apilink" href="http://api.allocine.fr/movie?code=6543" rel="aco:more" typeof="aco:Movie" about="[movie:6543]"&gt;Comme les doigts de la main&lt;/a&gt;, un court-m&#233;trage r&#233;alis&#233; par un autre &#233;tudiant de la c&#233;l&#232;bre &#233;cole de cin&#233;ma, &lt;a class="apilink" href="http://api.allocine.fr/person?code=11901" rel="aco:more" typeof="aco:Person" about="[person:11901]"&gt;Eric Rochant&lt;/a&gt;, puis sur &lt;a class="apilink" href="http://api.allocine.fr/movie?code=55661" rel="aco:more" typeof="aco:Movie" about="[movie:55661]"&gt;La Photo&lt;/a&gt; de &lt;a class="apilink" href="http://api.allocine.fr/person?code=126" rel="aco:more" typeof="aco:Person" about="[person:126]"&gt;Nico Papatakis&lt;/a&gt;. En 1991, il tourne &lt;a class="apilink" href="http://api.allocine.fr/movie?code=6762" rel="aco:more" typeof="aco:Movie" about="[movie:6762]"&gt;La Vie des morts&lt;/a&gt;, moyen-m&#233;trage pr&#233;sent&#233; &#224; la Semaine de Critique &#224; Cannes et r&#233;compens&#233; par le Prix Jean-Vigo. D&#232;s ce premier essai, le r&#233;alisateur, qui raconte les retrouvailles embarrass&#233;es d'une famille frapp&#233;e par un deuil, se r&#233;v&#232;le dou&#233; pour les portraits de groupe. Il dirige une troupe de jeunes acteurs, parmi lesquels &lt;a class="apilink" href="http://api.allocine.fr/person?code=2376" rel="aco:more" typeof="aco:Person" about="[person:2376]"&gt;Emmanuelle Devos&lt;/a&gt; ou &lt;a class="apilink" href="http://api.allocine.fr/person?code=14400" rel="aco:more" typeof="aco:Person" about="[person:14400]"&gt;Marianne Denicourt&lt;/a&gt;, qui ne tarderont pas &#224; s'imposer dans le cin&#233;ma fran&#231;ais. Ce film de toutes les promesses voit aussi na&#238;tre une maison de production, Why Not.&lt;br/&gt;&lt;br/&gt;Avec son premier-long m&#233;trage, &lt;a class="apilink" href="http://api.allocine.fr/movie?code=7374" rel="aco:more" typeof="aco:Movie" about="[movie:7374]"&gt;La Sentinelle&lt;/a&gt;, co&#233;crit par &lt;a class="apilink" href="http://api.allocine.fr/person?code=13470" rel="aco:more" typeof="aco:Person" about="[person:13470]"&gt;Pascale Ferran&lt;/a&gt; et &lt;a class="apilink" href="http://api.allocine.fr/person?code=6099" rel="aco:more" typeof="aco:Person" about="[person:6099]"&gt;No&#233;mie Lvovsky&lt;/a&gt;, Desplechin est propuls&#233; chef de file d'une nouvelle g&#233;n&#233;ration de r&#233;alisateurs, dont les ma&#238;tres ont pour noms &lt;a class="apilink" href="http://api.allocine.fr/person?code=324" rel="aco:more" typeof="aco:Person" about="[person:324]"&gt;Resnais&lt;/a&gt; ou &lt;a class="apilink" href="http://api.allocine.fr/person?code=629" rel="aco:more" typeof="aco:Person" about="[person:629]"&gt;Truffaut&lt;/a&gt;. Ce film d'espionnage, dans lequel une t&#234;te de mort vient r&#233;veiller les fant&#244;mes de la Guerre froide, repr&#233;sente la France au Festival de Cannes - comme ses deux films suivants. La Sentinelle vaut &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=15340" rel="aco:more" typeof="aco:Person" about="[person:15340]"&gt;Emmanuel Salinger&lt;/a&gt;, par ailleurs cosc&#233;nariste du film, le C&#233;sar du Meilleur jeune espoir masculin.&lt;br/&gt;&lt;br/&gt;&lt;i&gt;" J'ai d&#233;j&#224; fait un film pour dire du mal de ma famille (la Vie des morts), j'ai d&#233;j&#224; fait un film pour dire du mal de mon pays (La Sentinelle), maintenant, j'aimerais bien faire un film pour dire du mal de mes fianc&#233;es"&lt;/i&gt;, d&#233;clarait Desplechin aux &lt;i&gt;Inrockuptibles&lt;/i&gt; en 1996 &#224; propos de la gen&#232;se de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=14832" rel="aco:more" typeof="aco:Movie" about="[movie:14832]"&gt;Comment je me suis disput&#233;... (ma vie sexuelle)&lt;/a&gt;. Dans ce film, le r&#233;alisateur s'empare de tous les ingr&#233;dients habituels du "cin&#233;ma d'auteur fran&#231;ais " - le chass&#233;-crois&#233; amoureux, les universitaires du Quartier Latin &#8211; pour leur donner une ampleur romanesque, &#224; travers trois heures d'un r&#233;cit choral d'une grande fluidit&#233;. &lt;br/&gt;&lt;br/&gt;Choy&#233; par les critiques, Desplechin se lance ensuite un triple d&#233;fi en tournant, en anglais, un film d'&#233;poque centr&#233; sur un seul personnage. Adapt&#233; d'une nouvelle de Symons, &lt;a class="apilink" href="http://api.allocine.fr/movie?code=6702" rel="aco:more" typeof="aco:Movie" about="[movie:6702]"&gt;Esther Kahn&lt;/a&gt;, son troisi&#232;me long-m&#233;trage, raconte l'histoire d'une jeune femme qui s'ouvre &#224; la vie en devenant com&#233;dienne. Le th&#233;&#226;tre est de nouveau au coeur de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=52633" rel="aco:more" typeof="aco:Movie" about="[movie:52633]"&gt;L&#233;o en jouant "Dans la compagnie des hommes"&lt;/a&gt;, film quasi-exp&#233;rimental qui int&#232;gre au r&#233;cit (une pi&#232;ce d'&lt;a class="apilink" href="http://api.allocine.fr/person?code=90979" rel="aco:more" typeof="aco:Person" about="[person:90979]"&gt;Edward Bond&lt;/a&gt;) les r&#233;p&#233;titions des com&#233;diens tourn&#233;es en vid&#233;o. La m&#234;me ann&#233;e, il retrouve deux de ses acteurs-f&#233;tiches &lt;a class="apilink" href="http://api.allocine.fr/person?code=2376" rel="aco:more" typeof="aco:Person" about="[person:2376]"&gt;Emmanuelle Devos&lt;/a&gt; et &lt;a class="apilink" href="http://api.allocine.fr/person?code=16966" rel="aco:more" typeof="aco:Person" about="[person:16966]"&gt;Mathieu Amalric&lt;/a&gt; pour le virtuose &lt;a class="apilink" href="http://api.allocine.fr/movie?code=55662" rel="aco:more" typeof="aco:Movie" about="[movie:55662]"&gt;Rois et reine&lt;/a&gt;, oeuvre tragi-comique pr&#233;sent&#233;e &#224; Venise et laur&#233;ate du Prix Louis-Delluc.&lt;br/&gt;&lt;br/&gt;Th&#232;me de pr&#233;dilection du cin&#233;aste, la famille, ses secrets et ses n&#233;vroses, est au coeur de son tout premier documentaire (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=130271" rel="aco:more" typeof="aco:Movie" about="[movie:130271]"&gt;L'Aim&#233;e&lt;/a&gt;, 2007), et de son film suivant &lt;a class="apilink" href="http://api.allocine.fr/movie?code=126483" rel="aco:more" typeof="aco:Movie" about="[movie:126483]"&gt;Un conte de No&#235;l&lt;/a&gt;, nouveau film-fleuve &#224; la distribution &#233;tincelante (&lt;a class="apilink" href="http://api.allocine.fr/person?code=191" rel="aco:more" typeof="aco:Person" about="[person:191]"&gt;Catherine Deneuve&lt;/a&gt;, &lt;a class="apilink" href="http://api.allocine.fr/person?code=16966" rel="aco:more" typeof="aco:Person" about="[person:16966]"&gt;Mathieu Amalric&lt;/a&gt;, &lt;a class="apilink" href="http://api.allocine.fr/person?code=2161" rel="aco:more" typeof="aco:Person" about="[person:2161]"&gt;Anne Consigny&lt;/a&gt;...), pr&#233;sent&#233; en 2008 au Festival de Cannes.&lt;/p&gt;&#13;
+&lt;p style="text-align: justify;"&gt;Cinq ans plus tard, Desplechin est de retour sur la croisette avec &lt;a class="apilink" href="http://api.allocine.fr/movie?code=208939" rel="aco:more" typeof="aco:Movie" about="[movie:208939]"&gt;Jimmy P. (Psychoth&#233;rapie d'un Indien des Plaines)&lt;/a&gt;, son premier film tourn&#233; aux Etats-Unis. Le sc&#233;nario du long m&#233;trage est adapt&#233; du livre de &lt;a class="apilink" href="http://api.allocine.fr/person?code=583180" rel="aco:more" typeof="aco:Person" about="[person:583180]"&gt;Georges Devereux&lt;/a&gt;, &lt;i&gt;Psychoth&#233;raphie d'un Indien des Plaines&lt;/i&gt;, et le r&#233;alisateur y dirige &#224; nouveau &lt;a class="apilink" href="http://api.allocine.fr/person?code=16966" rel="aco:more" typeof="aco:Person" about="[person:16966]"&gt;Mathieu Amalric&lt;/a&gt;, et pour la premi&#232;re fois l'impressionnant &lt;a class="apilink" href="http://api.allocine.fr/person?code=19779" rel="aco:more" typeof="aco:Person" about="[person:19779]"&gt;Benicio Del Toro&lt;/a&gt;.&lt;/p&gt;</biograhy>
+      <nationalities>
+        <nationality name="France"/>
+      </nationalities>
     </person>
     <person>
       <code>766412</code>
@@ -3231,15 +3234,6 @@
       <nationalities/>
     </person>
     <person>
-      <code>11882</code>
-      <name>Paradis Vanessa</name>
-      <gender>female</gender>
-      <biograhy>R&#233;v&#233;l&#233;e &#224; 14 ans par la chanson &lt;i&gt;Joe le Taxi&lt;/i&gt; qui triomphe dans les hit-parades durant tout l'&#233;t&#233; 1987, Vanessa Paradis fait ses premiers pas au cin&#233;ma, parrain&#233;e par son oncle, le com&#233;dien &lt;a class="apilink" href="http://api.allocine.fr/person?code=13196" rel="aco:more" typeof="aco:Person" about="[person:13196]"&gt;Didier Pain&lt;/a&gt;, dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=5118" rel="aco:more" typeof="aco:Movie" about="[movie:5118]"&gt;Noce blanche&lt;/a&gt; de &lt;a class="apilink" href="http://api.allocine.fr/person?code=9179" rel="aco:more" typeof="aco:Person" about="[person:9179]"&gt;Jean-Claude Brisseau&lt;/a&gt;. Sa composition passionn&#233;e d'adolescente fragile et amoureuse de son professeur (&lt;a class="apilink" href="http://api.allocine.fr/person?code=4637" rel="aco:more" typeof="aco:Person" about="[person:4637]"&gt;Bruno Cr&#233;mer&lt;/a&gt;) lui vaut d&#233;j&#224; le C&#233;sar du meilleur espoir f&#233;minin en 1990.&lt;br/&gt;&lt;br/&gt;Tout en poursuivant sa carri&#232;re de chanteuse -elle enregistre notamment un album avec &lt;a class="apilink" href="http://api.allocine.fr/person?code=2227" rel="aco:more" typeof="aco:Person" about="[person:2227]"&gt;Serge Gainsbourg&lt;/a&gt;-, Vanessa Paradis revient au cin&#233;ma en 1994 sous la direction de &lt;a class="apilink" href="http://api.allocine.fr/person?code=5488" rel="aco:more" typeof="aco:Person" about="[person:5488]"&gt;Jean Becker&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=11477" rel="aco:more" typeof="aco:Movie" about="[movie:11477]"&gt;Elisa&lt;/a&gt;, un film dont le titre fait justement r&#233;f&#233;rence &#224; une chanson-phare de l'homme &#224; t&#234;te de chou. Ce &lt;i&gt;road-movie&lt;/i&gt; dans lequel elle incarne une jeune fille &#224; la recherche de son p&#232;re (&lt;a class="apilink" href="http://api.allocine.fr/person?code=630" rel="aco:more" typeof="aco:Person" about="[person:630]"&gt;G&#233;rard Depardieu&lt;/a&gt;) conna&#238;t un gros succ&#232;s public. Apr&#232;s avoir crois&#233; &lt;a class="apilink" href="http://api.allocine.fr/person?code=398" rel="aco:more" typeof="aco:Person" about="[person:398]"&gt;Jeanne Moreau&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=13893" rel="aco:more" typeof="aco:Movie" about="[movie:13893]"&gt;Un amour de sorci&#232;re&lt;/a&gt;, Vanessa Paradis arbitre les retrouvailles de &lt;a class="apilink" href="http://api.allocine.fr/person?code=114" rel="aco:more" typeof="aco:Person" about="[person:114]"&gt;Belmondo&lt;/a&gt; et &lt;a class="apilink" href="http://api.allocine.fr/person?code=1920" rel="aco:more" typeof="aco:Person" about="[person:1920]"&gt;Delon&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=16718" rel="aco:more" typeof="aco:Movie" about="[movie:16718]"&gt;Une chance sur deux&lt;/a&gt; de &lt;a class="apilink" href="http://api.allocine.fr/person?code=1049" rel="aco:more" typeof="aco:Person" about="[person:1049]"&gt;Patrice Leconte&lt;/a&gt;, un cin&#233;aste qui lui offre ensuite le r&#244;le d'Ad&#232;le, jeune femme paum&#233;e et suicidaire dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=10044" rel="aco:more" typeof="aco:Movie" about="[movie:10044]"&gt;La Fille sur le pont&lt;/a&gt; en 1999 : l'actrice livre, face &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=5390" rel="aco:more" typeof="aco:Person" about="[person:5390]"&gt;Daniel Auteuil&lt;/a&gt;, une de ses prestations les plus remarqu&#233;es dans cette &#339;uvre po&#233;tique et sophistiqu&#233;e.&lt;br/&gt;&lt;br/&gt;Formant &#224; la ville un couple tr&#232;s &lt;i&gt;glamour&lt;/i&gt; avec le c&#233;l&#232;bre acteur am&#233;ricain &lt;a class="apilink" href="http://api.allocine.fr/person?code=12839" rel="aco:more" typeof="aco:Person" about="[person:12839]"&gt;Johnny Depp&lt;/a&gt;, la chanteuse et com&#233;dienne, longtemps absente des &#233;crans de cin&#233;ma, r&#233;appara&#238;t en 2004 dans le d&#233;lirant &lt;a class="apilink" href="http://api.allocine.fr/movie?code=48353" rel="aco:more" typeof="aco:Movie" about="[movie:48353]"&gt;Atomik circus : le retour de James Bataille&lt;/a&gt;. Prostitu&#233;e au grand c&#339;ur dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=54485" rel="aco:more" typeof="aco:Movie" about="[movie:54485]"&gt;Mon ange&lt;/a&gt; (2005), le premier long-m&#233;trage de &lt;a class="apilink" href="http://api.allocine.fr/person?code=51582" rel="aco:more" typeof="aco:Person" about="[person:51582]"&gt;Serge Frydman&lt;/a&gt; (sc&#233;nariste-f&#233;tiche de &lt;a class="apilink" href="http://api.allocine.fr/person?code=1049" rel="aco:more" typeof="aco:Person" about="[person:1049]"&gt;Leconte&lt;/a&gt;), elle rejoint ensuite la brillante distribution de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=112349" rel="aco:more" typeof="aco:Movie" about="[movie:112349]"&gt;La Clef&lt;/a&gt;, le polar de &lt;a class="apilink" href="http://api.allocine.fr/person?code=26856" rel="aco:more" typeof="aco:Person" about="[person:26856]"&gt;Guillaume Nicloux&lt;/a&gt; (2007). Pr&#233;f&#233;rant revenir &#224; la musique, elle d&#233;laisse quelques temps le cin&#233;ma avant d'y revenir en 2010. Apr&#232;s avoir enregistr&#233; une chanson sur la bande originale du film &lt;a class="apilink" href="http://api.allocine.fr/movie?code=138822" rel="aco:more" typeof="aco:Movie" about="[movie:138822]"&gt;Thelma, Louise et Chantal&lt;/a&gt;, elle partage l'affiche avec &lt;a class="apilink" href="http://api.allocine.fr/person?code=17028" rel="aco:more" typeof="aco:Person" about="[person:17028]"&gt;Romain Duris&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=148441" rel="aco:more" typeof="aco:Movie" about="[movie:148441]"&gt;L'Arnacoeur&lt;/a&gt;, grand succ&#232;s public qui la remet dans le c&#339;ur d'une nouvelle g&#233;n&#233;ration de cin&#233;philes.&lt;br/&gt;&lt;br/&gt;Port&#233;e par cet &#233;lan, elle fait vibrer sa voix enchanteresse pour le film d'animation &lt;a class="apilink" href="http://api.allocine.fr/movie?code=112337" rel="aco:more" typeof="aco:Movie" about="[movie:112337]"&gt;Un monstre &#224; Paris&lt;/a&gt;, o&#249; elle retrouve &lt;a class="apilink" href="http://api.allocine.fr/person?code=90662" rel="aco:more" typeof="aco:Person" about="[person:90662]"&gt;Mathieu Ch&#233;did&lt;/a&gt; apr&#232;s l'exp&#233;rience du &lt;a class="apilink" href="http://api.allocine.fr/movie?code=126902" rel="aco:more" typeof="aco:Movie" about="[movie:126902]"&gt;Soldat Rose&lt;/a&gt;. En 2012, elle privil&#233;gie les drames plus intimistes, avec le poignant &lt;a class="apilink" href="http://api.allocine.fr/movie?code=182049" rel="aco:more" typeof="aco:Movie" about="[movie:182049]"&gt;Caf&#233; de Flore&lt;/a&gt; et le tr&#232;s juste &lt;a class="apilink" href="http://api.allocine.fr/movie?code=205972" rel="aco:more" typeof="aco:Movie" about="[movie:205972]"&gt;Je me suis fait tout petit&lt;/a&gt; dans un premier temps, puis &lt;a class="apilink" href="http://api.allocine.fr/movie?code=10675" rel="aco:more" typeof="aco:Movie" about="[movie:10675]"&gt;Cornouaille&lt;/a&gt;, r&#233;alis&#233; par &lt;a class="apilink" href="http://api.allocine.fr/person?code=18013" rel="aco:more" typeof="aco:Person" about="[person:18013]"&gt;Anne Le Ny&lt;/a&gt;. La m&#234;me ann&#233;e, elle rompt avec son c&#233;l&#232;bre compagnon &lt;a class="apilink" href="http://api.allocine.fr/person?code=12839" rel="aco:more" typeof="aco:Person" about="[person:12839]"&gt;Johnny Depp&lt;/a&gt;, apr&#232;s quatorze ann&#233;es d'une belle histoire.</biograhy>
-      <nationalities>
-        <nationality name="France"/>
-      </nationalities>
-    </person>
-    <person>
       <code>223820</code>
       <name>Ribas Carla</name>
       <gender>female</gender>
@@ -3286,15 +3280,6 @@
       <nationalities/>
     </person>
     <person>
-      <code>675127</code>
-      <name>Shahabi Katayoon</name>
-      <gender>female</gender>
-      <biograhy></biograhy>
-      <nationalities>
-        <nationality name="Iran"/>
-      </nationalities>
-    </person>
-    <person>
       <code>167522</code>
       <name>Jouneaux J&#233;r&#244;me</name>
       <gender>male</gender>
@@ -3332,16 +3317,6 @@
       <gender>other</gender>
       <biograhy></biograhy>
       <nationalities/>
-    </person>
-    <person>
-      <code>88478</code>
-      <name>Mikkelsen Mads</name>
-      <gender>male</gender>
-      <biograhy>&lt;div style="text-align: left;"&gt;Apr&#232;s une d&#233;cennie pass&#233;e &#224; s'illustrer dans les salles de th&#233;&#226;tres de son Danemark natal, Mads Mikkelsen d&#233;bute sur grand &#233;cran &#224; l'&#226;ge de trente ans, au milieu des ann&#233;es 90. Accompagnant l'explosion de l'industrie cin&#233;matographique danoise, il se r&#233;v&#232;le en junkie au g&#233;n&#233;rique du sombre &lt;a class="apilink" href="http://api.allocine.fr/movie?code=111044" rel="aco:more" typeof="aco:Movie" about="[movie:111044]"&gt;Pusher&lt;/a&gt; en 1996 (il reprendra son r&#244;le dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=108297" rel="aco:more" typeof="aco:Movie" about="[movie:108297]"&gt;Pusher II&lt;/a&gt; huit ans plus tard), puis devient une valeur s&#251;re du cin&#233;ma scandinave. Il est ainsi &#224; l'affiche, entre autres, de la s&#233;rie polici&#232;re &lt;i&gt;Unit 1&lt;/i&gt;, de la com&#233;die polici&#232;re &lt;a class="apilink" href="http://api.allocine.fr/movie?code=33891" rel="aco:more" typeof="aco:Movie" about="[movie:33891]"&gt;Lumi&#232;res dansantes&lt;/a&gt; (2000) ou encore de la com&#233;die romantique &lt;a class="apilink" href="http://api.allocine.fr/movie?code=49506" rel="aco:more" typeof="aco:Movie" about="[movie:49506]"&gt;Open hearts&lt;/a&gt; (2001).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Apr&#232;s avoir donn&#233; la r&#233;plique &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=630" rel="aco:more" typeof="aco:Person" about="[person:630]"&gt;G&#233;rard Depardieu&lt;/a&gt; dans le drame &lt;a class="apilink" href="http://api.allocine.fr/movie?code=29226" rel="aco:more" typeof="aco:Movie" about="[movie:29226]"&gt;Dina&lt;/a&gt; (2002), Mads Mikkelsen, acteur au visage fatigu&#233; et t&#233;n&#233;breux, s'exporte &#224; l'&#233;tranger. En 2003, il est &#224; l'affiche de la production dano-espagnole &lt;a class="apilink" href="http://api.allocine.fr/movie?code=54439" rel="aco:more" typeof="aco:Movie" about="[movie:54439]"&gt;Torremolinos 73&lt;/a&gt;. L'ann&#233;e suivante, alors qu'il est l'un des d&#233;jant&#233;s &lt;a class="apilink" href="http://api.allocine.fr/movie?code=57423" rel="aco:more" typeof="aco:Movie" about="[movie:57423]"&gt;Bouchers verts&lt;/a&gt;, il franchit un cap suppl&#233;mentaire et d&#233;couvre Hollywood en incarnant Tristan dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=50356" rel="aco:more" typeof="aco:Movie" about="[movie:50356]"&gt;Le Roi Arthur&lt;/a&gt; d'&lt;a class="apilink" href="http://api.allocine.fr/person?code=26888" rel="aco:more" typeof="aco:Person" about="[person:26888]"&gt;Antoine Fuqua&lt;/a&gt;. En 2006, son physique intriguant devient, presque logiquement, l'&#233;crin parfait d'un m&#233;chant de la saga James Bond : il est ainsi Le Chiffre dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=58525" rel="aco:more" typeof="aco:Movie" about="[movie:58525]"&gt;Casino Royale&lt;/a&gt;, nouveau volet de la franchise qui le voit affronter le nouvel agent 007 &lt;a class="apilink" href="http://api.allocine.fr/person?code=27049" rel="aco:more" typeof="aco:Person" about="[person:27049]"&gt;Daniel Craig&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;En 2009, Mads Mikkelsen incarne le compositeur et chef d'orchestre russe dans le &lt;a class="apilink" href="http://api.allocine.fr/movie?code=138013" rel="aco:more" typeof="aco:Movie" about="[movie:138013]"&gt;Coco Chanel &amp; Igor Stravinsky&lt;/a&gt; de &lt;a class="apilink" href="http://api.allocine.fr/person?code=10688" rel="aco:more" typeof="aco:Person" about="[person:10688]"&gt;Jan Kounen&lt;/a&gt;, o&#249; il donne la r&#233;plique &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=26883" rel="aco:more" typeof="aco:Person" about="[person:26883]"&gt;Anna Mouglalis&lt;/a&gt;. En 2010, il est le guerrier muet et sauvage du film d'aventure danois &lt;a class="apilink" href="http://api.allocine.fr/movie?code=131751" rel="aco:more" typeof="aco:Movie" about="[movie:131751]"&gt;Le Guerrier silencieux, Valhalla Rising&lt;/a&gt;, puis participe au blockbuster fantastique &lt;a class="apilink" href="http://api.allocine.fr/movie?code=127950" rel="aco:more" typeof="aco:Movie" about="[movie:127950]"&gt;Le Choc des Titans&lt;/a&gt;, sign&#233; par le Fran&#231;ais &lt;a class="apilink" href="http://api.allocine.fr/person?code=70562" rel="aco:more" typeof="aco:Person" about="[person:70562]"&gt;Louis Leterrier&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&#13;
-&lt;div style="text-align: left;"&gt;En 2012, sa performance dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=206432" rel="aco:more" typeof="aco:Movie" about="[movie:206432]"&gt;La Chasse&lt;/a&gt; de &lt;a class="apilink" href="http://api.allocine.fr/person?code=21630" rel="aco:more" typeof="aco:Person" about="[person:21630]"&gt;Thomas Vinterberg&lt;/a&gt;, o&#249; il est accus&#233; &#224; tort de p&#233;dophilie, lui vaut un prix d'interpr&#233;tation &#224; Cannes. La m&#234;me ann&#233;e sort sur les &#233;crans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=143759" rel="aco:more" typeof="aco:Movie" about="[movie:143759]"&gt;Royal Affair&lt;/a&gt;, nomm&#233; &#224; l'Oscar du Meilleur film &#233;tranger. Il devient ensuite, aux c&#244;t&#233;s de &lt;a class="apilink" href="http://api.allocine.fr/person?code=66099" rel="aco:more" typeof="aco:Person" about="[person:66099]"&gt;Hugh Dancy&lt;/a&gt;, le h&#233;ros de la s&#233;rie &lt;a class="apilink" href="http://api.allocine.fr/tvseries?code=10545" rel="aco:more" typeof="aco:TVSeries" about="[tvseries:10545]"&gt;Hannibal&lt;/a&gt;, dans laquelle il se glisse dans la peau du c&#233;l&#232;bre psychiatre cannibale.&#160;Mads Mikkelsen revient aussi &#224; Cannes pour pr&#233;senter le film d'&lt;a class="apilink" href="http://api.allocine.fr/person?code=24898" rel="aco:more" typeof="aco:Person" about="[person:24898]"&gt;Arnaud des Palli&#232;res&lt;/a&gt;, &lt;a class="apilink" href="http://api.allocine.fr/movie?code=197189" rel="aco:more" typeof="aco:Movie" about="[movie:197189]"&gt;Michael Kohlhaas&lt;/a&gt;, dont il est l'interpr&#232;te principal, et remettre, lors de la c&#233;r&#233;monie de cl&#244;ture, la Palme d'or du court m&#233;trage.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Apr&#232;s avoir camp&#233; un terrifiant mafieux dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=181402" rel="aco:more" typeof="aco:Movie" about="[movie:181402]"&gt;Charlie Countryman&lt;/a&gt;, un pionnier voulant venger sa famille dans le western &lt;a class="apilink" href="http://api.allocine.fr/movie?code=220982" rel="aco:more" typeof="aco:Movie" about="[movie:220982]"&gt;The Salvation&lt;/a&gt;&#160;et un fr&#232;re brutal mais pas si m&#233;chant dans le d&#233;jant&#233; &lt;a class="apilink" href="http://api.allocine.fr/movie?code=227956" rel="aco:more" typeof="aco:Movie" about="[movie:227956]"&gt;Men &amp; Chicken&lt;/a&gt;, l'acteur se dirige vers les grosses production hollywoodiennes. En &#233;tant le m&#233;chant du Marvel &lt;a class="apilink" href="http://api.allocine.fr/movie?code=130533" rel="aco:more" typeof="aco:Movie" about="[movie:130533]"&gt;Doctor Strange&lt;/a&gt;&#160;et en rejoignant le casting de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=218395" rel="aco:more" typeof="aco:Movie" about="[movie:218395]"&gt;Rogue One A Star Wars Story&lt;/a&gt;,&#160;spin-off de la c&#233;l&#232;bre franchise intergalactique.&lt;/div&gt;</biograhy>
-      <nationalities>
-        <nationality name="Danemark"/>
-      </nationalities>
     </person>
     <person>
       <code>524914</code>
@@ -3465,6 +3440,15 @@
       </nationalities>
     </person>
     <person>
+      <code>9685</code>
+      <name>Dunst Kirsten</name>
+      <gender>female</gender>
+      <biograhy>Kirsten Dunst d&#233;bute sa carri&#232;re &#224; l'&#226;ge de trois ans en tournant des spots publicitaires avant de devenir mannequin, notamment pour l'agence Ford. Elle fait ses premiers pas au cin&#233;ma en 1989 chez &lt;a class="apilink" href="http://api.allocine.fr/person?code=357" rel="aco:more" typeof="aco:Person" about="[person:357]"&gt;Woody Allen&lt;/a&gt;, dans le film &#224; sketches &lt;a class="apilink" href="http://api.allocine.fr/movie?code=28347" rel="aco:more" typeof="aco:Movie" about="[movie:28347]"&gt;New York stories&lt;/a&gt;. Un an plus tard, elle voit son nom cr&#233;dit&#233; pour la premi&#232;re fois au g&#233;n&#233;rique du &lt;a class="apilink" href="http://api.allocine.fr/movie?code=6552" rel="aco:more" typeof="aco:Movie" about="[movie:6552]"&gt;B&#251;cher des vanit&#233;s&lt;/a&gt;, de &lt;a class="apilink" href="http://api.allocine.fr/person?code=954" rel="aco:more" typeof="aco:Person" about="[person:954]"&gt;Brian De Palma&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;Elle n'a que douze ans lorsque &lt;a class="apilink" href="http://api.allocine.fr/person?code=12309" rel="aco:more" typeof="aco:Person" about="[person:12309]"&gt;Neil Jordan&lt;/a&gt; la choisit parmi quelques 5000 candidates pour incarner Claudia, cr&#233;ature des t&#233;n&#232;bres condamn&#233;e &#224; demeurer dans un corps d'enfant, dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=11234" rel="aco:more" typeof="aco:Movie" about="[movie:11234]"&gt;Entretien avec un vampire&lt;/a&gt;. Elle y donne la r&#233;plique &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=1722" rel="aco:more" typeof="aco:Person" about="[person:1722]"&gt;Tom Cruise&lt;/a&gt; et &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=12302" rel="aco:more" typeof="aco:Person" about="[person:12302]"&gt;Brad Pitt&lt;/a&gt; et obtient pour ce r&#244;le une nomination aux Golden Globes. Aur&#233;ol&#233;e de ce succ&#232;s pr&#233;coce, la jeune fille tourne aux c&#244;t&#233;s d'acteurs prestigieux comme &lt;a class="apilink" href="http://api.allocine.fr/person?code=1087" rel="aco:more" typeof="aco:Person" about="[person:1087]"&gt;Susan Sarandon&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=12391" rel="aco:more" typeof="aco:Movie" about="[movie:12391]"&gt;Les Quatre Filles du docteur March&lt;/a&gt;), &lt;a class="apilink" href="http://api.allocine.fr/person?code=1191" rel="aco:more" typeof="aco:Person" about="[person:1191]"&gt;Robin Williams&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=13970" rel="aco:more" typeof="aco:Movie" about="[movie:13970]"&gt;Jumanji&lt;/a&gt;) ou encore &lt;a class="apilink" href="http://api.allocine.fr/person?code=8" rel="aco:more" typeof="aco:Person" about="[person:8]"&gt;Robert De Niro&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=17370" rel="aco:more" typeof="aco:Movie" about="[movie:17370]"&gt;Des hommes d'influence&lt;/a&gt;). Elle participe &#233;galement &#224; de nombreux films d'animation, pr&#234;tant sa voix &#224; &lt;a class="apilink" href="http://api.allocine.fr/movie?code=40137" rel="aco:more" typeof="aco:Movie" about="[movie:40137]"&gt;Kiki la petite sorci&#232;re&lt;/a&gt;, &lt;a class="apilink" href="http://api.allocine.fr/movie?code=3316" rel="aco:more" typeof="aco:Movie" about="[movie:3316]"&gt;Anastasia&lt;/a&gt; ou encore Christy (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=18602" rel="aco:more" typeof="aco:Movie" about="[movie:18602]"&gt;Small Soldiers&lt;/a&gt;).&lt;br/&gt;&lt;br/&gt;1999 marque sa rencontre avec la cin&#233;aste &lt;a class="apilink" href="http://api.allocine.fr/person?code=9684" rel="aco:more" typeof="aco:Person" about="[person:9684]"&gt;Sofia Coppola&lt;/a&gt;, qui lui offre le r&#244;le de Lux Lisbon dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=3942" rel="aco:more" typeof="aco:Movie" about="[movie:3942]"&gt;Virgin suicides&lt;/a&gt;. La critique salue unanimement sa prestation de jeune fille d&#233;sesp&#233;r&#233;e dans l'Am&#233;rique des ann&#233;es 1970. Kirsten Dunst se sp&#233;cialise alors dans les com&#233;dies pour adolescents, lyc&#233;enne d&#233;termin&#233;e &#224; gagner un concours de beaut&#233; dans l&#8217;irr&#233;v&#233;rencieux &lt;a class="apilink" href="http://api.allocine.fr/movie?code=22431" rel="aco:more" typeof="aco:Movie" about="[movie:22431]"&gt;Belles &#224; mourir&lt;/a&gt;, entraineuse d'une &#233;quipe de cheerleaders dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=34132" rel="aco:more" typeof="aco:Movie" about="[movie:34132]"&gt;American girls&lt;/a&gt;, jeune fille riche voyant son histoire d'amour avec un gar&#231;on pauvre contrari&#233;e dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=35371" rel="aco:more" typeof="aco:Movie" about="[movie:35371]"&gt;Crazy/Beautiful&lt;/a&gt;. Elle acc&#232;de &#224; la gloire en 2002 en interpr&#233;tant Mary Jane Watson, la fianc&#233;e de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=29007" rel="aco:more" typeof="aco:Movie" about="[movie:29007]"&gt;Spider-Man&lt;/a&gt;, r&#244;le qu'elle reprend dans les opus suivants, &lt;a class="apilink" href="http://api.allocine.fr/movie?code=46112" rel="aco:more" typeof="aco:Movie" about="[movie:46112]"&gt;Spider-Man 2&lt;/a&gt; et &lt;a class="apilink" href="http://api.allocine.fr/movie?code=56136" rel="aco:more" typeof="aco:Movie" about="[movie:56136]"&gt;3&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;Partenaire de &lt;a class="apilink" href="http://api.allocine.fr/person?code=13593" rel="aco:more" typeof="aco:Person" about="[person:13593]"&gt;Julia Roberts&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=40141" rel="aco:more" typeof="aco:Movie" about="[movie:40141]"&gt;Le Sourire de Mona Lisa&lt;/a&gt;, de &lt;a class="apilink" href="http://api.allocine.fr/person?code=53429" rel="aco:more" typeof="aco:Person" about="[person:53429]"&gt;Jim Carrey&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=40191" rel="aco:more" typeof="aco:Movie" about="[movie:40191]"&gt;Eternal sunshine of the spotless mind&lt;/a&gt;, Kirsten Dunst joue avec son image de &lt;i&gt;girl next door&lt;/i&gt; et encha&#238;ne les com&#233;dies romantiques, s&#233;duisant &#224; l'&#233;cran &lt;a class="apilink" href="http://api.allocine.fr/person?code=64652" rel="aco:more" typeof="aco:Person" about="[person:64652]"&gt;Paul Bettany&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=51621" rel="aco:more" typeof="aco:Movie" about="[movie:51621]"&gt;La Plus belle victoire&lt;/a&gt;) et &lt;a class="apilink" href="http://api.allocine.fr/person?code=64908" rel="aco:more" typeof="aco:Person" about="[person:64908]"&gt;Orlando Bloom&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=53579" rel="aco:more" typeof="aco:Movie" about="[movie:53579]"&gt;Rencontres &#224; Elizabethtown&lt;/a&gt;). En 2006, la jeune actrice retrouve &lt;a class="apilink" href="http://api.allocine.fr/person?code=9684" rel="aco:more" typeof="aco:Person" about="[person:9684]"&gt;Sofia Coppola&lt;/a&gt; pour le long m&#233;trage &lt;a class="apilink" href="http://api.allocine.fr/movie?code=57887" rel="aco:more" typeof="aco:Movie" about="[movie:57887]"&gt;Marie-Antoinette&lt;/a&gt;, pr&#233;sent&#233; en comp&#233;tition du Festival de Cannes, dans lequel elle incarne la princesse autrichienne devenue reine de de France, portant ainsi pour la premi&#232;re fois enti&#232;rement un film sur ses &#233;paules.&lt;br/&gt;&lt;br/&gt;Avide de nouvelles exp&#233;riences, Kirsten Dunst passe derri&#232;re la cam&#233;ra et r&#233;alise deux courts m&#233;trages, &lt;a class="apilink" href="http://api.allocine.fr/movie?code=129057" rel="aco:more" typeof="aco:Movie" about="[movie:129057]"&gt;Welcome&lt;/a&gt; (2007) et &lt;a class="apilink" href="http://api.allocine.fr/movie?code=180880" rel="aco:more" typeof="aco:Movie" about="[movie:180880]"&gt;Bastard&lt;/a&gt; (2010). L'actrice trouve ensuite l'un des r&#244;les les plus forts de sa carri&#232;re : celui de l&#8217;h&#233;ro&#239;ne d&#233;prim&#233;e de l'envoutant &lt;a class="apilink" href="http://api.allocine.fr/movie?code=173873" rel="aco:more" typeof="aco:Movie" about="[movie:173873]"&gt;Melancholia&lt;/a&gt; sous la direction du sulfureux &lt;a class="apilink" href="http://api.allocine.fr/person?code=656" rel="aco:more" typeof="aco:Person" about="[person:656]"&gt;Lars von Trier&lt;/a&gt;. Elle incarne ensuite la jolie Camille dans l'adaptation de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=181593" rel="aco:more" typeof="aco:Movie" about="[movie:181593]"&gt;Sur la route&lt;/a&gt; (2012) et Regan dans la com&#233;die crue &lt;a class="apilink" href="http://api.allocine.fr/movie?code=193422" rel="aco:more" typeof="aco:Movie" about="[movie:193422]"&gt;Bachelorette&lt;/a&gt; (id.). Kirsten renoue en 2013 avec la romance dans le renversant film de SF &lt;a class="apilink" href="http://api.allocine.fr/movie?code=83585" rel="aco:more" typeof="aco:Movie" about="[movie:83585]"&gt;Upside Down&lt;/a&gt;, avant d'&#234;tre l'&#233;pouse de &lt;a class="apilink" href="http://api.allocine.fr/person?code=14369" rel="aco:more" typeof="aco:Person" about="[person:14369]"&gt;Viggo Mortensen&lt;/a&gt; convoit&#233;e par &lt;a class="apilink" href="http://api.allocine.fr/person?code=147909" rel="aco:more" typeof="aco:Person" about="[person:147909]"&gt;Oscar Isaac&lt;/a&gt; dans le thriller &lt;a class="apilink" href="http://api.allocine.fr/movie?code=195432" rel="aco:more" typeof="aco:Movie" about="[movie:195432]"&gt;The Two Faces of January&lt;/a&gt;.</biograhy>
+      <nationalities>
+        <nationality name="U.S.A."/>
+      </nationalities>
+    </person>
+    <person>
       <code>674467</code>
       <name>Roco Felix</name>
       <gender>male</gender>
@@ -3491,15 +3475,6 @@
       <gender>male</gender>
       <biograhy></biograhy>
       <nationalities/>
-    </person>
-    <person>
-      <code>6414</code>
-      <name>Golino Valeria</name>
-      <gender>female</gender>
-      <biograhy>Valeria Golino grandit entre la Gr&#232;ce et l'Italie et se lance d&#232;s ses 16 ans dans le mannequinat. Les nombreuses publicit&#233;s de sous-v&#234;tements dans lesquelles elle appara&#238;t lui permettent de tenter sa chance au cin&#233;ma. Pour ses d&#233;buts devant la cam&#233;ra, elle incarne la fille d'&lt;a class="apilink" href="http://api.allocine.fr/person?code=3909" rel="aco:more" typeof="aco:Person" about="[person:3909]"&gt;Ugo Tognazzi&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=49980" rel="aco:more" typeof="aco:Movie" about="[movie:49980]"&gt;Joke of Destiny&lt;/a&gt; (1983). N'ayant jamais suivi de cours d'art dramatique et n'ayant connu aucune exp&#233;rience th&#233;&#226;trale, l'apprentie com&#233;dienne d&#233;cide malgr&#233; tout d'abandonner ses &#233;tudes et de mettre en avant sa parfaite ma&#238;trise de l'Italien, du Grec, mais aussi de l'Anglais et du Fran&#231;ais pour multiplier les auditions. R&#233;sultat : en 1986, elle &#233;tonne le jury du Festival de Venise qui lui remet le Prix de la Meilleure actrice pour sa prestation dans la romance &lt;a class="apilink" href="http://api.allocine.fr/movie?code=49981" rel="aco:more" typeof="aco:Movie" about="[movie:49981]"&gt;Storia d'amore&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;D&#233;cid&#233;e &#224; mener une carri&#232;re internationale, cette jolie brune aux yeux clairs tourne sous la direction d'&lt;a class="apilink" href="http://api.allocine.fr/person?code=6413" rel="aco:more" typeof="aco:Person" about="[person:6413]"&gt;Alexandre Arcady&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=2546" rel="aco:more" typeof="aco:Movie" about="[movie:2546]"&gt;Dernier &#233;t&#233; &#224; Tanger&lt;/a&gt;, 1987) et de &lt;a class="apilink" href="http://api.allocine.fr/person?code=1843" rel="aco:more" typeof="aco:Person" about="[person:1843]"&gt;Randal Kleiser&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=49982" rel="aco:more" typeof="aco:Movie" about="[movie:49982]"&gt;Big top Pee-wee&lt;/a&gt;, o&#249; elle interpr&#232;te une acrobate). Mais la cons&#233;cration arrive v&#233;ritablement en 1988 lorsque le grand public l'associe &#224; la petite amie de &lt;a class="apilink" href="http://api.allocine.fr/person?code=1722" rel="aco:more" typeof="aco:Person" about="[person:1722]"&gt;Tom Cruise&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=4572" rel="aco:more" typeof="aco:Movie" about="[movie:4572]"&gt;Rain man&lt;/a&gt;. D&#232;s lors, l'actrice partage sa vie professionnelle entre les Etats-Unis et l'Italie. Au d&#233;but des ann&#233;es 90, on la retrouve dans les deux volets de la saga parodique &lt;a class="apilink" href="http://api.allocine.fr/movie?code=7173" rel="aco:more" typeof="aco:Movie" about="[movie:7173]"&gt;Hot shots !&lt;/a&gt; (1991 - 1993) aux c&#244;t&#233;s de &lt;a class="apilink" href="http://api.allocine.fr/person?code=8092" rel="aco:more" typeof="aco:Person" about="[person:8092]"&gt;Charlie Sheen&lt;/a&gt;. Elle tourne &#233;galement pour de grosses pointures du cin&#233;ma am&#233;ricain : &lt;a class="apilink" href="http://api.allocine.fr/person?code=6146" rel="aco:more" typeof="aco:Person" about="[person:6146]"&gt;Sean Penn&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=6749" rel="aco:more" typeof="aco:Movie" about="[movie:6749]"&gt;The Indian runner&lt;/a&gt;, 1991), &lt;a class="apilink" href="http://api.allocine.fr/person?code=111" rel="aco:more" typeof="aco:Person" about="[person:111]"&gt;John Frankenheimer&lt;/a&gt; qui l'imagine en terroriste dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=42741" rel="aco:more" typeof="aco:Movie" about="[movie:42741]"&gt;L'Ann&#233;e de plomb&lt;/a&gt; (1992), &lt;a class="apilink" href="http://api.allocine.fr/person?code=18917" rel="aco:more" typeof="aco:Person" about="[person:18917]"&gt;Mike Figgis&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=14215" rel="aco:more" typeof="aco:Movie" about="[movie:14215]"&gt;Leaving Las Vegas&lt;/a&gt;, 1996) ou &lt;a class="apilink" href="http://api.allocine.fr/person?code=902" rel="aco:more" typeof="aco:Person" about="[person:902]"&gt;John Carpenter&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=15333" rel="aco:more" typeof="aco:Movie" about="[movie:15333]"&gt;Los Angeles 2013&lt;/a&gt;, id.).&lt;br /&gt;&lt;br /&gt;Dans son pays d'origine, la belle s'illustre dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=9797" rel="aco:more" typeof="aco:Movie" about="[movie:9797]"&gt;Les Acrobates&lt;/a&gt; (1997), &lt;a class="apilink" href="http://api.allocine.fr/movie?code=18739" rel="aco:more" typeof="aco:Movie" about="[movie:18739]"&gt;L'Albero delle pere&lt;/a&gt; (1998) et la coproduction franco-italo-turque &lt;a class="apilink" href="http://api.allocine.fr/movie?code=21484" rel="aco:more" typeof="aco:Movie" about="[movie:21484]"&gt;Le Dernier harem&lt;/a&gt; (1999). Privil&#233;giant les r&#244;les forts du circuit ind&#233;pendant, elle campe en 2000 une lesbienne mourante dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=27683" rel="aco:more" typeof="aco:Movie" about="[movie:27683]"&gt;Ce que je sais d'elle... d'un simple regard&lt;/a&gt; et retrouve en 2001 &lt;a class="apilink" href="http://api.allocine.fr/person?code=18917" rel="aco:more" typeof="aco:Person" about="[person:18917]"&gt;Mike Figgis&lt;/a&gt; pour &lt;a class="apilink" href="http://api.allocine.fr/movie?code=35986" rel="aco:more" typeof="aco:Movie" about="[movie:35986]"&gt;Hotel&lt;/a&gt;. Deux ans apr&#232;s, elle contribue au succ&#232;s "surprise" de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=45458" rel="aco:more" typeof="aco:Movie" about="[movie:45458]"&gt;Respiro&lt;/a&gt; en apparaissant en m&#232;re c&#233;libataire fantasque rejet&#233;e par les habitants de son village. Souhaitant par la suite s'imposer sur la sc&#232;ne cin&#233;matographique fran&#231;aise, Valeria Golino encha&#238;ne les tournages sur notre territoire, alternant les genres : le polar (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=54673" rel="aco:more" typeof="aco:Movie" about="[movie:54673]"&gt;36 Quai des Orf&#232;vres&lt;/a&gt;, 2004), la com&#233;die (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=60135" rel="aco:more" typeof="aco:Movie" about="[movie:60135]"&gt;Ol&#233; !&lt;/a&gt;, &lt;a class="apilink" href="http://api.allocine.fr/movie?code=126887" rel="aco:more" typeof="aco:Movie" about="[movie:126887]"&gt;Ca$h&lt;/a&gt;) ou le drame choral (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=109739" rel="aco:more" typeof="aco:Movie" about="[movie:109739]"&gt;Ma place au soleil&lt;/a&gt;, 2007). Choisissant parfois ses r&#244;les en fonction de ses partenaires, elle accepte volontiers de donner la r&#233;plique &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=4569" rel="aco:more" typeof="aco:Person" about="[person:4569]"&gt;Nanni Moretti&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=131867" rel="aco:more" typeof="aco:Movie" about="[movie:131867]"&gt;Caos Calmo&lt;/a&gt;, film d'&lt;a class="apilink" href="http://api.allocine.fr/person?code=42929" rel="aco:more" typeof="aco:Person" about="[person:42929]"&gt;Antonello Grimaldi&lt;/a&gt; pr&#233;sent&#233; au Festival de Berlin en 2008.</biograhy>
-      <nationalities>
-        <nationality name="Italie"/>
-      </nationalities>
     </person>
     <person>
       <code>72373</code>
@@ -3729,6 +3704,15 @@
       <gender>male</gender>
       <biograhy></biograhy>
       <nationalities/>
+    </person>
+    <person>
+      <code>675127</code>
+      <name>Shahabi Katayoon</name>
+      <gender>female</gender>
+      <biograhy></biograhy>
+      <nationalities>
+        <nationality name="Iran"/>
+      </nationalities>
     </person>
     <person>
       <code>641793</code>
@@ -4032,6 +4016,16 @@
       <nationalities/>
     </person>
     <person>
+      <code>88478</code>
+      <name>Mikkelsen Mads</name>
+      <gender>male</gender>
+      <biograhy>&lt;div style="text-align: left;"&gt;Apr&#232;s une d&#233;cennie pass&#233;e &#224; s'illustrer dans les salles de th&#233;&#226;tres de son Danemark natal, Mads Mikkelsen d&#233;bute sur grand &#233;cran &#224; l'&#226;ge de trente ans, au milieu des ann&#233;es 90. Accompagnant l'explosion de l'industrie cin&#233;matographique danoise, il se r&#233;v&#232;le en junkie au g&#233;n&#233;rique du sombre &lt;a class="apilink" href="http://api.allocine.fr/movie?code=111044" rel="aco:more" typeof="aco:Movie" about="[movie:111044]"&gt;Pusher&lt;/a&gt; en 1996 (il reprendra son r&#244;le dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=108297" rel="aco:more" typeof="aco:Movie" about="[movie:108297]"&gt;Pusher II&lt;/a&gt; huit ans plus tard), puis devient une valeur s&#251;re du cin&#233;ma scandinave. Il est ainsi &#224; l'affiche, entre autres, de la s&#233;rie polici&#232;re &lt;i&gt;Unit 1&lt;/i&gt;, de la com&#233;die polici&#232;re &lt;a class="apilink" href="http://api.allocine.fr/movie?code=33891" rel="aco:more" typeof="aco:Movie" about="[movie:33891]"&gt;Lumi&#232;res dansantes&lt;/a&gt; (2000) ou encore de la com&#233;die romantique &lt;a class="apilink" href="http://api.allocine.fr/movie?code=49506" rel="aco:more" typeof="aco:Movie" about="[movie:49506]"&gt;Open hearts&lt;/a&gt; (2001).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Apr&#232;s avoir donn&#233; la r&#233;plique &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=630" rel="aco:more" typeof="aco:Person" about="[person:630]"&gt;G&#233;rard Depardieu&lt;/a&gt; dans le drame &lt;a class="apilink" href="http://api.allocine.fr/movie?code=29226" rel="aco:more" typeof="aco:Movie" about="[movie:29226]"&gt;Dina&lt;/a&gt; (2002), Mads Mikkelsen, acteur au visage fatigu&#233; et t&#233;n&#233;breux, s'exporte &#224; l'&#233;tranger. En 2003, il est &#224; l'affiche de la production dano-espagnole &lt;a class="apilink" href="http://api.allocine.fr/movie?code=54439" rel="aco:more" typeof="aco:Movie" about="[movie:54439]"&gt;Torremolinos 73&lt;/a&gt;. L'ann&#233;e suivante, alors qu'il est l'un des d&#233;jant&#233;s &lt;a class="apilink" href="http://api.allocine.fr/movie?code=57423" rel="aco:more" typeof="aco:Movie" about="[movie:57423]"&gt;Bouchers verts&lt;/a&gt;, il franchit un cap suppl&#233;mentaire et d&#233;couvre Hollywood en incarnant Tristan dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=50356" rel="aco:more" typeof="aco:Movie" about="[movie:50356]"&gt;Le Roi Arthur&lt;/a&gt; d'&lt;a class="apilink" href="http://api.allocine.fr/person?code=26888" rel="aco:more" typeof="aco:Person" about="[person:26888]"&gt;Antoine Fuqua&lt;/a&gt;. En 2006, son physique intriguant devient, presque logiquement, l'&#233;crin parfait d'un m&#233;chant de la saga James Bond : il est ainsi Le Chiffre dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=58525" rel="aco:more" typeof="aco:Movie" about="[movie:58525]"&gt;Casino Royale&lt;/a&gt;, nouveau volet de la franchise qui le voit affronter le nouvel agent 007 &lt;a class="apilink" href="http://api.allocine.fr/person?code=27049" rel="aco:more" typeof="aco:Person" about="[person:27049]"&gt;Daniel Craig&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;En 2009, Mads Mikkelsen incarne le compositeur et chef d'orchestre russe dans le &lt;a class="apilink" href="http://api.allocine.fr/movie?code=138013" rel="aco:more" typeof="aco:Movie" about="[movie:138013]"&gt;Coco Chanel &amp; Igor Stravinsky&lt;/a&gt; de &lt;a class="apilink" href="http://api.allocine.fr/person?code=10688" rel="aco:more" typeof="aco:Person" about="[person:10688]"&gt;Jan Kounen&lt;/a&gt;, o&#249; il donne la r&#233;plique &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=26883" rel="aco:more" typeof="aco:Person" about="[person:26883]"&gt;Anna Mouglalis&lt;/a&gt;. En 2010, il est le guerrier muet et sauvage du film d'aventure danois &lt;a class="apilink" href="http://api.allocine.fr/movie?code=131751" rel="aco:more" typeof="aco:Movie" about="[movie:131751]"&gt;Le Guerrier silencieux, Valhalla Rising&lt;/a&gt;, puis participe au blockbuster fantastique &lt;a class="apilink" href="http://api.allocine.fr/movie?code=127950" rel="aco:more" typeof="aco:Movie" about="[movie:127950]"&gt;Le Choc des Titans&lt;/a&gt;, sign&#233; par le Fran&#231;ais &lt;a class="apilink" href="http://api.allocine.fr/person?code=70562" rel="aco:more" typeof="aco:Person" about="[person:70562]"&gt;Louis Leterrier&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;&#13;
+&lt;div style="text-align: left;"&gt;En 2012, sa performance dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=206432" rel="aco:more" typeof="aco:Movie" about="[movie:206432]"&gt;La Chasse&lt;/a&gt; de &lt;a class="apilink" href="http://api.allocine.fr/person?code=21630" rel="aco:more" typeof="aco:Person" about="[person:21630]"&gt;Thomas Vinterberg&lt;/a&gt;, o&#249; il est accus&#233; &#224; tort de p&#233;dophilie, lui vaut un prix d'interpr&#233;tation &#224; Cannes. La m&#234;me ann&#233;e sort sur les &#233;crans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=143759" rel="aco:more" typeof="aco:Movie" about="[movie:143759]"&gt;Royal Affair&lt;/a&gt;, nomm&#233; &#224; l'Oscar du Meilleur film &#233;tranger. Il devient ensuite, aux c&#244;t&#233;s de &lt;a class="apilink" href="http://api.allocine.fr/person?code=66099" rel="aco:more" typeof="aco:Person" about="[person:66099]"&gt;Hugh Dancy&lt;/a&gt;, le h&#233;ros de la s&#233;rie &lt;a class="apilink" href="http://api.allocine.fr/tvseries?code=10545" rel="aco:more" typeof="aco:TVSeries" about="[tvseries:10545]"&gt;Hannibal&lt;/a&gt;, dans laquelle il se glisse dans la peau du c&#233;l&#232;bre psychiatre cannibale.&#160;Mads Mikkelsen revient aussi &#224; Cannes pour pr&#233;senter le film d'&lt;a class="apilink" href="http://api.allocine.fr/person?code=24898" rel="aco:more" typeof="aco:Person" about="[person:24898]"&gt;Arnaud des Palli&#232;res&lt;/a&gt;, &lt;a class="apilink" href="http://api.allocine.fr/movie?code=197189" rel="aco:more" typeof="aco:Movie" about="[movie:197189]"&gt;Michael Kohlhaas&lt;/a&gt;, dont il est l'interpr&#232;te principal, et remettre, lors de la c&#233;r&#233;monie de cl&#244;ture, la Palme d'or du court m&#233;trage.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Apr&#232;s avoir camp&#233; un terrifiant mafieux dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=181402" rel="aco:more" typeof="aco:Movie" about="[movie:181402]"&gt;Charlie Countryman&lt;/a&gt;, un pionnier voulant venger sa famille dans le western &lt;a class="apilink" href="http://api.allocine.fr/movie?code=220982" rel="aco:more" typeof="aco:Movie" about="[movie:220982]"&gt;The Salvation&lt;/a&gt;&#160;et un fr&#232;re brutal mais pas si m&#233;chant dans le d&#233;jant&#233; &lt;a class="apilink" href="http://api.allocine.fr/movie?code=227956" rel="aco:more" typeof="aco:Movie" about="[movie:227956]"&gt;Men &amp; Chicken&lt;/a&gt;, l'acteur se dirige vers les grosses production hollywoodiennes. En &#233;tant le m&#233;chant du Marvel &lt;a class="apilink" href="http://api.allocine.fr/movie?code=130533" rel="aco:more" typeof="aco:Movie" about="[movie:130533]"&gt;Doctor Strange&lt;/a&gt;&#160;et en rejoignant le casting de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=218395" rel="aco:more" typeof="aco:Movie" about="[movie:218395]"&gt;Rogue One A Star Wars Story&lt;/a&gt;,&#160;spin-off de la c&#233;l&#232;bre franchise intergalactique.&lt;/div&gt;</biograhy>
+      <nationalities>
+        <nationality name="Danemark"/>
+      </nationalities>
+    </person>
+    <person>
       <code>149379</code>
       <name>Wilson Linda</name>
       <gender>female</gender>
@@ -4138,16 +4132,6 @@
       <nationalities/>
     </person>
     <person>
-      <code>14398</code>
-      <name>Desplechin Arnaud</name>
-      <gender>male</gender>
-      <biograhy>&lt;p style="text-align: justify;"&gt;Dipl&#244;m&#233; de l'Idhec en section "r&#233;alisation et prises de vues", Arnaud Desplechin d&#233;bute comme directeur de la photo sur &lt;a class="apilink" href="http://api.allocine.fr/movie?code=6543" rel="aco:more" typeof="aco:Movie" about="[movie:6543]"&gt;Comme les doigts de la main&lt;/a&gt;, un court-m&#233;trage r&#233;alis&#233; par un autre &#233;tudiant de la c&#233;l&#232;bre &#233;cole de cin&#233;ma, &lt;a class="apilink" href="http://api.allocine.fr/person?code=11901" rel="aco:more" typeof="aco:Person" about="[person:11901]"&gt;Eric Rochant&lt;/a&gt;, puis sur &lt;a class="apilink" href="http://api.allocine.fr/movie?code=55661" rel="aco:more" typeof="aco:Movie" about="[movie:55661]"&gt;La Photo&lt;/a&gt; de &lt;a class="apilink" href="http://api.allocine.fr/person?code=126" rel="aco:more" typeof="aco:Person" about="[person:126]"&gt;Nico Papatakis&lt;/a&gt;. En 1991, il tourne &lt;a class="apilink" href="http://api.allocine.fr/movie?code=6762" rel="aco:more" typeof="aco:Movie" about="[movie:6762]"&gt;La Vie des morts&lt;/a&gt;, moyen-m&#233;trage pr&#233;sent&#233; &#224; la Semaine de Critique &#224; Cannes et r&#233;compens&#233; par le Prix Jean-Vigo. D&#232;s ce premier essai, le r&#233;alisateur, qui raconte les retrouvailles embarrass&#233;es d'une famille frapp&#233;e par un deuil, se r&#233;v&#232;le dou&#233; pour les portraits de groupe. Il dirige une troupe de jeunes acteurs, parmi lesquels &lt;a class="apilink" href="http://api.allocine.fr/person?code=2376" rel="aco:more" typeof="aco:Person" about="[person:2376]"&gt;Emmanuelle Devos&lt;/a&gt; ou &lt;a class="apilink" href="http://api.allocine.fr/person?code=14400" rel="aco:more" typeof="aco:Person" about="[person:14400]"&gt;Marianne Denicourt&lt;/a&gt;, qui ne tarderont pas &#224; s'imposer dans le cin&#233;ma fran&#231;ais. Ce film de toutes les promesses voit aussi na&#238;tre une maison de production, Why Not.&lt;br/&gt;&lt;br/&gt;Avec son premier-long m&#233;trage, &lt;a class="apilink" href="http://api.allocine.fr/movie?code=7374" rel="aco:more" typeof="aco:Movie" about="[movie:7374]"&gt;La Sentinelle&lt;/a&gt;, co&#233;crit par &lt;a class="apilink" href="http://api.allocine.fr/person?code=13470" rel="aco:more" typeof="aco:Person" about="[person:13470]"&gt;Pascale Ferran&lt;/a&gt; et &lt;a class="apilink" href="http://api.allocine.fr/person?code=6099" rel="aco:more" typeof="aco:Person" about="[person:6099]"&gt;No&#233;mie Lvovsky&lt;/a&gt;, Desplechin est propuls&#233; chef de file d'une nouvelle g&#233;n&#233;ration de r&#233;alisateurs, dont les ma&#238;tres ont pour noms &lt;a class="apilink" href="http://api.allocine.fr/person?code=324" rel="aco:more" typeof="aco:Person" about="[person:324]"&gt;Resnais&lt;/a&gt; ou &lt;a class="apilink" href="http://api.allocine.fr/person?code=629" rel="aco:more" typeof="aco:Person" about="[person:629]"&gt;Truffaut&lt;/a&gt;. Ce film d'espionnage, dans lequel une t&#234;te de mort vient r&#233;veiller les fant&#244;mes de la Guerre froide, repr&#233;sente la France au Festival de Cannes - comme ses deux films suivants. La Sentinelle vaut &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=15340" rel="aco:more" typeof="aco:Person" about="[person:15340]"&gt;Emmanuel Salinger&lt;/a&gt;, par ailleurs cosc&#233;nariste du film, le C&#233;sar du Meilleur jeune espoir masculin.&lt;br/&gt;&lt;br/&gt;&lt;i&gt;" J'ai d&#233;j&#224; fait un film pour dire du mal de ma famille (la Vie des morts), j'ai d&#233;j&#224; fait un film pour dire du mal de mon pays (La Sentinelle), maintenant, j'aimerais bien faire un film pour dire du mal de mes fianc&#233;es"&lt;/i&gt;, d&#233;clarait Desplechin aux &lt;i&gt;Inrockuptibles&lt;/i&gt; en 1996 &#224; propos de la gen&#232;se de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=14832" rel="aco:more" typeof="aco:Movie" about="[movie:14832]"&gt;Comment je me suis disput&#233;... (ma vie sexuelle)&lt;/a&gt;. Dans ce film, le r&#233;alisateur s'empare de tous les ingr&#233;dients habituels du "cin&#233;ma d'auteur fran&#231;ais " - le chass&#233;-crois&#233; amoureux, les universitaires du Quartier Latin &#8211; pour leur donner une ampleur romanesque, &#224; travers trois heures d'un r&#233;cit choral d'une grande fluidit&#233;. &lt;br/&gt;&lt;br/&gt;Choy&#233; par les critiques, Desplechin se lance ensuite un triple d&#233;fi en tournant, en anglais, un film d'&#233;poque centr&#233; sur un seul personnage. Adapt&#233; d'une nouvelle de Symons, &lt;a class="apilink" href="http://api.allocine.fr/movie?code=6702" rel="aco:more" typeof="aco:Movie" about="[movie:6702]"&gt;Esther Kahn&lt;/a&gt;, son troisi&#232;me long-m&#233;trage, raconte l'histoire d'une jeune femme qui s'ouvre &#224; la vie en devenant com&#233;dienne. Le th&#233;&#226;tre est de nouveau au coeur de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=52633" rel="aco:more" typeof="aco:Movie" about="[movie:52633]"&gt;L&#233;o en jouant "Dans la compagnie des hommes"&lt;/a&gt;, film quasi-exp&#233;rimental qui int&#232;gre au r&#233;cit (une pi&#232;ce d'&lt;a class="apilink" href="http://api.allocine.fr/person?code=90979" rel="aco:more" typeof="aco:Person" about="[person:90979]"&gt;Edward Bond&lt;/a&gt;) les r&#233;p&#233;titions des com&#233;diens tourn&#233;es en vid&#233;o. La m&#234;me ann&#233;e, il retrouve deux de ses acteurs-f&#233;tiches &lt;a class="apilink" href="http://api.allocine.fr/person?code=2376" rel="aco:more" typeof="aco:Person" about="[person:2376]"&gt;Emmanuelle Devos&lt;/a&gt; et &lt;a class="apilink" href="http://api.allocine.fr/person?code=16966" rel="aco:more" typeof="aco:Person" about="[person:16966]"&gt;Mathieu Amalric&lt;/a&gt; pour le virtuose &lt;a class="apilink" href="http://api.allocine.fr/movie?code=55662" rel="aco:more" typeof="aco:Movie" about="[movie:55662]"&gt;Rois et reine&lt;/a&gt;, oeuvre tragi-comique pr&#233;sent&#233;e &#224; Venise et laur&#233;ate du Prix Louis-Delluc.&lt;br/&gt;&lt;br/&gt;Th&#232;me de pr&#233;dilection du cin&#233;aste, la famille, ses secrets et ses n&#233;vroses, est au coeur de son tout premier documentaire (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=130271" rel="aco:more" typeof="aco:Movie" about="[movie:130271]"&gt;L'Aim&#233;e&lt;/a&gt;, 2007), et de son film suivant &lt;a class="apilink" href="http://api.allocine.fr/movie?code=126483" rel="aco:more" typeof="aco:Movie" about="[movie:126483]"&gt;Un conte de No&#235;l&lt;/a&gt;, nouveau film-fleuve &#224; la distribution &#233;tincelante (&lt;a class="apilink" href="http://api.allocine.fr/person?code=191" rel="aco:more" typeof="aco:Person" about="[person:191]"&gt;Catherine Deneuve&lt;/a&gt;, &lt;a class="apilink" href="http://api.allocine.fr/person?code=16966" rel="aco:more" typeof="aco:Person" about="[person:16966]"&gt;Mathieu Amalric&lt;/a&gt;, &lt;a class="apilink" href="http://api.allocine.fr/person?code=2161" rel="aco:more" typeof="aco:Person" about="[person:2161]"&gt;Anne Consigny&lt;/a&gt;...), pr&#233;sent&#233; en 2008 au Festival de Cannes.&lt;/p&gt;&#13;
-&lt;p style="text-align: justify;"&gt;Cinq ans plus tard, Desplechin est de retour sur la croisette avec &lt;a class="apilink" href="http://api.allocine.fr/movie?code=208939" rel="aco:more" typeof="aco:Movie" about="[movie:208939]"&gt;Jimmy P. (Psychoth&#233;rapie d'un Indien des Plaines)&lt;/a&gt;, son premier film tourn&#233; aux Etats-Unis. Le sc&#233;nario du long m&#233;trage est adapt&#233; du livre de &lt;a class="apilink" href="http://api.allocine.fr/person?code=583180" rel="aco:more" typeof="aco:Person" about="[person:583180]"&gt;Georges Devereux&lt;/a&gt;, &lt;i&gt;Psychoth&#233;raphie d'un Indien des Plaines&lt;/i&gt;, et le r&#233;alisateur y dirige &#224; nouveau &lt;a class="apilink" href="http://api.allocine.fr/person?code=16966" rel="aco:more" typeof="aco:Person" about="[person:16966]"&gt;Mathieu Amalric&lt;/a&gt;, et pour la premi&#232;re fois l'impressionnant &lt;a class="apilink" href="http://api.allocine.fr/person?code=19779" rel="aco:more" typeof="aco:Person" about="[person:19779]"&gt;Benicio Del Toro&lt;/a&gt;.&lt;/p&gt;</biograhy>
-      <nationalities>
-        <nationality name="France"/>
-      </nationalities>
-    </person>
-    <person>
       <code>773622</code>
       <name>Bani Adam Maral</name>
       <gender>female</gender>
@@ -4161,6 +4145,15 @@
       <biograhy></biograhy>
       <nationalities>
         <nationality name="Br&#233;sil"/>
+      </nationalities>
+    </person>
+    <person>
+      <code>6414</code>
+      <name>Golino Valeria</name>
+      <gender>female</gender>
+      <biograhy>Valeria Golino grandit entre la Gr&#232;ce et l'Italie et se lance d&#232;s ses 16 ans dans le mannequinat. Les nombreuses publicit&#233;s de sous-v&#234;tements dans lesquelles elle appara&#238;t lui permettent de tenter sa chance au cin&#233;ma. Pour ses d&#233;buts devant la cam&#233;ra, elle incarne la fille d'&lt;a class="apilink" href="http://api.allocine.fr/person?code=3909" rel="aco:more" typeof="aco:Person" about="[person:3909]"&gt;Ugo Tognazzi&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=49980" rel="aco:more" typeof="aco:Movie" about="[movie:49980]"&gt;Joke of Destiny&lt;/a&gt; (1983). N'ayant jamais suivi de cours d'art dramatique et n'ayant connu aucune exp&#233;rience th&#233;&#226;trale, l'apprentie com&#233;dienne d&#233;cide malgr&#233; tout d'abandonner ses &#233;tudes et de mettre en avant sa parfaite ma&#238;trise de l'Italien, du Grec, mais aussi de l'Anglais et du Fran&#231;ais pour multiplier les auditions. R&#233;sultat : en 1986, elle &#233;tonne le jury du Festival de Venise qui lui remet le Prix de la Meilleure actrice pour sa prestation dans la romance &lt;a class="apilink" href="http://api.allocine.fr/movie?code=49981" rel="aco:more" typeof="aco:Movie" about="[movie:49981]"&gt;Storia d'amore&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;D&#233;cid&#233;e &#224; mener une carri&#232;re internationale, cette jolie brune aux yeux clairs tourne sous la direction d'&lt;a class="apilink" href="http://api.allocine.fr/person?code=6413" rel="aco:more" typeof="aco:Person" about="[person:6413]"&gt;Alexandre Arcady&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=2546" rel="aco:more" typeof="aco:Movie" about="[movie:2546]"&gt;Dernier &#233;t&#233; &#224; Tanger&lt;/a&gt;, 1987) et de &lt;a class="apilink" href="http://api.allocine.fr/person?code=1843" rel="aco:more" typeof="aco:Person" about="[person:1843]"&gt;Randal Kleiser&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=49982" rel="aco:more" typeof="aco:Movie" about="[movie:49982]"&gt;Big top Pee-wee&lt;/a&gt;, o&#249; elle interpr&#232;te une acrobate). Mais la cons&#233;cration arrive v&#233;ritablement en 1988 lorsque le grand public l'associe &#224; la petite amie de &lt;a class="apilink" href="http://api.allocine.fr/person?code=1722" rel="aco:more" typeof="aco:Person" about="[person:1722]"&gt;Tom Cruise&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=4572" rel="aco:more" typeof="aco:Movie" about="[movie:4572]"&gt;Rain man&lt;/a&gt;. D&#232;s lors, l'actrice partage sa vie professionnelle entre les Etats-Unis et l'Italie. Au d&#233;but des ann&#233;es 90, on la retrouve dans les deux volets de la saga parodique &lt;a class="apilink" href="http://api.allocine.fr/movie?code=7173" rel="aco:more" typeof="aco:Movie" about="[movie:7173]"&gt;Hot shots !&lt;/a&gt; (1991 - 1993) aux c&#244;t&#233;s de &lt;a class="apilink" href="http://api.allocine.fr/person?code=8092" rel="aco:more" typeof="aco:Person" about="[person:8092]"&gt;Charlie Sheen&lt;/a&gt;. Elle tourne &#233;galement pour de grosses pointures du cin&#233;ma am&#233;ricain : &lt;a class="apilink" href="http://api.allocine.fr/person?code=6146" rel="aco:more" typeof="aco:Person" about="[person:6146]"&gt;Sean Penn&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=6749" rel="aco:more" typeof="aco:Movie" about="[movie:6749]"&gt;The Indian runner&lt;/a&gt;, 1991), &lt;a class="apilink" href="http://api.allocine.fr/person?code=111" rel="aco:more" typeof="aco:Person" about="[person:111]"&gt;John Frankenheimer&lt;/a&gt; qui l'imagine en terroriste dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=42741" rel="aco:more" typeof="aco:Movie" about="[movie:42741]"&gt;L'Ann&#233;e de plomb&lt;/a&gt; (1992), &lt;a class="apilink" href="http://api.allocine.fr/person?code=18917" rel="aco:more" typeof="aco:Person" about="[person:18917]"&gt;Mike Figgis&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=14215" rel="aco:more" typeof="aco:Movie" about="[movie:14215]"&gt;Leaving Las Vegas&lt;/a&gt;, 1996) ou &lt;a class="apilink" href="http://api.allocine.fr/person?code=902" rel="aco:more" typeof="aco:Person" about="[person:902]"&gt;John Carpenter&lt;/a&gt; (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=15333" rel="aco:more" typeof="aco:Movie" about="[movie:15333]"&gt;Los Angeles 2013&lt;/a&gt;, id.).&lt;br /&gt;&lt;br /&gt;Dans son pays d'origine, la belle s'illustre dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=9797" rel="aco:more" typeof="aco:Movie" about="[movie:9797]"&gt;Les Acrobates&lt;/a&gt; (1997), &lt;a class="apilink" href="http://api.allocine.fr/movie?code=18739" rel="aco:more" typeof="aco:Movie" about="[movie:18739]"&gt;L'Albero delle pere&lt;/a&gt; (1998) et la coproduction franco-italo-turque &lt;a class="apilink" href="http://api.allocine.fr/movie?code=21484" rel="aco:more" typeof="aco:Movie" about="[movie:21484]"&gt;Le Dernier harem&lt;/a&gt; (1999). Privil&#233;giant les r&#244;les forts du circuit ind&#233;pendant, elle campe en 2000 une lesbienne mourante dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=27683" rel="aco:more" typeof="aco:Movie" about="[movie:27683]"&gt;Ce que je sais d'elle... d'un simple regard&lt;/a&gt; et retrouve en 2001 &lt;a class="apilink" href="http://api.allocine.fr/person?code=18917" rel="aco:more" typeof="aco:Person" about="[person:18917]"&gt;Mike Figgis&lt;/a&gt; pour &lt;a class="apilink" href="http://api.allocine.fr/movie?code=35986" rel="aco:more" typeof="aco:Movie" about="[movie:35986]"&gt;Hotel&lt;/a&gt;. Deux ans apr&#232;s, elle contribue au succ&#232;s "surprise" de &lt;a class="apilink" href="http://api.allocine.fr/movie?code=45458" rel="aco:more" typeof="aco:Movie" about="[movie:45458]"&gt;Respiro&lt;/a&gt; en apparaissant en m&#232;re c&#233;libataire fantasque rejet&#233;e par les habitants de son village. Souhaitant par la suite s'imposer sur la sc&#232;ne cin&#233;matographique fran&#231;aise, Valeria Golino encha&#238;ne les tournages sur notre territoire, alternant les genres : le polar (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=54673" rel="aco:more" typeof="aco:Movie" about="[movie:54673]"&gt;36 Quai des Orf&#232;vres&lt;/a&gt;, 2004), la com&#233;die (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=60135" rel="aco:more" typeof="aco:Movie" about="[movie:60135]"&gt;Ol&#233; !&lt;/a&gt;, &lt;a class="apilink" href="http://api.allocine.fr/movie?code=126887" rel="aco:more" typeof="aco:Movie" about="[movie:126887]"&gt;Ca$h&lt;/a&gt;) ou le drame choral (&lt;a class="apilink" href="http://api.allocine.fr/movie?code=109739" rel="aco:more" typeof="aco:Movie" about="[movie:109739]"&gt;Ma place au soleil&lt;/a&gt;, 2007). Choisissant parfois ses r&#244;les en fonction de ses partenaires, elle accepte volontiers de donner la r&#233;plique &#224; &lt;a class="apilink" href="http://api.allocine.fr/person?code=4569" rel="aco:more" typeof="aco:Person" about="[person:4569]"&gt;Nanni Moretti&lt;/a&gt; dans &lt;a class="apilink" href="http://api.allocine.fr/movie?code=131867" rel="aco:more" typeof="aco:Movie" about="[movie:131867]"&gt;Caos Calmo&lt;/a&gt;, film d'&lt;a class="apilink" href="http://api.allocine.fr/person?code=42929" rel="aco:more" typeof="aco:Person" about="[person:42929]"&gt;Antonello Grimaldi&lt;/a&gt; pr&#233;sent&#233; au Festival de Berlin en 2008.</biograhy>
+      <nationalities>
+        <nationality name="Italie"/>
       </nationalities>
     </person>
     <person>

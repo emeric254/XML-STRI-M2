@@ -25,6 +25,8 @@
     <!ATTLIST person
             code CDATA #IMPLIED>
     <!ELEMENT role (#PCDATA)>
+    <!ATTLIST role
+            name CDATA #REQUIRED>
     <!ELEMENT jury (person)*>
     <!ELEMENT persons (person)*>
     <!ELEMENT gender (#PCDATA)>
