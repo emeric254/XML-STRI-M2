@@ -21,10 +21,9 @@
     <!ELEMENT genres (genre)*>
     <!ELEMENT genre (name)*>
     <!ELEMENT cast_members (person)*>
-    <!ELEMENT person (id|role|code|name|gender|biograhy|nationalities)*>
+    <!ELEMENT person (role|code|name|gender|biograhy|nationalities)*>
     <!ATTLIST person
             code CDATA #IMPLIED>
-    <!ELEMENT id (#PCDATA)>
     <!ELEMENT role (#PCDATA)>
     <!ELEMENT jury (person)*>
     <!ELEMENT persons (person)*>

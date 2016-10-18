@@ -32,8 +32,10 @@ jury_codes = {
 }
 
 for code_film in film_codes:
-    r = requests.get('http://api.allocine.fr/rest/v3/movie?partner=YW5kcm9pZC12Mg&profile=large&format=json&filter=movie&code=' + code_film)
-    if r.status_code is 200:
+    r = requests.get('http://api.allocine.fr/rest/v3/movie'
+                     '?partner=YW5kcm9pZC12Mg&profile=large&format=json&filter=movie'
+                     '&code=' + code_film)
+    if r.status_code is 200 and 'movie' in r.json():
         film_rp = r.json()['movie']
         film = {
             'title': film_rp['title'],
@@ -65,28 +67,27 @@ for code_film in film_codes:
 for code in jury_codes:
     temp_persons[code] = ''
 for code_person in temp_persons:
-    r = requests.get('http://api.allocine.fr/rest/v3/person?partner=YW5kcm9pZC12Mg&profile=large&format=json&code=' + str(code_person))
+    r = requests.get('http://api.allocine.fr/rest/v3/person'
+                     '?partner=YW5kcm9pZC12Mg&profile=large&format=json'
+                     '&code=' + str(code_person))
     if r.status_code is 200 and 'person' in r.json():
         person_rp = r.json()['person']
         person = {
             'code': person_rp['code'],
-            'name': (person_rp['name']['family'] if 'family' in person_rp['name'] else '') + ' ' + person_rp['name']['given'] if 'given' in person_rp['name'] else '',
+            'name': (person_rp['name']['family'] if 'family' in person_rp['name'] else '')
+                    + ' ' + person_rp['name']['given'] if 'given' in person_rp['name'] else '',
             'biography': person_rp['biography'] if 'biography' in person_rp else '',
             'gender': '',
             'nationalities': []
         }
         if 'gender' in person_rp:
             person['gender'] = 'male' if person_rp['gender'] is 1 else 'female'
+        else:
+            person['gender'] = 'other'
         if 'nationality' in person_rp:
             for nation in person_rp['nationality']:
                 person['nationalities'].append(nation['$'])
         persons.append(person)
-
-# debug
-print(len(films))
-print(films)
-print(len(persons))
-print(persons)
 
 # gen xml
 x_root = etree.Element('Cannes')
@@ -117,7 +118,7 @@ for film in films:
     x_cast_members = etree.SubElement(x_film, 'cast_members')
     for person in film['cast_members']:
         x_person = etree.SubElement(x_cast_members, 'person')
-        etree.SubElement(x_person, 'id').text = str(person['code'])
+        x_person.set('code', str(person['code']))
         etree.SubElement(x_person, 'role').text = str(person['role'])
 
 x_jury = etree.SubElement(x_root, 'jury')
@@ -139,31 +140,31 @@ for person in persons:
 
 x_palmares = etree.SubElement(x_root, 'palmares')
 x_prix = etree.SubElement(x_palmares, 'prix')
-x_prix.set('name', 'palme d\'or')
+x_prix.set('name', 'Palme d\'or')
 etree.SubElement(x_prix, 'film').set('code', str(241697))
 x_prix = etree.SubElement(x_palmares, 'prix')
-x_prix.set('name', 'grand prix')
+x_prix.set('name', 'Grand prix')
 etree.SubElement(x_prix, 'film').set('code', str(237510))
 x_prix = etree.SubElement(x_palmares, 'prix')
-x_prix.set('name', 'prix de la mise en scene')
+x_prix.set('name', 'Prix de la mise en scène')
 etree.SubElement(x_prix, 'film').set('code', str(241700))
 x_prix = etree.SubElement(x_palmares, 'prix')
-x_prix.set('name', 'prix de la mise en scene')
+x_prix.set('name', 'Prix de la mise en scène')
 etree.SubElement(x_prix, 'film').set('code', str(237879))
 x_prix = etree.SubElement(x_palmares, 'prix')
-x_prix.set('name', 'prix du scenario')
+x_prix.set('name', 'Prix du scénario')
 etree.SubElement(x_prix, 'film').set('code', str(245360))
 x_prix = etree.SubElement(x_palmares, 'prix')
-x_prix.set('name', 'prix du jury')
+x_prix.set('name', 'Prix du jury')
 etree.SubElement(x_prix, 'film').set('code', str(228834))
 x_prix = etree.SubElement(x_palmares, 'prix')
-x_prix.set('name', 'prix d\'interpretation feminine')
+x_prix.set('name', 'Prix d\'interprétation féminine')
 etree.SubElement(x_prix, 'film').set('code', str(246693))
 x_prix = etree.SubElement(x_palmares, 'prix')
-x_prix.set('name', 'prix d\'interpretation masculine')
+x_prix.set('name', 'Prix d\'interprétation masculine')
 etree.SubElement(x_prix, 'film').set('code', str(245360))
 x_prix = etree.SubElement(x_palmares, 'prix')
-x_prix.set('name', 'prix vulcain de l\'artiste technicien, decerne par la C.S.T')
+x_prix.set('name', 'Prix vulcain de l\'artiste technicien, décerné par la C.S.T')
 etree.SubElement(x_prix, 'film').set('code', str(231299))
 
 # export xml with pretty printing

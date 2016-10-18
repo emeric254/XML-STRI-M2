@@ -8,19 +8,7 @@
   </xs:complexType>
   <xs:complexType name="languageType">
     <xs:sequence>
-      <xs:element name="name">
-        <xs:simpleType>
-          <xs:restriction base="xs:string">
-            <xs:enumeration value="Anglais"/>
-            <xs:enumeration value="Filipino"/>
-            <xs:enumeration value="Français"/>
-            <xs:enumeration value="Farsi"/>
-            <xs:enumeration value="Roumain"/>
-            <xs:enumeration value="Portugais"/>
-            <xs:enumeration value="Coréen"/>
-          </xs:restriction>
-        </xs:simpleType>
-      </xs:element>
+      <xs:element type="xs:string" name="name"/>
     </xs:sequence>
   </xs:complexType>
   <xs:complexType name="movieType">
@@ -30,22 +18,7 @@
       <xs:element type="xs:string" name="movie_type"/>
       <xs:element type="xs:string" name="production_year"/>
       <xs:element type="xs:string" name="release_date"/>
-      <xs:element name="duration">
-        <xs:simpleType>
-          <xs:restriction base="xs:string">
-            <xs:enumeration value="5940"/>
-            <xs:enumeration value="6600"/>
-            <xs:enumeration value="5700"/>
-            <xs:enumeration value="7380"/>
-            <xs:enumeration value="6300"/>
-            <xs:enumeration value="7680"/>
-            <xs:enumeration value="9840"/>
-            <xs:enumeration value="6900"/>
-            <xs:enumeration value="8700"/>
-            <xs:enumeration value="6000"/>
-          </xs:restriction>
-        </xs:simpleType>
-      </xs:element>
+      <xs:element type="xs:string" name="duration"/>
       <xs:element type="xs:string" name="synopsis"/>
       <xs:element type="nationalitiesType" name="nationalities"/>
       <xs:element type="languagesType" name="languages"/>
@@ -91,17 +64,7 @@
   </xs:complexType>
   <xs:complexType name="genreType">
     <xs:sequence>
-      <xs:element name="name">
-        <xs:simpleType>
-          <xs:restriction base="xs:string">
-            <xs:enumeration value="Drame"/>
-            <xs:enumeration value="Fantastique"/>
-            <xs:enumeration value="Thriller"/>
-            <xs:enumeration value="Comédie"/>
-            <xs:enumeration value="Romance"/>
-          </xs:restriction>
-        </xs:simpleType>
-      </xs:element>
+      <xs:element type="xs:string" name="name"/>
     </xs:sequence>
   </xs:complexType>
   <xs:complexType name="prixType">
@@ -112,22 +75,7 @@
   </xs:complexType>
   <xs:complexType name="nationalityType" mixed="true">
     <xs:sequence>
-      <xs:element name="name" minOccurs="0">
-        <xs:simpleType>
-          <xs:restriction base="xs:string">
-            <xs:enumeration value="Grande-Bretagne"/>
-            <xs:enumeration value="France"/>
-            <xs:enumeration value="Belgique"/>
-            <xs:enumeration value="Philippines"/>
-            <xs:enumeration value="Canada"/>
-            <xs:enumeration value="Iran"/>
-            <xs:enumeration value="Roumanie"/>
-            <xs:enumeration value="U.S.A."/>
-            <xs:enumeration value="Brésil"/>
-            <xs:enumeration value="Corée du Sud"/>
-          </xs:restriction>
-        </xs:simpleType>
-      </xs:element>
+      <xs:element type="xs:string" name="name" minOccurs="0"/>
     </xs:sequence>
     <xs:attribute type="xs:string" name="name" use="optional"/>
   </xs:complexType>
@@ -143,7 +91,6 @@
   </xs:complexType>
   <xs:complexType name="personType" mixed="true">
     <xs:sequence>
-      <xs:element type="xs:string" name="id" minOccurs="0"/>
       <xs:element type="xs:string" name="role" minOccurs="0"/>
       <xs:element type="xs:string" name="code" minOccurs="0"/>
       <xs:element type="xs:string" name="name" minOccurs="0"/>
@@ -152,7 +99,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="female"/>
             <xs:enumeration value="male"/>
-            <xs:enumeration value=""/>
+            <xs:enumeration value="other"/>
           </xs:restriction>
         </xs:simpleType>
       </xs:element>
