@@ -76,7 +76,7 @@ for code_person in temp_persons:
             'nationalities': []
         }
         if 'gender' in person_rp:
-            person['gender'] = 'male' if person_rp['gender'] else 'female'
+            person['gender'] = 'male' if person_rp['gender'] is 1 else 'female'
         if 'nationality' in person_rp:
             for nation in person_rp['nationality']:
                 person['nationalities'].append(nation['$'])
@@ -95,30 +95,30 @@ x_root.set('year', '2016')
 x_movies = etree.SubElement(x_root, 'movies')
 for film in films:
     x_film = etree.SubElement(x_movies, 'movie')
-    x_film.set('title', film['title'])
-    x_film.set('movie_type', film['movie_type'])
-    x_film.set('production_year', str(film['production_year']))
-    x_film.set('release_date', film['release_date'])
-    x_film.set('duration', str(film['duration']))
-    x_sysnopsis = etree.SubElement(x_film, 'synopsis')
-    x_sysnopsis.text = film['synopsis']
+    etree.SubElement(x_film, 'code').text = str(film['code'])
+    etree.SubElement(x_film, 'title').text = film['title']
+    etree.SubElement(x_film, 'movie_type').text = film['movie_type']
+    etree.SubElement(x_film, 'production_year').text = str(film['production_year'])
+    etree.SubElement(x_film, 'release_date').text = film['release_date']
+    etree.SubElement(x_film, 'duration').text = str(film['duration'])
+    etree.SubElement(x_film, 'synopsis').text = film['synopsis']
     x_nationalities = etree.SubElement(x_film, 'nationalities')
     for nation in film['nationalities']:
         x_nation = etree.SubElement(x_nationalities, 'nationality')
-        x_nation.set('name', nation)
+        etree.SubElement(x_nation, 'name').text = nation
     x_languages = etree.SubElement(x_film, 'languages')
     for lang in film['languages']:
         x_lang = etree.SubElement(x_languages, 'language')
-        x_lang.set('name', lang)
+        etree.SubElement(x_lang, 'name').text = lang
     x_genres = etree.SubElement(x_film, 'genres')
     for genre in film['genres']:
         x_genre = etree.SubElement(x_genres, 'genre')
-        x_genre.set('name', genre)
+        etree.SubElement(x_genre, 'name').text = genre
     x_cast_members = etree.SubElement(x_film, 'cast_members')
     for person in film['cast_members']:
         x_person = etree.SubElement(x_cast_members, 'person')
-        x_person.set('id', str(person['code']))
-        x_person.set('role', str(person['role']))
+        etree.SubElement(x_person, 'id').text = str(person['code'])
+        etree.SubElement(x_person, 'role').text = str(person['role'])
 
 x_jury = etree.SubElement(x_root, 'jury')
 for code in jury_codes:
@@ -128,9 +128,9 @@ for code in jury_codes:
 x_persons = etree.SubElement(x_root, 'persons')
 for person in persons:
     x_person = etree.SubElement(x_persons, 'person')
-    x_person.set('code', str(person['code']))
-    x_person.set('name', person['name'])
-    x_person.set('gender', person['gender'])
+    etree.SubElement(x_person, 'code').text = str(person['code'])
+    etree.SubElement(x_person, 'name').text = person['name']
+    etree.SubElement(x_person, 'gender').text = person['gender']
     etree.SubElement(x_person, 'biograhy').text = person['biography']
     x_nationalities = etree.SubElement(x_person, 'nationalities')
     for nation in person['nationalities']:

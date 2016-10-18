@@ -3,36 +3,32 @@
     <!ATTLIST Cannes
             year CDATA #REQUIRED>
     <!ELEMENT movies (movie)*>
-    <!ELEMENT movie (synopsis|nationalities|languages|genres|cast_members)*>
-    <!ATTLIST movie
-            duration CDATA #REQUIRED
-            movie_type CDATA #REQUIRED
-            production_year CDATA #REQUIRED
-            release_date CDATA #REQUIRED
-            title CDATA #REQUIRED>
+    <!ELEMENT movie (code|title|movie_type|production_year|release_date|duration|synopsis|nationalities|languages|genres|cast_members)*>
+    <!ELEMENT code (#PCDATA)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT movie_type (#PCDATA)>
+    <!ELEMENT production_year (#PCDATA)>
+    <!ELEMENT release_date (#PCDATA)>
+    <!ELEMENT duration (#PCDATA)>
     <!ELEMENT synopsis (#PCDATA)>
     <!ELEMENT nationalities (nationality)*>
-    <!ELEMENT nationality (#PCDATA)>
+    <!ELEMENT nationality (name)*>
     <!ATTLIST nationality
-            name CDATA #REQUIRED>
+            name CDATA #IMPLIED>
+    <!ELEMENT name (#PCDATA)>
     <!ELEMENT languages (language)*>
-    <!ELEMENT language (#PCDATA)>
-    <!ATTLIST language
-            name CDATA #REQUIRED>
+    <!ELEMENT language (name)*>
     <!ELEMENT genres (genre)*>
-    <!ELEMENT genre (#PCDATA)>
-    <!ATTLIST genre
-            name CDATA #REQUIRED>
+    <!ELEMENT genre (name)*>
     <!ELEMENT cast_members (person)*>
-    <!ELEMENT person (biograhy|nationalities)*>
+    <!ELEMENT person (id|role|code|name|gender|biograhy|nationalities)*>
     <!ATTLIST person
-            code CDATA #IMPLIED
-            gender CDATA #IMPLIED
-            id CDATA #IMPLIED
-            name CDATA #IMPLIED
-            role CDATA #IMPLIED>
+            code CDATA #IMPLIED>
+    <!ELEMENT id (#PCDATA)>
+    <!ELEMENT role (#PCDATA)>
     <!ELEMENT jury (person)*>
     <!ELEMENT persons (person)*>
+    <!ELEMENT gender (#PCDATA)>
     <!ELEMENT biograhy (#PCDATA)>
     <!ELEMENT palmares (prix)*>
     <!ELEMENT prix (#PCDATA)>
