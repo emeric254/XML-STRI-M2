@@ -70,7 +70,7 @@ for code_person in temp_persons:
         person_rp = r.json()['person']
         person = {
             'code': person_rp['code'],
-            'name': person_rp['name']['family'] if 'family' in person_rp['name'] else '' + ' ' + person_rp['name']['given'] if 'given' in person_rp['name'] else '',
+            'name': (person_rp['name']['family'] if 'family' in person_rp['name'] else '') + ' ' + person_rp['name']['given'] if 'given' in person_rp['name'] else '',
             'biography': person_rp['biography'] if 'biography' in person_rp else '',
             'gender': '',
             'nationalities': []
@@ -140,31 +140,31 @@ for person in persons:
 x_palmares = etree.SubElement(x_root, 'palmares')
 x_prix = etree.SubElement(x_palmares, 'prix')
 x_prix.set('name', 'palme d\'or')
-x_prix.set('code', str(241697))
+etree.SubElement(x_prix, 'film').set('code', str(241697))
 x_prix = etree.SubElement(x_palmares, 'prix')
 x_prix.set('name', 'grand prix')
-x_prix.set('code', str(237510))
+etree.SubElement(x_prix, 'film').set('code', str(237510))
 x_prix = etree.SubElement(x_palmares, 'prix')
 x_prix.set('name', 'prix de la mise en scene')
-x_prix.set('code', str(241700))
+etree.SubElement(x_prix, 'film').set('code', str(241700))
 x_prix = etree.SubElement(x_palmares, 'prix')
 x_prix.set('name', 'prix de la mise en scene')
-x_prix.set('code', str(237879))
+etree.SubElement(x_prix, 'film').set('code', str(237879))
 x_prix = etree.SubElement(x_palmares, 'prix')
 x_prix.set('name', 'prix du scenario')
-x_prix.set('code', str(245360))
+etree.SubElement(x_prix, 'film').set('code', str(245360))
 x_prix = etree.SubElement(x_palmares, 'prix')
 x_prix.set('name', 'prix du jury')
-x_prix.set('code', str(228834))
+etree.SubElement(x_prix, 'film').set('code', str(228834))
 x_prix = etree.SubElement(x_palmares, 'prix')
 x_prix.set('name', 'prix d\'interpretation feminine')
-x_prix.set('code', str(246693))
+etree.SubElement(x_prix, 'film').set('code', str(246693))
 x_prix = etree.SubElement(x_palmares, 'prix')
 x_prix.set('name', 'prix d\'interpretation masculine')
-x_prix.set('code', str(245360))
+etree.SubElement(x_prix, 'film').set('code', str(245360))
 x_prix = etree.SubElement(x_palmares, 'prix')
 x_prix.set('name', 'prix vulcain de l\'artiste technicien, decerne par la C.S.T')
-x_prix.set('code', str(231299))
+etree.SubElement(x_prix, 'film').set('code', str(231299))
 
 # export xml with pretty printing
 with open('cannes.xml', mode='w', encoding='UTF-8') as file:

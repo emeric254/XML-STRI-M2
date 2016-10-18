@@ -31,8 +31,10 @@
     <!ELEMENT gender (#PCDATA)>
     <!ELEMENT biograhy (#PCDATA)>
     <!ELEMENT palmares (prix)*>
-    <!ELEMENT prix (#PCDATA)>
+    <!ELEMENT prix (film)*>
     <!ATTLIST prix
-            code CDATA #REQUIRED
             name CDATA #REQUIRED>
+    <!ELEMENT film (#PCDATA)>
+    <!ATTLIST film
+            code CDATA #REQUIRED>
 ]>
