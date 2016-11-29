@@ -120,7 +120,7 @@ for film in films:
     for person in film['cast_members']:
         x_person = etree.SubElement(x_cast_members, 'person')
         x_person.set('code', str(person['code']))
-        etree.SubElement(x_person, 'role').text = str(person['role'])
+        etree.SubElement(x_person, 'role').set('name', str(person['role']))
 
 x_jury = etree.SubElement(x_root, 'jury')
 for code in jury_codes:
