@@ -37,6 +37,7 @@ for code_film in film_codes:
                      '&code=' + code_film)
     if r.status_code is 200 and 'movie' in r.json():
         film_rp = r.json()['movie']
+        print(film_rp.keys())
         film = {
             'title': film_rp['title'],
             'code': film_rp['code'],

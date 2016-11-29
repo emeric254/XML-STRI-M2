@@ -1,0 +1,25 @@
+1. Le titre du film dans lequel a tourné Adèle HAENEL [1,5 pts]
+//film[personnages/personnage/@incarne_par=//artiste[nom='HAENEL' and prenom='Adèle']/@id]/titre
+
+2. Les films de nationalité roumaine [2,5 pts]
+//film[@pays=//pays[.='Roumanie']/@code]/titre
+
+3. Le nom de l'acteur (ou actrice) principal.e (premier cité.e) de chaque film [3 pts]
+//artiste[@id=//film/personnages/personnage[1]/@incarne_par]/nom
+
+4. Les réalisateurs également scénaristes de leur film [3 pts]
+//artiste[@id=//film/casting[contains(@scenaristes,@realisateurs)]/@realisateurs and @id=//film/casting[contains(@realisateurs,@scenaristes)]/@scenaristes]/nom
+
+5. Les personnages ayant un rôle-titre [2 pts]
+//personnage[contains(../../titre,.)]/string(.)
+
+6. Les personnages féminins des films [3 pts]
+//personnage[@incarne_par=//artiste[@sexe='F']/@id]/string(.)
+
+7. Le film comportant le plus de personnages [3 pts]
+//film[personnages/personnage/position() = max(//film/personnages/count(personnage))]/titre
+
+8. Le film dans lequel il y a le plus de personnages féminins [2 pts]
+//film[personnages/personnage[@incarne_par=//artiste[@sexe='F']/@id]/position() = max(//film/personnages/count(personnage[@incarne_par=//artiste[@sexe='F']/@id]))]/titre
+
+9. L'acteur (ou actrice) ayant joué dans deux films [0 pts]
