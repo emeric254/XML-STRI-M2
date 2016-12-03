@@ -185,7 +185,12 @@
                                         <p>
                                             Sexe :
                                             <!-- condition pour afficher correctement feminin/masculin -->
-                                            <xsl:value-of select="@sexe"/>
+											<xsl:if test="@sexe != 'M'">
+												Homme
+											</xsl:if>
+											<xsl:if test="@sexe != 'F'">
+												Femme
+											</xsl:if>
                                         </p>
                                     </div>
                                     <div class="col-md-4">
