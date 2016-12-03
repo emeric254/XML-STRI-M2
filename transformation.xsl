@@ -176,6 +176,7 @@
                             <div class="panel-heading">
                                 <h3 class="panel-title">
                                     <xsl:value-of select="nom"/>
+									&#160;
                                     <xsl:value-of select="prenom"/>
                                 </h3>
                             </div>
@@ -197,7 +198,9 @@
                                         <p>
                                             Nationalité :
                                             <!-- lien pays -->
-                                            <xsl:value-of select="@pays"/>
+											<xsl:call-template name="afficherPays">
+												<xsl:with-param name="codePays" select="./@pays" />
+											</xsl:call-template>
                                         </p>
                                     </div>
                                     <!-- condition biographie -->
@@ -245,4 +248,11 @@
 			</h4>
 		</a>       
     </xsl:template>
+	
+	<!-- Affichage Pays -->
+	<xsl:template name="afficherPays">
+		<xsl:param name="codePays"/>
+		<xsl:value-of select="//nationalites/pays[@code=$codePays]"/>
+    </xsl:template>
+
 </xsl:stylesheet>
