@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+
+<?xml-stylesheet type="text/xsl" href= "transformation.xsl" ?>
+
+<festival_cannes annee="2016">
+
+	<!-- nationalités des différents films, cf. https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3 -->
+	<nationalites>
+		<pays code="ZAF">Afrique du Sud</pays>
+		<pays code="DEU">Allemagne</pays>
+		<pays code="ARG">Argentine</pays>
+		<pays code="AUS">Australie</pays>
+		<pays code="AUT">Austriche</pays>
+		<pays code="BEL">Belgique</pays>
+		<pays code="BRA">Brésil</pays>
+		<pays code="CAN">Canada</pays>
+		<pays code="KOR">Corée du Sud</pays>
+		<pays code="DNK">Danemark</pays>
+		<pays code="ESP">Espagne</pays>
+		<pays code="ETH">Éthiopie</pays>
+		<pays code="USA">États-Unis</pays>
+		<pays code="FRA">France</pays>
+		<pays code="HUN">Hongrie</pays>
+		<pays code="IRN">Iran</pays>
+		<pays code="ITA">Italie</pays>
+		<pays code="NZL">Nouvelle-Zélande</pays>
+		<pays code="NLD">Pays-Bas</pays>
+		<pays code="PHL">Philippines</pays>
+		<pays code="ROU">Roumanie</pays>
+		<pays code="GBR">Royaume-Uni</pays>
+		<pays code="SWE">Suède</pays>
+	</nationalites>
+
+	<artistes>
+		<artiste id="TeAb" sexe="F" pays="USA">
+			<prenom>Terri</prenom>
+			<nom>ABNEY</nom>
+		</artiste>
+		<artiste id="MaAd" sexe="F" pays="DEU">
+			<prenom>Maren</prenom>
+			<nom>ADE</nom>
+		</artiste>
+		<artiste id="ShAg" sexe="F" pays="IRN">
+			<prenom>Shirin</prenom>
+			<nom>AGHAKASHI</nom>
+		</artiste>
+		<artiste id="TaAl" sexe="F" pays="IRN">
+			<prenom>Taraneh</prenom>
+			<nom>ALIDOOSTI</nom>
+		</artiste>
+		<artiste id="PeAl" sexe="M" pays="ESP">
+			<prenom>Pedro</prenom>
+			<nom>ALMODÓVAR</nom>
+			<biographie>
+				De nationalité espagnole. Né en 1951 à Calzada de Calatrava (Espagne). 1980 : Pepi, Luci, Bom y otras chicas del Monton (Pepi, Luci, Bom et les autres) 1982 : Laberinto de pasiones (Le labyrinthe des passions) 1983 : Entre tinieblas (Dans les ténèbres) 1984/85 : Que he hecho yo para merecer esto?! (Qu'est-ce que j'ai fait pour mériter ça ?!) 1985/86 : Matador 1987 : Mujeres al borde de un ataque de nervios (Femmes au bord de la crise de nerfs) 1986 : La ley del deseo (La loi du désir) 1989 : Atame (Attache-moi) 1991 : Tacones lejanos (Talons aiguilles) 1993 : Kika 1995 : La flor de mi secreto (La fleur de mon secret) 1997 : Carne trémula (En chair et en os) 
+			</biographie>
+		</artiste>
+		<artiste id="MEAn" sexe="F" pays="ROU">
+			<prenom>Mara Elena</prenom>
+			<nom>ANDREI</nom>
+		</artiste>
+		<artiste id="JoAn" sexe="M" pays="PHL">
+			<prenom>Jomari</prenom>
+			<nom>ANGELES</nom>
+		</artiste>
+		<artiste id="MiAp" sexe="F" pays="ROU">
+			<prenom>Mirela</prenom>
+			<nom>APOSTU</nom>
+		</artiste>
+		<artiste id="AnAr" sexe="F" pays="GBR">
+			<prenom>Andrea</prenom>
+			<nom>ARNOLD</nom>
+		</artiste>
+		<artiste id="SaAs" sexe="F" pays="IRN">
+			<prenom>Sahra</prenom>
+			<nom>ASADOLLAHE</nom>
+		</artiste>
+		<artiste id="OlAs" sexe="M" pays="FRA">
+			<prenom>Olivier</prenom>
+			<nom>ASSAYAS</nom>
+			<biographie>
+				Olivier Assayas est l’auteur d’une quinzaine de films. Après des études littéraires et artistiques, il réalise des court-métrages, collabore à des scénarios, notamment pour André Téchiné ("Rendez-Vous", "Le Lieu du crime") et écrit aux Cahiers du Cinéma (1980-85). Il est aussi l’auteur d’un livre d’entretiens avec Ingmar Bergman. Son premier film, "Désordre", primé à Venise (1986) l’impose comme l’un des cinéastes marquants de sa génération; "L’Eau froide" (1994) et "Irma Vep" (1996), présentés à Cannes, lui apportent une grande notoriété. Il est en Compétition au Festival de Cannes avec "Les Destinées sentimentales", "demonlover" et "Clean"qui vaudra à Maggie Cheung un Prix d’Interprétation Féminine. Le succès de ses deux derniers films, "L’Heure d’été" et "Carlos", récompensés par de nombreux prix internationaux, font de lui l’un des cinéastes français les plus reconnus. 
+			</biographie>
+		</artiste>
+		<artiste id="StBa" sexe="M" pays="FRA">
+			<prenom>Stéphane</prenom>
+			<nom>BAK</nom>
+		</artiste>
+		<artiste id="MaBA" sexe="F" pays="IRN">
+			<prenom>Maral</prenom>
+			<nom>BANI ADAM</nom>
+		</artiste>
+		<artiste id="JaBa" sexe="M" pays="ESP">
+			<prenom>Javier</prenom>
+			<nom>BARDEM</nom>
+		</artiste>
+		<artiste id="JoBa" sexe="M" pays="USA">
+			<prenom>Jon</prenom>
+			<nom>BASS</nom>
+		</artiste>
+		<artiste id="NaBa" sexe="F" pays="FRA">
+			<prenom>Nathalie</prenom>
+			<nom>BAYE</nom>
+		</artiste>
+		<artiste id="ChrBe" sexe="M" pays="DEU">
+			<prenom>Christian</prenom>
+			<nom>BERKEL</nom>
+		</artiste>
+		<artiste id="ChaBe" sexe="M" pays="FRA">
+			<prenom>Charles</prenom>
+			<nom>BERLING</nom>
+		</artiste>
+		<artiste id="DaBi" sexe="M" pays="USA">
+			<prenom>David</prenom>
+			<nom>BIRKE</nom>
+		</artiste>
+		<artiste id="JoBl" sexe="M" pays="BEL">
+			<prenom>Jonas</prenom>
+			<nom>BLOQUET</nom>
+		</artiste>
+		<artiste id="SoBr" sexe="F" pays="BRA">
+			<prenom>Sonia</prenom>
+			<nom>BRAGA</nom>
+		</artiste>
+		<artiste id="JuBe" sexe="F" pays="BRA">
+			<prenom>Julia</prenom>
+			<nom>BERNAT</nom>
+		</artiste>
+		<artiste id="JuBi" sexe="F" pays="FRA">
+			<prenom>Juliette</prenom>
+			<nom>BINOCHE</nom>
+		</artiste>
+		<artiste id="DaBo" sexe="M" pays="FRA">
+			<prenom>Damien</prenom>
+			<nom>BONNARD</nom>
+		</artiste>
+		<artiste id="OlBo" sexe="M" pays="FRA">
+			<prenom>Olivier</prenom>
+			<nom>BONNAUD</nom>
+		</artiste>
+		<artiste id="AuBo" sexe="F" pays="FRA">
+			<prenom>Audrey</prenom>
+			<nom>BONNET</nom>
+		</artiste>
+		<artiste id="SiBo" sexe="F" pays="FRA">
+			<prenom>Sigrid</prenom>
+			<nom>BOUAZIZ</nom>
+		</artiste>
+		<artiste id="ChBo" sexe="M" pays="FRA">
+			<prenom>Christian</prenom>
+			<nom>BOUILLETTE</nom>
+		</artiste>
+		<artiste id="AnBr" sexe="F" pays="ROU">
+			<prenom>Ana</prenom>
+			<nom>BRĂNESCU</nom>
+		</artiste>
+		<artiste id="AlBr" sexe="M" pays="FRA">
+			<prenom>Alex</prenom>
+			<nom>BRENDEMÜHL</nom>
+		</artiste>
+		<artiste id="IlBr" sexe="F" pays="ROU">
+			<prenom>Ilona</prenom>
+			<nom>BREZOIANU</nom>
+		</artiste>
+		<artiste id="VaBT" sexe="F" pays="FRA">
+			<prenom>Valeria</prenom>
+			<nom>BRUNI TEDESCHI</nom>
+			<biographie>
+				Née à Turin , Valeria Bruni-Tedeschi a suivi des cours de théâtre à l'atelier Jean Darel, les cours de Blanche Salant au Centre Américain et a fréquenté l'Ecole des Amandiers de Patrice Chéreau à Nanterre. En 1983, elle débute en parallèle à la télévision dans Paolino, la Juste cause et la bonne raison de François Reichenbach, au théâtre dans Platonov de Tchekov mis en scène par Patrice Chéreau et au cinéma. Elle n'a cessé depuis lors, entre la France et l'Italie, de mener de front théâtre, cinéma et télévision. Pour la télévision, elle tourne dans L'Amoureuse de Jacques Doillon (1988), Petites de Noémie Lvovsky (1997), au théâtre on la voit dans des pièces de Kleist mises en scène par Pierre Romans (1983). Au cinéma elle joue dans Hôtel de France de Patrice Chéreau (1987), L'Homme qui a perdu son ombre d'Alain Tanner (1991), ou accompagnant les débuts de la réalisatrice Laurence Ferreira-Barbosa, dans Les Gens normaux n'ont rien d'exceptionnel (1993) pour lequel elle reçoit de nombreux prix. Fidèle à Patrice Chéreau, elle joue dans La Reine Margot (1993), Ceux qui m'aime prendront le train (1997), accompagne Noémie Lvovsky dans Oublie moi (1993) et La Vie ne me fait pas peur (1998). On la retrouve aussi dans La Seconda Volta de Mimmo Calopresti (1995), Mon homme de Bertrand Blier (1995), Encore de Pascal Bonitzer (1996), Nénette et Boni de Claire Denis (1996), La Couleur du mensonge de Claude Chabrol (1998), La Nourrice de Marco Bellochio (1998). Elle a récemment tourné dans Rien à faire (1999) de Marion Vernoux, Voci (2000) de Franco Giraldi et Inverno de Nina di Majo (2001).
+			</biographie>
+		</artiste>
+		<artiste id="LiBu" sexe="F" pays="ROU">
+			<prenom>Lia</prenom>
+			<nom>BUGNAR</nom>
+		</artiste>
+		<artiste id="MeCa" sexe="F" pays="PHL">
+			<prenom>Mercedes</prenom>
+			<nom>CABRAL</nom>
+		</artiste>
+		<artiste id="LaCa" sexe="F" pays="FRA">
+			<prenom>Laure</prenom>
+			<nom>CALAMY</nom>
+		</artiste>
+		<artiste id="HuCa" sexe="M" pays="BRA">
+			<prenom>Humberto</prenom>
+			<nom>CARRÃO</nom>
+		</artiste>
+		<artiste id="NaCa" sexe="F" pays="FRA">
+			<prenom>Natalie</prenom>
+			<nom>CARTER</nom>
+		</artiste>
+		<artiste id="ViCa" sexe="M" pays="FRA">
+			<prenom>Vincent</prenom>
+			<nom>CASSEL</nom>
+		</artiste>
+		<artiste id="JWCh" sexe="M" pays="KOR">
+			<prenom>Jin-Woong</prenom>
+			<nom>CHO</nom>
+		</artiste>
+		<artiste id="AnCi" sexe="F" pays="ROU">
+			<prenom>Ana</prenom>
+			<nom>CIONTEA</nom>
+		</artiste>
+		<artiste id="BaCo" sexe="F" pays="BRA">
+			<prenom>Barbara</prenom>
+			<nom>COLEN</nom>
+		</artiste>
+		<artiste id="ZoCo" sexe="F" pays="BRA">
+			<prenom>Zoraide</prenom>
+			<nom>COLETO</nom>
+		</artiste>
+		<artiste id="MoCo" sexe="M" pays="PHL">
+			<prenom>Mon</prenom>
+			<nom>CONFIADO</nom>
+		</artiste>
+		<artiste id="AnCo" sexe="F" pays="FRA">
+			<prenom>Anne</prenom>
+			<nom>CONSIGNY</nom>
+		</artiste>
+		<artiste id="HuCo" sexe="M" pays="FRA">
+			<prenom>Hugo</prenom>
+			<nom>CONZELMANN</nom>
+		</artiste>
+		<artiste id="MaCo" sexe="F" pays="FRA">
+			<prenom>Marion</prenom>
+			<nom>COTILLARD</nom>
+		</artiste>
+		<artiste id="IoCr" sexe="F" pays="ROU">
+			<prenom>Ioana</prenom>
+			<nom>CRĂCIUNESCU</nom>
+		</artiste>
+		<artiste id="MaCs" sexe="M" pays="USA">
+			<prenom>Marton</prenom>
+			<nom>CSOKAS</nom>
+		</artiste>
+		<artiste id="InCu" sexe="F" pays="ESP">
+			<prenom>Inma</prenom>
+			<nom>CUESTA</nom>
+		</artiste>
+		<artiste id="AnDL" sexe="M" pays="SWE">
+			<prenom>Anders</prenom>
+			<nom>DANIELSEN LIE</nom>
+		</artiste>
+		<artiste id="JPDa" sexe="M" pays="BEL">
+			<prenom>Jean-Pierre</prenom>
+			<nom>DARDENNE</nom>
+			<biographie>
+				« La Cinéfondation, les courts métrages en Compétition, c'est la certitude de découvrir de jeunes cinéastes, de nouveaux regards qui nous aideront dans notre métier de vivre. » Jean-Pierre Dardenne est né en 1951 à Engis (Belgique). Étudiant en art dramatique, il rencontre le poète, dramaturge et metteur en scène Armand Gatti et devient son assistant. Dès 1974 il commence à tourner avec son frère Luc des vidéos militantes, des reportages sur des questions sociales, puis à produire et réaliser des documentaires à travers leur atelier de production Dérives. Ils passent à la fiction avec Falsch (1987), suivi de Je Pense à Vous (1992). Leur troisième film, La Promesse (1996), est présenté avec succès à la Quinzaine des Réalisateurs. En 1999 le Festival de Cannes sélectionne Rosetta : le jury lui attribue la Palme d’Or et le Prix d’interprétation féminine pour la jeune Émilie Dequenne. En compétition en 2002, Le Fils vaut à Olivier Gourmet le Prix d’interprétation masculine. En 2005 les frères Dardenne remportent une deuxième Palme d’Or pour L’Enfant. Le Silence de Lorna gagne le Prix du Scénario en 2008. Poursuivant leur histoire avec le Festival de Cannes, ils reçoivent le Grand Prix en 2011 pour Le Gamin au Vélo. En 1994 Jean-Pierre et Luc Dardenne ont fondé Les Films du Fleuve pour produire leurs films et ceux d’autres cinéastes. 
+			</biographie>
+		</artiste>
+		<artiste id="LuDa" sexe="M" pays="BEL">
+			<prenom>Luc</prenom>
+			<nom>DARDENNE</nom>
+		</artiste>
+		<artiste id="VaDe" sexe="M" pays="ROU">
+			<prenom>Valer</prenom>
+			<nom>DELLAKEZA</nom>
+		</artiste>
+		<artiste id="RoDP" sexe="F" pays="ESP">
+			<prenom>Rossy</prenom>
+			<nom>DE PALMA</nom>
+			<biographie>
+				Figure emblématique du cinéma espagnol et muse de Pedro Almodóvar qui la révèle en 1986 avec La Loi du désir, Rossy de Palma tourne avec lui Femmes au bord de la crise de nerfs, Attache-moi !, Kika et La Fleur de mon secret, qui lui valent deux nominations aux Goya ; et Étreintes brisées qui est sélectionné au Festival de Cannes en 2009. Sa carrière s’internationalise dès 1990, avec notamment Robert Altman, Mike Figgis, Karim Dridi (qui lui offre un Prix d’interprétation féminine au Festival de Locarno), Patrice Leconte ou encore Mehdi Charef. Artiste multidisciplinaire, Rossy de Palma séduit créateurs de mode, musiciens, plasticiens et photographes du monde entier. On la voit aussi sur les plus grandes scènes de Paris, New York et très récemment au Piccolo Teatro de Milano. Elle retrouvera bientôt Pedro Almodóvar pour son prochain film.
+			</biographie>
+		</artiste>
+		<artiste id="PaDR" sexe="F" pays="BRA">
+			<prenom>Paula</prenom>
+			<nom>DE RENOR</nom>
+		</artiste>
+		<artiste id="ArDe" sexe="M" pays="FRA">
+			<prenom>Arnaud</prenom>
+			<nom>DESPLECHIN</nom>
+			<biographie>
+				Présent en Compétition à Cannes dès son premier long métrage, La Sentinelle, il tourne ensuite Comment je me suis disputé… (ma vie sexuelle) et révèle toute une génération de comédiens. Ses interprètes sont récompensés par les plus grands prix - notamment le Prix du 61e Festival de Cannes pour Catherine Deneuve dans Un conte de Noël. En février 2016, Trois souvenirs de ma jeunesse reçoit le César du Meilleur Réalisateur. Arnaud Desplechin vient de mettre en scène avec succès Père d’August Strindberg à la Comédie-Française. 
+			</biographie>
+		</artiste>
+		<artiste id="JuDi" sexe="M" pays="PHL">
+			<prenom>Julio</prenom>
+			<nom>DIAZ</nom>
+		</artiste>
+		<artiste id="ErDi" sexe="F" pays="USA">
+			<prenom>Erin</prenom>
+			<nom>DIGNAM</nom>
+		</artiste>
+		<artiste id="DaDo" sexe="F" pays="ROU">
+			<prenom>Dana</prenom>
+			<nom>DOGARU</nom>
+		</artiste>
+		<artiste id="XaDo" sexe="M" pays="CAN">
+			<prenom>Xavier</prenom>
+			<nom>DOLAN</nom>
+			<biographie>
+				Né à Montréal, Xavier Dolan est acteur depuis l’âge de quatre ans. Il réalise à 20 ans son premier long métrage, J’ai tué ma mère, dont il est l’auteur et comédien principal. Le film remporte un succès critique international et plusieurs prix. Suivent Les Amours imaginaires et Laurence Anyways, présentés au Festival de Cannes en 2010 et 2012 en sélection officielle – Un Certain Regard, où ils reçoivent un accueil enthousiaste. En 2013, son quatrième film Tom à la ferme est projeté à la Mostra de Venise, où il reçoit le Prix FIPRESCI. Son dernier film Mommy a reçu de nombreux prix, dont le Prix du jury au dernier Festival de Cannes et le César du meilleur film étranger, et poursuit sa carrière dans le monde entier. Xavier Dolan travaille sur son prochain long métrage, The Death and Life of John F. Donovan.
+			</biographie>
+		</artiste>
+		<artiste id="MaDr" sexe="F" pays="ROU">
+			<prenom>Maria</prenom>
+			<nom>DRǍGUS</nom>
+		</artiste>
+		<artiste id="AdDr" sexe="M" pays="USA">
+			<prenom>Adam</prenom>
+			<nom>DRIVER</nom>
+		</artiste>
+		<artiste id="ViDB" sexe="F" pays="FRA">
+			<prenom>Victoire</prenom>
+			<nom>DU BOIS</nom>
+		</artiste>
+		<artiste id="BoDu" sexe="M" pays="ROU">
+			<prenom>Bogdan</prenom>
+			<nom>DUMITRACHE</nom>
+		</artiste>
+		<artiste id="BrDu" sexe="M" pays="FRA">
+			<prenom>Bruno</prenom>
+			<nom>DUMONT</nom>
+			<biographie>
+				 Bruno Dumont réalise son premier long métrage à trente huit ans : La vie de Jésus (1996), tourné à Bailleul, sa commune natale. Ce film lui vaut une reconnaissance immédiate : sélectionné à la Quinzaine des Réalisateurs, il obtient une Mention spéciale Caméra d'Or. Creusant un sillon cinématographique exigeant, singulier, brut, Bruno Dumont revient à Cannes en 1999, avec L'humanité, en Compétition. Il est récompensé par le Grand Prix et un double prix d'interprétation pour les deux acteurs non professionnels. Bruno Dumont s'éloigne du Nord de la France pour tourner dans le désert de Californie, Twentynine Palms, un road movie sélectionné à la Mostra de Venise en 2003. En 2006, Flandres, film âpre sur les ravages de la guerre, reçoit le Grand Prix au Festival de Cannes.
+			</biographie>
+		</artiste>
+		<artiste id="KiDu" sexe="F" pays="USA">
+			<prenom>Kirsten</prenom>
+			<nom>DUNST</nom>
+			<biographie>
+				Kirsten Dunst a été révélée à 11 ans dans Entretien avec un vampire de Neil Jordan, qui lui a valu une nomination aux Golden Globes. Suite à sa performance dans Virgin Suicides de Sofia Coppola, elle a su confirmer son talent dans American Girls de Peyton Reed. Elle a joué dans Spider-Man, Eternal Sunshine of the Spotless Mind de Michel Gondry, Marie Antoinette de Sofia Coppola et a remporté le Prix d’Interprétation féminine à Cannes en 2011 pour son rôle dans Melancholia de Lars von Trier. Elle joue dans Sur la route de Walter Salles et dans Two Faces of January d’Hossein Amini. Elle a reçu une nomination aux Golden Globes et un Critics’ Choice Award pour son rôle dans la série Fargo, diffusée sur FX. Récemment, elle a joué dans Midnight Special de Jeff Nichols, et elle sera bientôt à l’affiche de Woodshock de Kate et Laura Mulleavy. 
+			</biographie>
+		</artiste>
+		<artiste id="ViEf" sexe="F" pays="BEL">
+			<prenom>Virginie</prenom>
+			<nom>EFIRA</nom>
+		</artiste>
+		<artiste id="JoEd" sexe="M" pays="AUS">
+			<prenom>Joel</prenom>
+			<nom>EDGERTON</nom>
+		</artiste>
+		<artiste id="LaEi" sexe="M" pays="DEU">
+			<prenom>Lars</prenom>
+			<nom>EIDINGER</nom>
+		</artiste>
+		<artiste id="AnEi" sexe="F" pays="PHL">
+			<prenom>Andi</prenom>
+			<nom>EIGENMANN</nom>
+		</artiste>
+		<artiste id="EmEm" sexe="M" pays="IRN">
+			<prenom>Emad</prenom>
+			<nom>EMAMI</nom>
+		</artiste>
+		<artiste id="TrEs" sexe="M" pays="PHL">
+			<prenom>Troy</prenom>
+			<nom>ESPIRITU</nom>
+		</artiste>
+		<artiste id="AdEx" sexe="F" pays="FRA">
+			<prenom>Adèle</prenom>
+			<nom>EXARCHOPOULOS</nom>
+		</artiste>
+		<artiste id="ElFa" sexe="F" pays="USA">
+			<prenom>Elle</prenom>
+			<nom>FANNING</nom>
+		</artiste>
+		<artiste id="AsFa" sexe="M" pays="IRN">
+			<prenom>Asghar</prenom>
+			<nom>FARHADI</nom>
+		</artiste>
+		<artiste id="GoFa" sexe="F" pays="IRN FRA">
+			<prenom>Golshifteh</prenom>
+			<nom>FARAHANI</nom>
+		</artiste>
+		<artiste id="MAFe" sexe="M" pays="PHL">
+			<prenom>Mark Anthony</prenom>
+			<nom>FERNANDEZ</nom>
+		</artiste>
+		<artiste id="LoGa" sexe="M" pays="FRA">
+			<prenom>Louis</prenom>
+			<nom>GARREL</nom>
+		</artiste>
+		<artiste id="NiGa" sexe="F" pays="FRA">
+			<prenom>Nicole</prenom>
+			<nom>GARCIA</nom>
+			<biographie>
+				Après des études de philosophie et des cours d’art dramatique Nicole Garcia débute sa carrière au théâtre. Après un premier prix de comédie au Conservatoire, elle joue de nombreuses pièces au théâtre puis son interprétation dans le film d’Alain Resnais, "Mon oncle d’Amérique" (1979) lui donne sa place dans le cinéma français. En 1985, elle se lance dans la réalisation avec "Un week-end sur deux". Elle met en lumière un univers très personnel, où se rencontrent des personnages vibrants, complexes comme ceux joués par Gérard Lanvin dans "Le Fils préféré" (1993) ou Catherine Deneuve dans "Place Vendôme" (1997). Avec "L’Adversaire" (2002), interprété par Daniel Auteuil, et "Selon Charlie" (2005), film choral autour de sept personnages masculins, Nicole Garcia affirme ses talents de cinéaste. En 2009, elle retourne à son enfance algérienne en mettant en scène Jean Dujardin, dans "Un balcon sur la mer". Son dernier film "Un beau dimanche", qui met en scène Louise Bourgoin et Pierre Rochefort, est sorti en 2014.
+			</biographie>
+		</artiste>
+		<artiste id="BaGe" sexe="M" pays="PHL">
+			<prenom>Baron</prenom>
+			<nom>GEISLER</nom>
+		</artiste>
+		<artiste id="SiGh" sexe="F" pays="ROU">
+			<prenom>Simona</prenom>
+			<nom>GHITA</nom>
+		</artiste>
+		<artiste id="KaGl" sexe="M" pays="USA">
+			<prenom>Karl</prenom>
+			<nom>GLUSMAN</nom>
+		</artiste>
+		<artiste id="VaGo" sexe="F" pays="ITA">
+			<prenom>Valeria</prenom>
+			<nom>GOLINO</nom>
+			<biographie>
+				Née en Italie, Valeria Golino remporte dès ses débuts le Prix de la Meilleure Actrice pour son rôle dans Storia d’amore de Francesco Maselli au Festival de Venise en 1986. Sa carrière s’internationalise et on la voit notamment dans Rain Man de Barry Levinson (1988), Hot Shots! (1991), Hot Shots! 2 de Jim Abrahams (1993), Respiro d’Emanuele Crialese (2002), La guerra di Mario d’Antonio Capuano (2005), Actrices de Valeria Bruni Tedeschi (2007), Il capitale umano de Paolo Virzì (2013). En 2013, elle réalise son premier film, Miele, présenté au Festival de Cannes dans la sélection Un Certain Regard, qui reçoit le Prix du Jury Œcuménique. On vient de la voir dans Par amour de Giuseppe M. Gaudino qui récompense son interprétation à la Mostra de Venise. Elle travaille actuellement sur son prochain long métrage en tant que réalisatrice.
+			</biographie>
+		</artiste>
+		<artiste id="DarGr" sexe="M" pays="ARG">
+			<prenom>Darío</prenom>
+			<nom>GRANDINETTI</nom>
+		</artiste>
+		<artiste id="DanGr" sexe="M" pays="ESP">
+			<prenom>Daniel</prenom>
+			<nom>GRAO</nom>
+		</artiste>
+		<artiste id="MaGr" sexe="M" pays="ROU">
+			<prenom>Marin</prenom>
+			<nom>GRIGORE</nom>
+		</artiste>
+		<artiste id="AlGu" sexe="M" pays="FRA">
+			<prenom>Alain</prenom>
+			<nom>GUIRAUDIE</nom>
+		</artiste>
+		<artiste id="JWHa" sexe="M" pays="KOR">
+			<prenom>Jung-Woo</prenom>
+			<nom>HA</nom>
+		</artiste>
+		<artiste id="AdHa" sexe="F" pays="FRA">
+			<prenom>Adèle</prenom>
+			<nom>HAENEL</nom>
+		</artiste>
+		<artiste id="InHa" sexe="F" pays="FRA">
+			<prenom>India</prenom>
+			<nom>HAIR</nom>
+		</artiste>
+		<artiste id="DeHa" sexe="M" pays="USA">
+			<prenom>Desmond</prenom>
+			<nom>HARRINGTON</nom>
+		</artiste>
+		<artiste id="JaHa" sexe="M" pays="GBR">
+			<prenom>Jared</prenom>
+			<nom>HARRIS</nom>
+		</artiste>
+		<artiste id="BeHe" sexe="F" pays="AUS">
+			<prenom>Bella</prenom>
+			<nom>HEATHCOTE</nom>
+		</artiste>
+		<artiste id="ChHe" sexe="F" pays="USA">
+			<prenom>Christina</prenom>
+			<nom>HENDRICKS</nom>
+		</artiste>
+		<artiste id="ShHo" sexe="M" pays="IRN">
+			<prenom>Shahab</prenom>
+			<nom>HOSSEINI</nom>
+		</artiste>
+		<artiste id="SaHu" sexe="F" pays="DEU">
+			<prenom>Sandra</prenom>
+			<nom>HÜLLER</nom>
+		</artiste>
+		<artiste id="IsHu" sexe="F" pays="FRA">
+			<prenom>Isabelle</prenom>
+			<nom>HUPPERT</nom>
+			<biographie>
+				 Après le Conservatoire, Isabelle Huppert fait ses débuts au cinéma avec Bertrand Blier dans Les Valseuses, puis avec Bertrand Tavernier ; elle prend son envol avec La dentellière de Claude Goretta et Violette Nozière (Prix d’interprétation à Cannes) de Claude Chabrol, qu’elle retrouvera régulièrement : Une affaire de femmes, Madame Bovary, La Cérémonie. Fidèle à Benoît Jacquot, avec lequel elle fera plusieurs films dont Villa Amalia, elle tourne tant en France avec André Téchiné, Maurice Pialat, Michel Deville, Olivier Assayas, François Ozon, Olivier Dahan, Patrice Chéreau, Claire Denis, qu’à l’étranger avec Jean-Luc Godard, Mauro Bolognini, Michael Cimino, Joseph Losey, Marco Ferreri, Andrzej Wajda, Hal Hartley, les frères Taviani, Raoul Ruiz, Werner Schroeter, Michael Haneke (Prix d’interprétation à Cannes en 2001 pour La Pianiste). En 2005, une exposition « La femme aux portraits »révèle sa passion pour la photo et la montre à New York puis en Europe, sous l’objectif de 75 photographes parmi lesquels Cartier-Bresson, Robert Doisneau, Helmut Newton. Isabelle Huppert est également une grande artiste interprète de théâtre, elle a été dirigée notamment par Bob Wilson dans Orlando et récemment dans Quartett, par Claude Regy dans 4.48 Psychose et elle a joué Médée au Festival d’Avignon et Mary Stuart au Royal National Theater de Londres.
+			</biographie>
+		</artiste>
+		<artiste id="TaIe" sexe="F" pays="ROU">
+			<prenom>Tatiana</prenom>
+			<nom>IEKEL</nom>
+		</artiste>
+		<artiste id="AlIs" sexe="F" pays="FRA">
+			<prenom>Alice</prenom>
+			<nom>ISAAZ</nom>
+		</artiste>
+		<artiste id="VlIv" sexe="M" pays="ROU">
+			<prenom>Vlad</prenom>
+			<nom>IVANOV</nom>
+		</artiste>
+		<artiste id="JiJa" sexe="M" pays="USA">
+			<prenom>Jim</prenom>
+			<nom>JARMUSCH</nom>
+		</artiste>
+		<artiste id="MiJe" sexe="F" pays="ESP">
+			<prenom>Michelle</prenom>
+			<nom>JENNER</nom>
+		</artiste>
+		<artiste id="MaJi" sexe="F" pays="BRA">
+			<prenom>Maeve</prenom>
+			<nom>JINKINGS</nom>
+		</artiste>
+		<artiste id="DaJo" sexe="M" pays="GBR">
+			<prenom>Dave</prenom>
+			<nom>JOHNS</nom>
+		</artiste>
+		<artiste id="JaJo" sexe="F" pays="PHL">
+			<prenom>Jaclyn</prenom>
+			<nom>JOSE</nom>
+		</artiste>
+		<artiste id="SKJu" sexe="M" pays="KOR">
+			<prenom>Seo-Kyung</prenom>
+			<nom>JUNG</nom>
+		</artiste>
+		<artiste id="BaKa" sexe="M" pays="IRN">
+			<prenom>Babak</prenom>
+			<nom>KARIMI</nom>
+		</artiste>
+		<artiste id="RiKe" sexe="F" pays="USA">
+			<prenom>Riley</prenom>
+			<nom>KEOUGH</nom>
+		</artiste>
+		<artiste id="HSKi" sexe="F" pays="KOR">
+			<prenom>Hae-Sook</prenom>
+			<nom>KIM</nom>
+		</artiste>
+		<artiste id="MHKi" sexe="F" pays="KOR">
+			<prenom>Min-Hee</prenom>
+			<nom>KIM</nom>
+		</artiste>
+		<artiste id="TRKi" sexe="F" pays="KOR">
+			<prenom>Tae-Ri</prenom>
+			<nom>KIM</nom>
+		</artiste>
+		<artiste id="MeKo" sexe="M" pays="IRN">
+			<prenom>Mehdi</prenom>
+			<nom>KOOSHKI</nom>
+		</artiste>
+		<artiste id="NiKr" sexe="M" pays="USA">
+			<prenom>Nick</prenom>
+			<nom>KROLL</nom>
+		</artiste>
+		<artiste id="PeKu" sexe="F" pays="ROU">
+			<prenom>Petra</prenom>
+			<nom>KURTELA</nom>
+		</artiste>
+		<artiste id="SaLa" sexe="F" pays="USA">
+			<prenom>Sasha</prenom>
+			<nom>LANE</nom>
+		</artiste>
+		<artiste id="ShLa" sexe="M" pays="USA">
+			<prenom>Shia</prenom>
+			<nom>LABEOUF</nom>
+		</artiste>
+		<artiste id="LaLa" sexe="M" pays="FRA">
+			<prenom>Laurent</prenom>
+			<nom>LAFITTE</nom>
+		</artiste>
+		<artiste id="BrLa" sexe="M" pays="FRA">
+			<prenom>Brandon</prenom>
+			<nom>LAVIEVILLE</nom>
+		</artiste>
+		<artiste id="MaLa" sexe="F" pays="USA">
+			<prenom>Mary</prenom>
+			<nom>LAWS</nom>
+		</artiste>
+		<artiste id="RaLe" sexe="M" pays="FRA">
+			<prenom>Raphaël</prenom>
+			<nom>LENGLET</nom>
+		</artiste>
+		<artiste id="BuLi" sexe="M" pays="BRA">
+			<prenom>Buda</prenom>
+			<nom>LIRA</nom>
+		</artiste>
+		<artiste id="PaLa" sexe="M" pays="GBR">
+			<prenom>Paul</prenom>
+			<nom>LAVERTY</nom>
+		</artiste>
+		<artiste id="AbLe" sexe="F" pays="AUS">
+			<prenom>Abbey</prenom>
+			<nom>LEE</nom>
+		</artiste>
+		<artiste id="KeLo" sexe="M" pays="GBR">
+			<prenom>Ken</prenom>
+			<nom>LOACH</nom>
+		</artiste>
+		<artiste id="MILo" sexe="F" pays="PHL">
+			<prenom>Maria Isabel</prenom>
+			<nom>LÓPEZ</nom>
+		</artiste>
+		<artiste id="FaLu" sexe="M" pays="FRA">
+			<prenom>Fabrice</prenom>
+			<nom>LUCHINI</nom>
+		</artiste>
+		<artiste id="JuMa" sexe="F" pays="FRA">
+			<prenom>Judith</prenom>
+			<nom>MAGRE</nom>
+		</artiste>
+		<artiste id="JeMa" sexe="F" pays="USA">
+			<prenom>Jena</prenom>
+			<nom>MALONE</nom>
+		</artiste>
+		<artiste id="MaMa" sexe="F" pays="ROU">
+			<prenom>Mǎlina</prenom>
+			<nom>MANOVICI</nom>
+		</artiste>
+		<artiste id="RoMa" sexe="M" pays="ROU">
+			<prenom>Rolando</prenom>
+			<nom>MATSANGOS</nom>
+		</artiste>
+		<artiste id="ArMa" sexe="M" pays="FRA">
+			<prenom>Arthur</prenom>
+			<nom>MAZET</nom>
+		</artiste>
+		<artiste id="DPMc" sexe="M" pays="GBR">
+			<prenom>Dylan Philipp</prenom>
+			<nom>MCKIERNAN</nom>
+		</artiste>
+		<artiste id="SoMe" sexe="M" pays="ROU">
+			<prenom>Sorin</prenom>
+			<nom>MEDELENI</nom>
+		</artiste>
+		<artiste id="BaMe" sexe="M" pays="FRA">
+			<prenom>Basile</prenom>
+			<nom>MEILLEURAT</nom>
+		</artiste>
+		<artiste id="GeMe" sexe="M" pays="BRA">
+			<prenom>Germano</prenom>
+			<nom>MELO</nom>
+		</artiste>
+		<artiste id="KlMF" sexe="M" pays="BRA">
+			<prenom>Kleber</prenom>
+			<nom>MENDONÇA FILHO</nom>
+		</artiste>
+		<artiste id="BrMe" sexe="M" pays="PHL">
+			<prenom>Brillante</prenom>
+			<nom>MENDOZA</nom>
+		</artiste>
+		<artiste id="MaMi" sexe="M" pays="DNK">
+			<prenom>Mads</prenom>
+			<nom>MIKKELSEN</nom>
+			<biographie>
+				 Né au Danemark, d’abord gymnaste et danseur, Mads Mikkelsen est révélé au cinéma dans la trilogie Pusher de Nicolas Winding Refn. Il s’impose à l’international avec Le Roi Arthur (2004) et surtout son rôle du méchant Le Chiffre dans le James Bond Casino royale (2006). Il joue aussi dans After the Wedding (2006) de Susanne Bier, Coco Chanel &amp; Igor Stravinsky (2008) de Jan Kounen, Royal Affair de Nikolaj Arcel, La Chasse de Thomas Vinterberg, qui lui vaut le Prix d’Interprétation masculine à Cannes en 2012, ou encore dans Michael Kohlhaas, d’Arnaud des Pallières, présenté en Compétition à Cannes en 2013. Il a également incarné Dr. Hannibal Lecter dans la fameuse série Hannibal (2013-2015). En 2016, il sera à l’affiche de Doctor Strange des studios Marvel et du dérivé de Star Wars, Rogue One: A Star Wars Story des studios Disney.
+			</biographie>
+		</artiste>
+		<artiste id="AlMi" sexe="M" pays="USA">
+			<prenom>Alano</prenom>
+			<nom>MILLER</nom>
+		</artiste>
+		<artiste id="GeMi" sexe="M" pays="AUS">
+			<prenom>George</prenom>
+			<nom>MILLER</nom>
+			<biographie>
+				 Né en Australie, George Miller étudie la médecine à l’université de Nouvelle-Galles du Sud. À l’occasion d’un atelier de cinéma, il rencontre Byron Kennedy, avec qui il fonde la société Kennedy Miller Productions en 1972. Au fil de sa carrière, George Miller n’aura de cesse d’expérimenter de nombreux genres. En 1979, son premier long métrage en tant que réalisateur, Mad Max, connaît un triomphe planétaire, révèle Mel Gibson et donne naissance à une saga qui se prolonge avec Mad Max 2 : le défi (1981) et Mad Max : au-delà du dôme du tonnerre (1985). En 1987, Miller réalise Les Sorcières d’Eastwick (1987), puis se consacre à la production de projets australiens. Il réalise ensuite Lorenzo (1992), puis adapte et produit Babe, le cochon devenu berger en 1995 qui récolte 7 nominations aux Oscars. En 1998, il écrit et réalise la suite, Babe 2, le cochon dans la ville. En 2006, son premier film d’animation Happy Feet remporte l’Oscar du meilleur film d’animation, et Happy Feet 2 suit en 2011. Depuis George Miller a réalisé, écrit et produit Mad Max: Fury Road, marquant le retour de son héros mythique à l’écran, projeté en avant-première à Cannes en 2015. Le film est un immense succès et vient de recevoir six Oscars sur ses dix nominations.
+			</biographie>
+		</artiste>
+		<artiste id="BrMi" sexe="M" pays="ROU">
+			<prenom>Branescu</prenom>
+			<nom>MIMI</nom>
+		</artiste>
+		<artiste id="LoMi" sexe="M" pays="BEL">
+			<prenom>Louka</prenom>
+			<nom>MINELLA</nom>
+		</artiste>
+		<artiste id="CaMo" sexe="F" pays="ROU">
+			<prenom>Cătălina</prenom>
+			<nom>MOGA</nom>
+		</artiste>
+		<artiste id="SRMo" sexe="F" pays="KOR">
+			<prenom>So-Ri</prenom>
+			<nom>MOON</nom>
+		</artiste>
+		<artiste id="CrMu" sexe="M" pays="ROU">
+			<prenom>Cristian</prenom>
+			<nom>MUNGIU</nom>
+			<biographie>
+				 Né en 1968 à Iasi, Roumanie, Cristian Mungiù travaille d’abord comme journaliste et enseignant après des études de Lettres anglaises, puis il intègre l’Académie du Film et du Théâtre à Bucarest, ou il va tourner plusieurs courts métrages. Son premier long métrage, Occident est sélectionné à la Quinzaine des Réalisateurs en 2000 et fait un triomphe en Roumanie. En 2007, son deuxième long métrage 4 mois, 3 semaines, 2 jours, sélectionné en Compétition, repart avec la Palme d’or. Il reçoit de nombreuses autres distinctions dont celles de meilleur film et meilleur réalisateur de l’Académie du Film Européen. Il revient à Cannes en 2009 comme producteur des Contes de l’âge d’or. Au-delà des collines, qu’il a écrit et réalisé, obtient en 2012 le Prix du scénario et un double Prix d'interprétation féminine. 
+			</biographie>
+		</artiste>
+		<artiste id="SiNa" sexe="F" pays="ROU">
+			<prenom>Silvia</prenom>
+			<nom>NĂSTASE</nom>
+		</artiste>
+		<artiste id="RuNe" sexe="F" pays="ETH">
+			<prenom>Ruth</prenom>
+			<nom>NEGGA</nom>
+		</artiste>
+		<artiste id="LaNe" sexe="M" pays="HUN">
+			<prenom>László</prenom>
+			<nom>NEMES</nom>
+			<biographie>
+				 Né à Budapest, László Nemes s’intéresse au cinéma dès son plus jeune âge. Après des études d’Histoire, de Relations internationales et d’Écriture, il travaille comme assistant, notamment de Béla Tarr pour le film L’Homme de Londres. En 2007, son premier court métrage est présenté au Festival de Venise et nommé en 2008 comme Meilleur Court Métrage aux Prix du Cinéma européen. La même année, il tourne son deuxième court, The Counterpart, puis son troisième, The Gentleman Takes His Leave, en 2010. En 2015, son premier long métrage en tant que réalisateur, Le Fils de Saul, est présenté en Compétition au Festival de Cannes, où il gagne le Grand Prix. Le film devient alors un phénomène dans le monde entier, remportant le Golden Globe et l’Oscar du Meilleur Film Étranger. Il travaille sur le développement de son second long métrage, intitulé Sunset.
+			</biographie>
+		</artiste>
+		<artiste id="JeNi" sexe="M" pays="USA">
+			<prenom>Jeff</prenom>
+			<nom>NICHOLS</nom>
+		</artiste>
+		<artiste id="TyOl" sexe="M" pays="USA">
+			<prenom>Ty</prenom>
+			<nom>OLWIN</nom>
+		</artiste>
+		<artiste id="VaPa" sexe="F" pays="FRA">
+			<prenom>Vanessa</prenom>
+			<nom>PARADIS</nom>
+			<biographie>
+				 Actrice et artiste-interprète, Vanessa Paradis est révélée à 14 ans par la chanson « Joe le Taxi » puis couronnée par un César pour Noce blanche de Jean-Claude Brisseau. Poursuivant de front ces deux carrières, elle enchaîne disques, concerts, tournées, films en France et à l’étranger. Elle enregistre six albums, travaillant notamment avec Serge Gainsbourg et Matthieu Chedid. Avec son dernier album « Love Songs », elle remporte une Victoire de la Musique en 2014. Au cinéma, on l’a vue notamment dans La Fille sur le pont de Patrice Leconte (1999), La Clef de Guillaume Nicloux (2007), L’Arnacœur de Pascal Chaumeil (2010), Café de Flore de Jean-Marc Vallée qui lui vaut le Prix de la Meilleure Actrice au Canada, Je me suis fait tout petit de Cécilia Rouaud et Apprenti gigolo de John Turturro en 2012, Sous les jupes des filles d’Audrey Dana en 2013.
+			</biographie>
+		</artiste>
+		<artiste id="CWPa" sexe="M" pays="KOR">
+			<prenom>Chan-Wook</prenom>
+			<nom>PARK</nom>
+		</artiste>
+		<artiste id="SePe" sexe="M" pays="USA">
+			<prenom>Sean</prenom>
+			<nom>PENN</nom>
+			<biographie>
+				"Partout dans le monde, le cinéma semble faire l'objet d'un intense renouveau : de plus en plus de films éveillent l'imaginaire et provoquent émotion et réflexion, dans l'émergence d'une nouvelle génération de cinéastes extrêmement talentueux. Le Festival de Cannes est depuis longtemps l'épicentre mondial de la découverte des nouvelles vagues de réalisateurs. C'est pourquoi il me tarde d'y participer cette année comme Président du jury."
+				
+				Après une double formation de comédien et de metteur en scène, Sean Penn est remarqué dès ses premiers rôles dans Colors de Dennis Hopper (1988) et Outrages de Brian de Palma (1989). Rapidement, il s'impose comme l'un des talents les plus doués de sa génération, de L'Impasse de Brian de Palma (1993), à La Ligne rouge de Terrence Malick (1998), 21 Grammes d'Alejandro González Iñarritu (2003) ou L'Interprète de Sydney Pollack (2005). Le Prix d'interprétation du Festival de Cannes lui est décerné en 1997 pour She's so Lovely de Nick Cassavetes et, après plusieurs nominations aux Oscars (notamment pour La Dernière marche de Tim Robbins et Accords et désaccords de Woody Allen), il est consacré Meilleur Acteur en 2004 pour son rôle dans Mystic River de Clint Eastwood, présenté en Compétition à Cannes. En 1991, il écrit, réalise et produit son premier film, The Indian Runner. En 1995, Sean Penn dirige Jack Nicholson dans Crossing Guard et le retrouve pour The Pledge, sélectionné en Compétition à Cannes en 2001. Il a également participé au projet collectif 11'09''01 : Septembre 11. Son dernier film, Into the Wild, qu'il a adapté de l'oeuvre de Jon Krakauer, connaît un succès international. 
+			</biographie>
+		</artiste>
+		<artiste id="MoPi" sexe="M" pays="IRN">
+			<prenom>Mojtaba</prenom>
+			<nom>PIRZADEH</nom>
+		</artiste>
+		<artiste id="ViPo" sexe="F" pays="FRA">
+			<prenom>Vimala</prenom>
+			<nom>PONS</nom>
+		</artiste>
+		<artiste id="DaPo" sexe="M" pays="BRA">
+			<prenom>Daniel</prenom>
+			<nom>PORPINO</nom>
+		</artiste>
+		<artiste id="LePr" sexe="M" pays="ROU">
+			<prenom>Leo</prenom>
+			<nom>PROFIR</nom>
+		</artiste>
+		<artiste id="LuPr" sexe="M" pays="DEU">
+			<prenom>Lucas</prenom>
+			<nom>PRISOR</nom>
+		</artiste>
+		<artiste id="CrPu" sexe="M" pays="ROU">
+			<prenom>Cristi</prenom>
+			<nom>PUIU</nom>
+		</artiste>
+		<artiste id="IlPu" sexe="F" pays="ROU">
+			<prenom>Ileana</prenom>
+			<nom>PUIU</nom>
+		</artiste>
+		<artiste id="IuPu" sexe="M" pays="ROU">
+			<prenom>Iulian</prenom>
+			<nom>PUIU</nom>
+		</artiste>
+		<artiste id="PeQu" sexe="M" pays="BRA">
+			<prenom>Pedro</prenom>
+			<nom>QUEIROZ</nom>
+		</artiste>
+		<artiste id="MaRa" sexe="M" pays="ROU">
+			<prenom>Marian</prenom>
+			<nom>RALEA</nom>
+		</artiste>
+		<artiste id="PaRa" sexe="M" pays="FRA">
+			<prenom>Pascal</prenom>
+			<nom>RAMBERT</nom>
+		</artiste>
+		<artiste id="Ra" sexe="F" pays="FRA">
+			<prenom></prenom>
+			<nom>RAPH</nom>
+		</artiste>
+		<artiste id="KeRe" sexe="M" pays="CAN">
+			<prenom>Keanu</prenom>
+			<nom>REEVES</nom>
+		</artiste>
+		<artiste id="JJRe" sexe="M" pays="BEL">
+			<prenom>Jean-Jérémie</prenom>
+			<nom>RENIER</nom>
+		</artiste>
+		<artiste id="JeRe" sexe="M" pays="FRA">
+			<prenom>Jean</prenom>
+			<nom>RENO</nom>
+		</artiste>
+		<artiste id="CaRi" sexe="F" pays="BRA">
+			<prenom>Carla</prenom>
+			<nom>RIBAS</nom>
+		</artiste>
+		<artiste id="FeRo" sexe="M" pays="PHL">
+			<prenom>Felix</prenom>
+			<nom>ROCO</nom>
+		</artiste>
+		<artiste id="BrRo" sexe="F" pays="FRA">
+			<prenom>Brigitte</prenom>
+			<nom>ROÜAN</nom>
+		</artiste>
+		<artiste id="SHRy" sexe="M" pays="KOR">
+			<prenom>Seong-Hie</prenom>
+			<nom>RYU</nom>
+		</artiste>
+		<artiste id="MiSa" sexe="F" pays="IRN">
+			<prenom>Mina</prenom>
+			<nom>SADATI</nom>
+		</artiste>
+		<artiste id="FaSa" sexe="M" pays="IRN">
+			<prenom>Farid</prenom>
+			<nom>SAJJADIHOSSEINI</nom>
+		</artiste>
+		<artiste id="IrSa" sexe="M" pays="BRA">
+			<prenom>Irandhir</prenom>
+			<nom>SANTOS</nom>
+		</artiste>
+		<artiste id="NRSe" sexe="M" pays="PHL">
+			<prenom>Neil Ryan</prenom>
+			<nom>SESE</nom>
+		</artiste>
+		<artiste id="LeSe" sexe="F" pays="FRA">
+			<prenom>Léa</prenom>
+			<nom>SEYDOUX</nom>
+		</artiste>
+		<artiste id="KaSh" sexe="F" pays="IRN">
+			<prenom>Katayoon</prenom>
+			<nom>SHAHABI</nom>
+			<biographie>
+				 Née à Téhéran, titulaire d’un doctorat en littérature française, Katayoon Shahabi a commencé sa carrière en 1982 en travaillant pour la Fondation du cinéma Farabi, qui promeut le cinéma iranien dans le monde. En 1994, elle participe au lancement du Cima Media International avant de créer Sheherazad Media International (SMI), la plus importante société privée de distribution de films, documentaires et coproductions à l’international. SMI a révélé des réalisateurs aujourd’hui reconnus, et a reçu mille participations et récompenses pour son pays. En 2012, elle lance en France sa société Noori Pictures, qui a permis à Tales de Rakhshan Bani-Etemad (2014) et à Wednesday, May 9 (2015) d’être récompensés à Venise ainsi qu’à Nahid d’Ida Panahandeh d’être primé à Cannes, section Un Certain Regard en 2015.
+			</biographie>
+		</artiste>
+		<artiste id="BrSh" sexe="F" pays="GBR">
+			<prenom>Briana</prenom>
+			<nom>SHANN</nom>
+		</artiste>
+		<artiste id="MiSh" sexe="M" pays="USA">
+			<prenom>Michael</prenom>
+			<nom>SHANNON</nom>
+		</artiste>
+		<artiste id="PeSi" sexe="M" pays="AUT">
+			<prenom>Peter</prenom>
+			<nom>SIMONISCHEK</nom>
+		</artiste>
+		<artiste id="HaSq" sexe="F" pays="GBR">
+			<prenom>Hayley</prenom>
+			<nom>SQUIRES</nom>
+		</artiste>
+		<artiste id="JuSt" sexe="F" pays="ROU">
+			<prenom>Judith</prenom>
+			<nom>STATE</nom>
+		</artiste>
+		<artiste id="PoSt" sexe="F" pays="GBR">
+			<prenom>Polly</prenom>
+			<nom>STENHAM</nom>
+		</artiste>
+		<artiste id="KrSt" sexe="F" pays="USA">
+			<prenom>Kristen</prenom>
+			<nom>STEWART</nom>
+		</artiste>
+		<artiste id="EmSu" sexe="M" pays="ESP">
+			<prenom>Emma</prenom>
+			<nom>SUÁREZ</nom>
+		</artiste>
+		<artiste id="DoSu" sexe="M" pays="CAN">
+			<prenom>Donald</prenom>
+			<nom>SUTHERLAND</nom>
+			<biographie>
+				 Acteur respecté, prolifique et polyvalent, Donald Sutherland compte plus de 150 films à son actif, dont des classiques tels que Les Douze Salopards de Robert Aldrich, M.A.S.H. de Robert Altman, Le Jour du fléau de John Schlesinger, Des gens comme les autres de Robert Redford, 1900 de Bernardo Bertolucci, L’Invasion des profanateurs de Philip Kaufman, Klute d’Alan Pakula, Le Casanova de Fellini de Federico Fellini, De l’or pour les braves de Brian Hutton, Six Degrés de séparation de Fred Schepisi, JFK d’Oliver Stone ou encore Orgueil et préjugés de Joe Wright et le succès planétaire des Hunger Games où il incarne President Snow. Il est aussi producteur, scénariste et voix star de Pirate’s Passage, film d’animation basé sur le roman primé de William Gilkerson. Il sera à l’affiche de Milton’s Secret et Measure of a Man.
+			</biographie>
+		</artiste>
+		<artiste id="FeTe" sexe="M" pays="BRA">
+			<prenom>Fernando</prenom>
+			<nom>TEIXEIRA</nom>
+		</artiste>
+		<artiste id="ChTh" sexe="F" pays="ZAF">
+			<prenom>Charlize</prenom>
+			<nom>THERON</nom>
+		</artiste>
+		<artiste id="RaTh" sexe="M" pays="FRA">
+			<prenom>Raphaël</prenom>
+			<nom>THIÉRY</nom>
+		</artiste>
+		<artiste id="AdTi" sexe="M" pays="ROU">
+			<prenom>Adrian</prenom>
+			<nom>TITIENI</nom>
+		</artiste>
+		<artiste id="AdUg" sexe="F" pays="ESP">
+			<prenom>Adriana</prenom>
+			<nom>UGARTE</nom>
+		</artiste>
+		<artiste id="GaUl" sexe="M" pays="FRA">
+			<prenom>Gaspard</prenom>
+			<nom>ULLIEL</nom>
+		</artiste>
+		<artiste id="SaVa" sexe="F" pays="IRN">
+			<prenom>Sam</prenom>
+			<nom>VALIPOUR</nom>
+		</artiste>
+		<artiste id="AnVa" sexe="M" pays="ROU">
+			<prenom>Andi</prenom>
+			<nom>VASLUIANU</nom>
+		</artiste>
+		<artiste id="PaVe" sexe="M" pays="NLD">
+			<prenom>Paul</prenom>
+			<nom>VERHOEVEN</nom>
+		</artiste>
+		<artiste id="JLVi" sexe="M" pays="FRA">
+			<prenom>Jean-Luc</prenom>
+			<nom>VINCENT</nom>
+		</artiste>
+		<artiste id="NoVW" sexe="F" pays="AUT">
+			<prenom>Nora</prenom>
+			<nom>VON WALDSTÄTTEN</nom>
+		</artiste>
+		<artiste id="NiWR" sexe="M" pays="DNK">
+			<prenom>Nicolas</prenom>
+			<nom>WINDING REFN</nom>
+			<biographie>
+				 Né à Copenhague au Danemark, Nicolas Winding Refn a grandi ensuite à New York. A 24 ans, il écrit et réalise "Pusher", un film sans compromis d’une extrême violence, devenu un véritable phénomène encensé par la critique internationale dès sa sortie en 1996. Il tourne ensuite "Bleeder" (1999), "Inside Job" (2003), "Pusher 2" (2004) et "Pusher 3" (2005), "Bronson" (2008), puis "Le guerrier silencieux" (2009). Ce dernier, diffusé en avant-première à la Mostra de Venise en 2009, incite les médias internationaux à définir le style cinématographique de NWR comme « Refnesque ». En 2011, Nicolas Windig Refn obtient le prix du meilleur réalisateur au Festival de Cannes pour son chef-d'œuvre "Drive". Deux ans plus tard, il revient en Compétition à Cannes avec son dernier film très controversé "Only God Forgives". 
+			</biographie>
+		</artiste>
+	</artistes>	
+
+	<films>
+
+		<film id="american_honey" pays="GBR" annee_production="2016"
+			  duree="PT2H42M" date_sortie="2017-02-08">
+			<titre>American Honey</titre>
+			<synopsis>
+				Star (Sasha Lane), une adolescente, quitte sa famille dysfonctionelle et
+				rejoint une équipe de vente d'abonnements de magazines, qui parcourt le midwest américain
+				en faisant du porte à porte. Aussitôt à sa place parmi cette bande de jeunes,
+				dont fait partie Jake (Shia LeBeouf), elle adopte rapidement leur style de vie,
+				rythmé par des soirées arrosées, des petits méfaits et des histoires d’amour…
+			</synopsis>
+			<casting realisateurs="AnAr"
+			         scenaristes="AnAr" />
+			<personnages>
+				<personnage incarne_par="ShLa">Jake</personnage>
+				<personnage incarne_par="SaLa">Star</personnage>
+				<personnage incarne_par="RiKe">Krystal</personnage>
+			</personnages>
+		</film>
+
+		<film id="aquarius" pays="BRA" annee_production="2016"
+			  duree="PT2H20M" date_sortie="2016-09-28">
+			<titre>Aquarius</titre>
+			<synopsis>
+				Clara, la soixantaine, ancienne critique musicale, est née dans un milieu bourgeois de Recife, au Brésil.
+				Elle vit dans un immeuble singulier, l'Aquarius construit dans les années 40, sur la très huppée Avenida
+				Boa Viagem qui longe l’océan. Un important promoteur a racheté tous les appartements mais elle,
+				se refuse à vendre le sien. Elle va rentrer en guerre froide avec la société immobilière qui la harcèle.
+				Très perturbée par cette tension, elle repense à sa vie, son passé, ceux qu’elle aime.
+			</synopsis>
+			<casting realisateurs="KlMF"
+			         scenaristes="KlMF" />
+			<personnages>
+				<personnage incarne_par="SoBr">Clara</personnage>
+				<personnage incarne_par="MaJi">Ana Paula</personnage>
+				<personnage incarne_par="IrSa">Roberval</personnage>
+				<personnage incarne_par="HuCa">Diego</personnage>
+				<personnage incarne_par="ZoCo">Ladjane</personnage>
+				<personnage incarne_par="FeTe">Geraldo</personnage>
+				<personnage incarne_par="BuLi">Antonio</personnage>
+				<personnage incarne_par="PaDR">Fátima</personnage>
+				<personnage incarne_par="BaCo">Clara in 1980</personnage>
+				<personnage incarne_par="DaPo">Adalberto</personnage>
+				<personnage incarne_par="DaPo">Rodrigo</personnage>
+				<personnage incarne_par="PeQu">Tomás</personnage>
+				<personnage incarne_par="CaRi">Cleide</personnage>
+				<personnage incarne_par="GeMe">Martin</personnage>
+				<personnage incarne_par="JuBe">Julia</personnage>
+			</personnages>
+		</film>
+
+		<film id="baccalaureat" pays="ROU" annee_production="2016"
+			  duree="PT2H7M" date_sortie="2016-12-07">
+			<titre>Baccalauréat</titre>
+			<synopsis>
+				Romeo, médecin dans une petite ville de Transylvanie, a tout mis en œuvre pour que sa fille, Eliza, soit
+				acceptée dans une université anglaise.
+				Il ne reste plus à la jeune fille, très bonne élève, qu’une formalité qui ne devrait pas poser de problème :
+				obtenir son baccalauréat.
+				Mais Eliza se fait agresser et le précieux sésame semble brutalement hors de portée. Avec lui, c’est toute
+				la vie de Romeo qui est remise en question quand il oublie alors tous les principes qu’il a inculqués à sa
+				fille, entre compromis et compromissions…
+			</synopsis>
+			<casting realisateurs="CrMu"
+			         scenaristes="CrMu" />
+			<personnages>
+				<personnage incarne_par="AdTi">Romeo</personnage>
+				<personnage incarne_par="MaDr">Eliza</personnage>
+				<personnage incarne_par="LiBu">Magda</personnage>
+				<personnage incarne_par="MaMa">Sandra</personnage>
+				<personnage incarne_par="VlIv">Inspecteur en chef</personnage>
+			</personnages>
+		</film>
+
+		<film id="elle" pays="FRA" annee_production="2015"
+			  duree="PT2H10M" date_sortie="2016-05-25">
+			<titre>Elle</titre>
+			<synopsis>
+				Michèle fait partie de ces femmes que rien ne semble atteindre. À la tête d'une grande entreprise de
+				jeux vidéo, elle gère ses affaires comme sa vie sentimentale : d'une main de fer. Sa vie bascule lorsqu’elle
+				est agressée chez elle par un mystérieux inconnu. Inébranlable, Michèle se met à le traquer en retour.
+				Un jeu étrange s'installe alors entre eux. Un jeu qui, à tout instant, peut dégénérer.
+			</synopsis>
+			<casting realisateurs="PaVe"
+			         scenaristes="DaBi"
+ />
+			<personnages>
+				<personnage incarne_par="IsHu">Michèle</personnage>
+				<personnage incarne_par="LaLa">Patrick</personnage>
+				<personnage incarne_par="AnCo">Anna</personnage>
+				<personnage incarne_par="ChaBe">Richard</personnage>
+				<personnage incarne_par="ViEf">Rebecca</personnage>
+				<personnage incarne_par="ChrBe">Robert</personnage>
+				<personnage incarne_par="JuMa">Irène</personnage>
+				<personnage incarne_par="JoBl">Vincent</personnage>
+				<personnage incarne_par="AlIs">Josie</personnage>
+				<personnage incarne_par="ViPo">Hélène</personnage>
+				<personnage incarne_par="RaLe">Ralf</personnage>
+				<personnage incarne_par="ArMa">Kevin</personnage>
+				<personnage incarne_par="LuPr">Kurt</personnage>
+				<personnage incarne_par="HuCo">Phillip Kwan</personnage>
+				<personnage incarne_par="StBa">Omar</personnage>
+			</personnages>
+		</film>
+
+		<film id="le_client" pays="FRA IRN" annee_production="2016"
+			  duree="PT2H5M" date_sortie="2016-11-09">
+			<titre>Le Client</titre>
+			<synopsis>
+				Contraints de quitter leur appartement du centre de Téhéran en raison d'importants travaux menaçant
+				leur immeuble, Emad et Rana emménagent dans un nouveau logement. Un incident en rapport avec
+				l’ancienne locataire va bouleverser la vie du jeune couple.
+			</synopsis>
+			<casting realisateurs="AsFa"
+			         scenaristes="AsFa" />
+			<personnages>
+				<personnage incarne_par="ShHo">Emad</personnage>
+				<personnage incarne_par="TaAl">Rana</personnage>
+				<personnage incarne_par="BaKa">Babak</personnage>
+				<personnage incarne_par="FaSa">L'homme</personnage>
+				<personnage incarne_par="MiSa">Sanam</personnage>
+				<personnage incarne_par="MaBA">Kati</personnage>
+				<personnage incarne_par="MeKo">Siavash</personnage>
+				<personnage incarne_par="EmEm">Ali</personnage>
+				<personnage incarne_par="ShAg">Esmat</personnage>
+				<personnage incarne_par="MoPi">Majid</personnage>
+				<personnage incarne_par="SaAs">Mojgan</personnage>
+				<personnage incarne_par="SaVa">Sadra</personnage>
+			</personnages>
+		</film>
+
+		<film id="moi_daniel_blake" pays="GBR" annee_production="2016"
+			  duree="PT1H40M" date_sortie="2016-10-26">
+			<titre>Moi, Daniel Blake</titre>
+			<synopsis>
+				Pour la première fois de sa vie, Daniel Blake, un menuisier anglais de 59 ans, est contraint de faire appel
+				à l’aide sociale à la suite de problèmes cardiaques. Mais bien que son médecin lui ait interdit de
+				travailler, il se voit signifier l’obligation d’une recherche d’emploi sous peine de sanction.
+				Au cours de ses rendez-vous réguliers au « job center », Daniel va croiser la route de Rachel, mère
+				célibataire de deux enfants qui a été contrainte d’accepter un logement à 450 km de sa ville natale pour
+				ne pas être placée en foyer d’accueil.
+				Pris tous deux dans les filets des aberrations administratives de la Grande Bretagne d’aujourd’hui,
+				Daniel et Rachel vont tenter de s’entraider…
+			</synopsis>
+			<casting realisateurs="KeLo"
+			         scenaristes="PaLa" />
+			<personnages>
+				<personnage incarne_par="DaJo">Dan</personnage>
+				<personnage incarne_par="HaSq">Katie</personnage>
+				<personnage incarne_par="BrSh">Daisy</personnage>
+				<personnage incarne_par="DPMc">Dylan</personnage>
+			</personnages>
+		</film>
+
+		<film id="julieta" pays="ESP" annee_production="2016"
+			  duree="PT1H36M" date_sortie="2016-05-18">
+			<titre>Julieta</titre>
+			<synopsis>
+				Julieta s’apprête à quitter Madrid définitivement lorsqu’une rencontre fortuite avec Bea, l’amie
+				d’enfance de sa fille Antía la pousse à changer ses projets.
+				Bea lui apprend qu’elle a croisé Antía une semaine plus tôt. Julieta se met alors à nourrir l’espoir de
+				retrouvailles avec sa fille qu’elle n’a pas vu depuis des années. Elle décide de lui écrire tout ce qu’elle a
+				gardé secret depuis toujours.
+				Julieta parle du destin, de la culpabilité, de la lutte d’une mère pour survivre à l’incertitude, et de ce
+				mystère insondable qui nous pousse à abandonner les êtres que nous aimons en les effaçant de notre
+				vie comme s’ils n’avaient jamais existé.
+			</synopsis>
+			<casting realisateurs="PeAl"
+			         scenaristes="PeAl" />
+			<personnages>
+				<personnage incarne_par="EmSu AdUg">Julieta</personnage>
+				<personnage incarne_par="DanGr">Xoan</personnage>
+				<personnage incarne_par="InCu">Ava</personnage>
+				<personnage incarne_par="DarGr">Lorenzo</personnage>
+				<personnage incarne_par="MiJe">Bea</personnage>
+				<personnage incarne_par="RoDP">Marian</personnage>
+			</personnages>
+		</film>
+
+		<film id="juste_la_fin_du_monde" pays="CAN FRA" annee_production="2016"
+			  duree="PT1h35M" date_sortie="2016-09-21">
+			<titre>Juste La Fin Du Monde</titre>
+			<synopsis>
+				Après douze ans d'absence, un écrivain retourne dans son village natal pour annoncer à sa famille sa
+				mort prochaine. Ce sont les retrouvailles avec le cercle familial où l'on se dit l'amour que l'on se porte à
+				travers les éternelles querelles, et où l'on dit malgré nous les rancœurs qui parlent au nom du doute et
+				de la solitude. 
+			</synopsis>
+			<casting realisateurs="XaDo"
+			         scenaristes="XaDo" />
+			<personnages>
+				<personnage incarne_par="NaBa">La mère, Martine</personnage>
+				<personnage incarne_par="ViCa">Antoine</personnage>
+				<personnage incarne_par="MaCo">Catherine</personnage>
+				<personnage incarne_par="LeSe">Suzanne</personnage>
+				<personnage incarne_par="GaUl">Louis</personnage>
+			</personnages>
+		</film>
+
+		<film id="la_fille_inconnue" pays="BEL FRA" annee_production="2016"
+			  duree="PT1H53M" date_sortie="2016-10-12">
+			<titre>La Fille Inconnue</titre>
+			<synopsis>
+				Un soir, après l’heure de fermeture de son cabinet, Jenny,
+				jeune médecin généraliste, entend sonner mais ne va pas ouvrir.
+				Le lendemain, elle apprend par la police qu’on a retrouvé, non loin de là,
+				une jeune fille morte, sans identité.
+			</synopsis>
+			<casting realisateurs="JPDa LuDa"
+			         scenaristes="JPDa LuDa" />
+			<personnages>
+				<personnage incarne_par="AdHa">Jenny</personnage>
+				<personnage incarne_par="OlBo">Julien</personnage>
+				<personnage incarne_par="JJRe">Le père de Bryan</personnage>
+				<personnage incarne_par="LoMi">Bryan</personnage>
+			</personnages>
+		</film>
+
+		<film id="loving" pays="USA" annee_production="2016"
+			  duree="PT2H3M" date_sortie="2017-02-15">
+			<titre>Loving</titre>
+			<synopsis>
+				Mildred et Richard Loving s'aiment et décident de se marier. Rien de plus naturel – sauf qu'il est blanc et
+				qu'elle est noire dans l'Amérique ségrégationniste de 1958. L'État de Virginie où les Loving ont décidé
+				de s'installer les poursuit en justice : le couple est condamné à une peine de prison, avec suspension de
+				la sentence à condition qu'il quitte l'État. Considérant qu'il s'agit d'une violation de leurs droits civiques,
+				Richard et Mildred portent leur affaire devant les tribunaux. Ils iront jusqu'à la Cour Suprême qui, en
+				1967, casse la décision de la Virginie.
+				Désormais, l'arrêt "Loving v. Virginia" symbolise le droit de s'aimer pour tous, sans aucune distinction
+				d'origine.
+			</synopsis>
+			<casting realisateurs="JeNi"
+			         scenaristes="JeNi" />
+			<personnages>
+				<personnage incarne_par="JoEd">Richard Loving</personnage>
+				<personnage incarne_par="RuNe">Mildred Loving</personnage>
+				<personnage incarne_par="MaCs">Sheriff Brooks</personnage>
+				<personnage incarne_par="NiKr">Bernie Cohen</personnage>
+				<personnage incarne_par="TeAb">Garnet Jeter</personnage>
+				<personnage incarne_par="AlMi">Raymond Green</personnage>
+				<personnage incarne_par="JoBa">Phil Hirschkop</personnage>
+				<personnage incarne_par="MiSh">Grey Villet</personnage>
+			</personnages>
+		</film>
+
+		<film id="ma_loute" pays="FRA DEU" annee_production="2016"
+			  duree="PT2H2M" date_sortie="2016-05-13">
+			<titre>Ma Loute</titre>
+			<synopsis>
+				Eté 1910, Baie de la Slack dans le Nord de la France. De mystérieuses disparitions mettent en émoi la
+				région. L'improbable inspecteur Machin et son sagace Malfoy (mal)mènent l'enquête. Ils se retrouvent
+				bien malgré eux, au coeur d'une étrange et dévorante histoire d'amour entre Ma Loute, fils ainé d'une
+				famille de pêcheurs aux moeurs bien particulières et Billie de la famille Van Peteghem, riches bourgeois
+				lillois décadents.
+			</synopsis>
+			<casting realisateurs="BrDu"
+			         scenaristes="BrDu" />
+			<personnages>
+				<personnage incarne_par="FaLu">André Van Peteghem</personnage>
+				<personnage incarne_par="JuBi">Aude Van Peteghem</personnage>
+				<personnage incarne_par="VaBT">Isabelle Van Peteghem</personnage>
+				<personnage incarne_par="JLVi">Christian Van Peteghem</personnage>
+				<personnage incarne_par="Ra">Billie</personnage>
+				<personnage incarne_par="BrLa">Ma Loute</personnage>
+			</personnages>
+		</film>
+
+		<film id="ma_rosa" pays="PHL" annee_production="2015"
+			  duree="PT1H50M" date_sortie="2016-11-30">
+			<titre>Ma'Rosa</titre>
+			<synopsis>
+				Ma’Rosa a quatre enfants. Elle tient une petite épicerie dans un quartier pauvre de Manille où tout le
+				monde la connaît et l’apprécie. Pour joindre les deux bouts, elle et son mari Nestor y revendent
+				illégalement des narcotiques. Un jour ils sont arrêtés. Face à des policiers corrompus, les enfants de
+				Rosa feront tout pour racheter la liberté de leurs parents.
+			</synopsis>
+			<casting realisateurs="BrMe"
+			         scenaristes="TrEs" />
+			<personnages>
+				<personnage incarne_par="JaJo">Rosa</personnage>
+				<personnage incarne_par="AnEi">Raquel</personnage>
+				<personnage incarne_par="JuDi">Nestor</personnage>
+				<personnage incarne_par="MAFe">Castor</personnage>
+				<personnage incarne_par="BaGe">Sumpay</personnage>
+				<personnage incarne_par="FeRo">Jackson</personnage>
+				<personnage incarne_par="JoAn">Erwin</personnage>
+				<personnage incarne_par="MoCo">Sanchez</personnage>
+				<personnage incarne_par="NRSe">Olivarez</personnage>
+				<personnage incarne_par="MILo">Tilde</personnage>
+				<personnage incarne_par="MeCa">Linda</personnage>
+			</personnages>
+		</film>
+
+		<film id="mademoiselle" pays="KOR" annee_production="2016"
+			  duree="PT2H25M" date_sortie="2016-11-02">
+			<titre>Mademoiselle</titre>
+			<synopsis>
+				Corée. Années 30, pendant la colonisation japonaise. Une jeune femme (Sookee) est engagée comme
+				servante d’une riche japonaise (Hideko), vivant recluse dans un immense manoir sous la coupe d’un
+				oncle tyrannique. Mais Sookee a un secret. Avec l’aide d’un escroc se faisant passer pour un comte
+				japonais, ils ont d’autres plans pour Hideko…
+			</synopsis>
+			<casting realisateurs="CWPa"
+			         scenaristes="CWPa SKJu"
+			         chef_decorateurs="SHRy" />
+			<personnages>
+				<personnage incarne_par="MHKi">Hideko</personnage>
+				<personnage incarne_par="TRKi">Sookee</personnage>
+				<personnage incarne_par="JWHa">Le Comte</personnage>
+				<personnage incarne_par="JWCh">Kouzuki</personnage>
+				<personnage incarne_par="HSKi">Madame Sasaki</personnage>
+				<personnage incarne_par="SRMo">La tante</personnage>
+			</personnages>
+		</film>
+
+		<film id="mal_de_pierres" pays="FRA BEL" annee_production="2016"
+			  duree="PT2H" date_sortie="2016-10-19">
+			<titre>Mal de Pierres</titre>
+			<synopsis>
+				Gabrielle a grandi dans la petite bourgeoisie agricole où son rêve d’une passion absolue fait scandale. A
+				une époque où l’on destine d’abord les femmes au mariage, elle dérange, on la dit folle. Ses parents la
+				donnent à José, un ouvrier saisonnier, chargé de faire d’elle une femme respectable. Gabrielle dit ne pas
+				l’aimer, se voit enterrée vivante.
+				Lorsqu’on l’envoie en cure thermale pour soigner ses calculs rénaux, son mal de pierres, un lieutenant
+				blessé dans la guerre d’Indochine, André Sauvage, fait renaître en elle cette urgence d’aimer. Ils fuiront
+				ensemble, elle se le jure, et il semble répondre à son désir. Cette fois on ne lui prendra pas ce qu’elle
+				nomme « la chose principale ». Gabrielle veut aller au bout de son rêve. 
+			</synopsis>
+			<casting realisateurs="NiGa"
+			         scenaristes="NaCa" />
+			<personnages>
+				<personnage incarne_par="MaCo">Gabrielle</personnage>
+				<personnage incarne_par="LoGa">André Sauvage</personnage>
+				<personnage incarne_par="AlBr">José</personnage>
+				<personnage incarne_par="BrRo">Adèle</personnage>
+				<personnage incarne_par="ViDB">Jeannine</personnage>
+			</personnages>
+		</film>
+
+		<film id="paterson" pays="USA" annee_production="2016"
+			  duree="PT1H53M" date_sortie="2016-12-21">
+			<titre>Paterson</titre>
+			<synopsis>
+				Paterson vit à Paterson, New Jersey, cette ville des poètes - de William Carlos Williams à Allan Ginsberg
+				– aujourd’hui en décrépitude. Chauffeur de bus d’une trentaine d’années, il mène une vie réglée aux
+				côtés de Laura, qui multiplie projets et expériences avec enthousiasme et de Marvin, bouledogue
+				anglais. Chaque jour, Paterson écrit des poèmes sur un carnet secret qui ne le quitte pas…
+			</synopsis>
+			<casting realisateurs="JiJa"
+			         scenaristes="JiJa" />
+			<personnages>
+				<personnage incarne_par="AdDr">Paterson</personnage>
+				<personnage incarne_par="GoFa">Laura</personnage>
+			</personnages>
+		</film>
+
+		<film id="personal_shopper" pays="FRA" annee_production="2016"
+			  duree="PT1H45M" date_sortie="2016-12-14">
+			<titre>Personal Shopper</titre>
+			<synopsis>
+				Maureen, une jeune américaine à Paris, s’occupe de la garde-robe d’une célébrité.
+				C’est un travail qu’elle n’aime pas mais elle n’a pas trouvé mieux pour payer son séjour et attendre que
+				se manifeste l’esprit de Lewis, son frère jumeau récemment disparu.
+				Elle se met alors à recevoir sur son portable d’étranges messages anonymes…
+			</synopsis>
+			<casting realisateurs="OlAs"
+			         scenaristes="OlAs" />
+			<personnages>
+				<personnage incarne_par="KrSt">Maureen</personnage>
+				<personnage incarne_par="LaEi">Ingo</personnage>
+				<personnage incarne_par="SiBo">Lara</personnage>
+				<personnage incarne_par="NoVW">Kyra</personnage>
+				<personnage incarne_par="AnDL">Erwin</personnage>
+				<personnage incarne_par="TyOl">Gary</personnage>
+				<personnage incarne_par="PaRa">Jérôme</personnage>
+				<personnage incarne_par="AuBo">Cassandre</personnage>
+			</personnages>
+		</film>
+
+		<film id="rester_vertical" pays="FRA" annee_production="2016"
+			  duree="PT1H40M" date_sortie="2016-08-24">
+			<titre>Rester Vertical</titre>
+			<synopsis>
+				Léo est à la recherche du loup sur un grand causse de Lozère lorsqu’il rencontre une bergère, Marie.
+				Quelques mois plus tard, ils ont un enfant. En proie au baby blues, et sans aucune confiance en Léo qui
+				s’en va et puis revient sans prévenir, elle les abandonne tous les deux. Léo se retrouve alors avec un
+				bébé sur les bras. C’est compliqué mais au fond, il aime bien ça. Et pendant ce temps, il ne travaille pas
+				beaucoup, il sombre peu à peu dans la misère. C’est la déchéance sociale qui le ramène vers les causses
+				de Lozère et vers le loup.
+			</synopsis>
+			<casting realisateurs="AlGu"
+			         scenaristes="AlGu" />
+			<personnages>
+				<personnage incarne_par="DaBo">Léo</personnage>
+				<personnage incarne_par="InHa">Marie</personnage>
+				<personnage incarne_par="RaTh">Jean-Louis</personnage>
+				<personnage incarne_par="ChBo">Marcel</personnage>
+				<personnage incarne_par="BaMe">Yoan</personnage>
+				<personnage incarne_par="LaCa">Mirande</personnage>
+			</personnages>
+		</film>
+
+		<film id="sieranevada" pays="ROU" annee_production="2016"
+			  duree="PT2H53M" date_sortie="2016-08-03">
+			<titre>Sieranevada</titre>
+			<synopsis>
+				Trois jours après l'attentat contre Charlie Hebdo et quarante jours après la mort de son père,
+				Lary - 40 ans, docteur en médicine - va passer son samedi au sein de la famille
+				réunie à l'occasion de la commémoration du défunt.
+				L'évènement, pourtant, ne se déroule pas comme prévu.
+				Forcé à affronter ses peurs et son passé et contraint de reconsidérer la place qu'il occupe à l'intérieur
+				de la famille, Lary sera conduit à dire sa part de vérité.
+			</synopsis>
+			<casting realisateurs="CrPu"
+			         scenaristes="CrPu" />
+			<personnages>
+				<personnage incarne_par="BrMi">Lary</personnage>
+				<personnage incarne_par="DaDo">Nusa</personnage>
+				<personnage incarne_par="MaRa">Domnul Popescu</personnage>
+				<personnage incarne_par="MaGr">Sebi</personnage>
+				<personnage incarne_par="RoMa">Gabi</personnage>
+				<personnage incarne_par="TaIe">Tanti Evelina</personnage>
+				<personnage incarne_par="JuSt">Sandra</personnage>
+				<personnage incarne_par="AnCi">Tanti Ofelia</personnage>
+				<personnage incarne_par="SoMe">Tony</personnage>
+				<personnage incarne_par="SiGh">Simona</personnage>
+				<personnage incarne_par="BoDu">Relu</personnage>
+				<personnage incarne_par="CaMo">Laura</personnage>
+				<personnage incarne_par="VaDe">Preotul</personnage>
+				<personnage incarne_par="IlBr">Cami</personnage>
+				<personnage incarne_par="AnVa">Mihăiță</personnage>
+				<personnage incarne_par="PeKu">Prietena lui Cami</personnage>
+				<personnage incarne_par="SiNa">Bătrâna din parcare</personnage>
+				<personnage incarne_par="IuPu">Iulică</personnage>
+				<personnage incarne_par="IlPu">Fata cu câinele</personnage>
+				<personnage incarne_par="IoCr">Doamna Popescu</personnage>
+				<personnage incarne_par="LePr">Administrator</personnage>
+				<personnage incarne_par="AnBr">Andreea</personnage>
+				<personnage incarne_par="MiAp">Doamna Însarcinată</personnage>
+				<personnage incarne_par="MEAn">Irina</personnage>
+			</personnages>
+		</film>
+
+		<film id="the_last_face" pays="USA" annee_production="2016"
+			  duree="PT2H11M" date_sortie="2017-01-04">
+			<titre>The Last Face</titre>
+			<synopsis>
+				Au Libéria, pays d'Afrique ravagé par la guerre, le docteur Miguel Leon, médecin humanitaire, et le
+				docteur Wren Petersen, directrice d'une ONG, tombent passionnément amoureux l'un de l'autre.
+				S'ils sont tous les deux engagés corps et âme dans leur mission, ils n'en sont pas moins profondément
+				divisés sur les politiques à adopter pour tenter de régler le conflit qui fait rage.
+				Ils devront surmonter leurs clivages et le chaos qui menace d'emporter le pays tout entier – sous peine
+				de voir leur amour voler en éclats…
+			</synopsis>
+			<casting realisateurs="SePe"
+			         scenaristes="ErDi" />
+			<personnages>
+				<personnage incarne_par="JaBa">Miguel Leon</personnage>
+				<personnage incarne_par="ChTh">Wren Petersen</personnage>
+				<personnage incarne_par="AdEx">Ellen</personnage>
+				<personnage incarne_par="JaHa">Dr. Farber</personnage>
+				<personnage incarne_par="JeRe">Dr. Mehmet Love</personnage>
+			</personnages>
+		</film>
+
+		<film id="the_neo_demon" pays="USA FRA DNK" annee_production="2016"
+			  duree="PT1H57M" date_sortie="2016-06-08">
+			<titre>The Neo Demon</titre>
+			<synopsis>
+				Une jeune fille débarque à Los Angeles. Son rêve est de devenir mannequin. Son ascension fulgurante et
+				sa pureté suscitent jalousies et convoitises. Certaines filles s’inclinent devant elle, d'autres sont prêtes à
+				tout pour lui voler sa beauté.
+			</synopsis>
+			<casting realisateurs="NiWR"
+			         scenaristes="NiWR MaLa PoSt" />
+			<personnages>
+				<personnage incarne_par="ElFa">Jessie</personnage>
+				<personnage incarne_par="JeMa">Ruby</personnage>
+				<personnage incarne_par="AbLe">Sarah</personnage>
+				<personnage incarne_par="BeHe">Gigi</personnage>
+				<personnage incarne_par="DeHa">Jack</personnage>
+				<personnage incarne_par="KaGl">Dean</personnage>
+				<personnage incarne_par="ChHe">Jan</personnage>
+				<personnage incarne_par="KeRe">Hank</personnage>
+			</personnages>
+		</film>
+
+		<film id="toni_erdmann" pays="DEU" annee_production="2016"
+			  duree="PT2H42M" date_sortie="2016-08-17">
+			<titre>Toni Erdmann</titre>
+			<synopsis>
+				Inès travaille dans une grande société allemande basée à Bucarest. Sa vie parfaitement réglée ne
+				souffre pas le moindre désordre jusqu’à l’arrivée de Winfried, son père, qui débarque à l'improviste et lui
+				pose cette question : « es-tu heureuse? ». Son incapacité à répondre est le début d'un bouleversement
+				profond. Ce père encombrant et dont elle a un peu honte va tout faire pour l'aider à retrouver un sens à
+				sa vie en s’inventant un personnage : le facétieux Toni Erdmann…
+			</synopsis>
+			<casting realisateurs="MaAd"
+			         scenaristes="MaAd" />
+			<personnages>
+				<personnage incarne_par="SaHu">Ines</personnage>
+				<personnage incarne_par="PeSi">Winfried / Toni</personnage>
+			</personnages>
+		</film>		
+
+	</films>
+
+	<jury>
+		<membre artiste="GeMi" role="president" />
+		<membre artiste="ArDe" />
+		<membre artiste="KiDu" />
+		<membre artiste="VaGo" />
+		<membre artiste="MaMi" />
+		<membre artiste="LaNe" />
+		<membre artiste="VaPa" />
+		<membre artiste="KaSh" />
+		<membre artiste="DoSu" />
+	</jury>
+
+	<palmares>
+		<prix nom="Palme d'or">
+			<attribution film="moi_daniel_blake" />
+		</prix>
+		<prix nom="Grand Prix">
+			<attribution film="juste_la_fin_du_monde" />
+		</prix>
+		<prix nom="Prix de la mise en scène">
+			<attribution artiste="CrMu" film="baccalaureat"     />
+			<attribution artiste="OlAs" film="personal_shopper" />
+		</prix>
+		<prix nom="Prix du scénario">
+			<attribution artiste="AsFa" film="le_client" />
+		</prix>
+		<prix nom="Prix du Jury">
+			<attribution film="american_honey" />
+		</prix>
+		<prix nom="Prix d'interprétation féminine">
+			<attribution artiste="JaJo" film="ma_rosa" />
+		</prix>
+		<prix nom="Prix d'interprétation masculine">
+			<attribution artiste="ShHo" film="le_client" />
+		</prix>
+		<prix nom="Prix Vulcain de l'Artiste-Technicien, décerné par la C.S.T.">
+			<attribution artiste="SHRy" film="mademoiselle" />
+		</prix>
+	</palmares>
+	
+</festival_cannes>
