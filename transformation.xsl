@@ -134,12 +134,12 @@
                     </div>
                     <xsl:for-each select="/festival_cannes/jury/membre">
                         <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h3 class="panel-title">
-                                    <xsl:value-of select="@artiste"/>
-                                </h3>
-                            </div>
-                            <div class="panel-body">
+                            
+							<xsl:call-template name="afficherNomArtiste">
+								<xsl:with-param name="abreviationNomActeur" select="@artiste" />
+							</xsl:call-template>
+                            
+							<div class="panel-body">
                                 <div class="row">
                                     <!-- details membre -->
                                 </div>
@@ -254,5 +254,17 @@
 		<xsl:param name="codePays"/>
 		<xsl:value-of select="//nationalites/pays[@code=$codePays]"/>
     </xsl:template>
-
+	
+	<!-- Afficher nom + prenom jury -->	
+	<xsl:template name="afficherNomArtiste">
+		<xsl:param name="abreviationNomActeur"/>
+		<div class="panel-heading">
+		<h3 class="panel-title">
+			<xsl:value-of select="//artistes/artiste[@id=$abreviationNomActeur]/prenom"/>
+			&#160;
+			<xsl:value-of select="//artistes/artiste[@id=$abreviationNomActeur]/nom"/>
+		</h3>
+		</div>
+	</xsl:template>
+	
 </xsl:stylesheet>
