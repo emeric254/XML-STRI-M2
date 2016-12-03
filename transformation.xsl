@@ -119,6 +119,9 @@
                                     <div class="col-md-12">
                                         <p>Casting :</p>
                                         <!-- liste artistes -->
+										<xsl:call-template name="afficherActeurs">
+											<xsl:with-param name="film" select="." />
+										</xsl:call-template>
                                     </div>
                                 </div>
                             </div>
@@ -208,5 +211,33 @@
                 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
             </body>
         </html>
+    </xsl:template>
+	
+	
+	<xsl:template name="afficherActeurs">
+		<xsl:param name="film"/>
+		<table>
+			<xsl:for-each select="$film/personnages/personnage">
+				<tr>
+					<td>
+						<xsl:call-template name="afficherActeur">
+							<xsl:with-param name="personnage" select="." />
+						</xsl:call-template>
+					</td>
+					<td>Incarne : <xsl:value-of select="." /> </td>
+				</tr>
+			</xsl:for-each>
+		</table>
+	</xsl:template>
+	
+	<xsl:template name="afficherActeur">
+        <xsl:param name="personnage"/>
+        <a href="#{$personnage/@incarne_par}">
+			<h4 title="Sexe&#160;:&#160;{//artiste[@id=$personnage/@incarne_par]/@sexe},&#160;Pays&#160;:&#160;{//nationalites/pays[@code=//artiste[@id=$personnage/@incarne_par]/@pays]}">
+				<xsl:value-of select="//artiste[@id=$personnage/@incarne_par]/prenom" /> 
+				&#160; 
+				<xsl:value-of select="//artiste[@id=$personnage/@incarne_par]/nom" /> 
+			</h4>
+		</a>       
     </xsl:template>
 </xsl:stylesheet>
