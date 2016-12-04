@@ -164,8 +164,28 @@
                             </div>
                             <div class="panel-body">
                                 <div class="row">
-                                    <!-- condition artiste ou film -->
-                                    <!-- details artiste ou film -->
+                                    <div class="col-md-12">
+                                        <xsl:if test="attribution/@artiste">
+                                            <xsl:for-each select="attribution/@artiste">
+                                                <p>
+                                                    Décerner à
+                                                    <xsl:call-template name="afficher_nom_artiste">
+                                                        <xsl:with-param name="artiste_id" select="." />
+                                                    </xsl:call-template>
+                                                    Pour
+                                                    FILM!
+                                                </p>
+                                            </xsl:for-each>
+                                        </xsl:if>
+                                        <xsl:if test="not(attribution/@artiste)">
+                                            <xsl:for-each select="attribution/@film">
+                                                <p>
+                                                    Pour
+                                                    FILM!!!
+                                                </p>
+                                            </xsl:for-each>
+                                        </xsl:if>
+                                    </div>
                                 </div>
                             </div>
                         </div>
