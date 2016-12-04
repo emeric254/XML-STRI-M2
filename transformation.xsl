@@ -26,7 +26,7 @@
                             <li><a href="#palmares">Palmares</a></li>
                             <li><a href="#artistes">Artistes</a></li>
                           </ul>
-                        </div><!--/.nav-collapse -->
+                        </div>
                     </div>
                 </nav>
                 <div class="container theme-showcase" role="main">
@@ -81,7 +81,6 @@
                                                 <xsl:call-template name="afficher_nom_artiste">
                                                     <xsl:with-param name="artiste_id" select="." />
                                                 </xsl:call-template>
-                                                <!-- detail artiste -->
                                             </xsl:for-each>
                                         </p>
                                     </div>
@@ -92,7 +91,6 @@
                                                 <xsl:call-template name="afficher_nom_artiste">
                                                     <xsl:with-param name="artiste_id" select="." />
                                                 </xsl:call-template>
-                                                <!-- detail artiste -->
                                             </xsl:for-each>
                                         </p>
                                     </div>
@@ -141,16 +139,14 @@
                     <xsl:for-each select="/festival_cannes/jury/membre">
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <xsl:call-template name="afficher_nom_artiste">
-                                    <xsl:with-param name="artiste_id" select="@artiste" />
-                                </xsl:call-template>
-                            </h3>
-                            </div>
-                            <div class="panel-body">
-                                <div class="row">
-                                    <!-- details membre -->
-                                </div>
+                                <h3 class="panel-title">
+                                    <xsl:call-template name="afficher_nom_artiste">
+                                        <xsl:with-param name="artiste_id" select="@artiste" />
+                                    </xsl:call-template>
+                                    <xsl:if test="role">
+                                        (Président)
+                                    </xsl:if>
+                                </h3>
                             </div>
                         </div>
                     </xsl:for-each>
