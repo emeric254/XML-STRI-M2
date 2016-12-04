@@ -44,6 +44,7 @@
                     </div>
                     <xsl:for-each select="//film">
                         <xsl:sort select="titre"/>
+                        <xsl:variable name= "id_film" select="@id"/>
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h3 class="panel-title">
@@ -62,6 +63,12 @@
                                         <p>
                                             Date de sortie :
                                             <xsl:value-of select="@date_sortie"/>
+                                        </p>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <p>
+                                            Durée :
+                                            <xsl:value-of select="substring(@duree,3)"/>
                                         </p>
                                     </div>
                                     <div class="col-md-4">
@@ -95,20 +102,17 @@
                                         </p>
                                     </div>
 
-                                    <!-- -->
-                                    <!-- -->
-                                    <xsl:for-each select=".">
+                                    <xsl:if test="//prix/attribution[@film=$id_film]">
                                         <div class="col-md-12">
-                                            <p>Prix obtenus :</p>
-                                            <!-- liste prix du film -->
+                                            <p>
+                                                Prix obtenus :
+                                                <xsl:for-each select="//prix/attribution[@film=$id_film]">
+                                                    <xsl:value-of select="//prix/@nom"/>
+                                                    <xsl:text> </xsl:text>
+                                                </xsl:for-each>
+                                            </p>
                                         </div>
-                                    </xsl:for-each>
-                                    <xsl:for-each select=".">
-                                        <div class="col-md-12">
-                                            <p>Prix obtenus par ses interpretes :</p>
-                                            <!-- liste prix des artistes -->
-                                        </div>
-                                    </xsl:for-each>
+                                    </xsl:if>
 
                                     <div class="col-md-12">
                                         <p>Synopsis :</p>
@@ -122,8 +126,9 @@
                                                 <xsl:call-template name="afficher_nom_artiste">
                                                     <xsl:with-param name="artiste_id" select="@incarne_par" />
                                                 </xsl:call-template>
-                                                dans le role de
+                                                dans le role de «
                                                 <xsl:value-of select="."/>
+                                                »
                                             </p>
                                         </xsl:for-each>
                                     </div>
