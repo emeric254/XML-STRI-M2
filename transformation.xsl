@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xsl:stylesheet version="3.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:template match="/">
         <html>
             <head>
@@ -106,8 +106,8 @@
                                         <div class="col-md-12">
                                             <p>
                                                 Prix obtenus :
-                                                <xsl:for-each select="//prix/attribution[@film=$id_film]">
-                                                    <xsl:value-of select="//prix/@nom"/>
+                                                <xsl:for-each select="//prix[attribution/@film=$id_film]">
+                                                    <xsl:value-of select="@nom"/>
                                                     <xsl:text> </xsl:text>
                                                 </xsl:for-each>
                                             </p>
@@ -207,12 +207,12 @@
                         <h2>Liste des atistes</h2>
                     </div>
                     <xsl:for-each select="//artiste">
-                        <div class="panel panel-default" id="{nom}{prenom}">
+                        <div class="panel panel-default" id="{prenom}{nom}">
                             <div class="panel-heading">
                                 <h3 class="panel-title">
-                                    <xsl:value-of select="nom"/>
-                                    <xsl:text> </xsl:text>
                                     <xsl:value-of select="prenom"/>
+                                    <xsl:text> </xsl:text>
+                                    <xsl:value-of select="nom"/>
                                 </h3>
                             </div>
                             <div class="panel-body">
@@ -257,7 +257,7 @@
 
     <xsl:template name="afficher_nom_artiste">
         <xsl:param name="artiste_id"/>
-        <a href="#{//artiste[@id=$artiste_id]/nom}{//artiste[@id=$artiste_id]/prenom}">
+        <a href="#{//artiste[@id=$artiste_id]/prenom}{//artiste[@id=$artiste_id]/nom}">
             <xsl:attribute name="title">
                 <xsl:text>Sexe : </xsl:text>
                 <xsl:choose>
@@ -267,9 +267,9 @@
                 <xsl:text>, Nationalité : </xsl:text>
                 <xsl:value-of select="//pays[@code=//artiste[@id=$artiste_id]/@pays]"/>
             </xsl:attribute>
-            <xsl:value-of select="//artiste[@id=$artiste_id]/nom" />
-            <xsl:text> </xsl:text>
             <xsl:value-of select="//artiste[@id=$artiste_id]/prenom" />
+            <xsl:text> </xsl:text>
+            <xsl:value-of select="//artiste[@id=$artiste_id]/nom" />
         </a>
     </xsl:template>
 
