@@ -68,8 +68,9 @@
                                         <p>
                                             Nationalités :
                                             <xsl:for-each select="@pays">
-                                                <xsl:value-of select="."/>
-                                                <!-- lien pays -->
+                                                <xsl:call-template name="afficherPays">
+                                                    <xsl:with-param name="codePays" select="." />
+                                                </xsl:call-template>
                                             </xsl:for-each>
                                         </p>
                                     </div>
@@ -77,7 +78,9 @@
                                         <p>
                                             Réalisé par :
                                             <xsl:for-each select="casting/@realisateurs">
-                                                <xsl:value-of select="."/>
+                                                <xsl:call-template name="afficher_nom_artiste">
+                                                    <xsl:with-param name="artiste_id" select="." />
+                                                </xsl:call-template>
                                                 <!-- detail artiste -->
                                             </xsl:for-each>
                                         </p>
@@ -86,7 +89,9 @@
                                         <p>
                                             Mis en scène par :
                                             <xsl:for-each select="casting/@scenaristes">
-                                                <xsl:value-of select="."/>
+                                                <xsl:call-template name="afficher_nom_artiste">
+                                                    <xsl:with-param name="artiste_id" select="." />
+                                                </xsl:call-template>
                                                 <!-- detail artiste -->
                                             </xsl:for-each>
                                         </p>
