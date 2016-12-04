@@ -172,16 +172,22 @@
                                                     <xsl:call-template name="afficher_nom_artiste">
                                                         <xsl:with-param name="artiste_id" select="." />
                                                     </xsl:call-template>
-                                                    Pour
-                                                    FILM!
+                                                    pour son role dans «
+                                                    <xsl:call-template name="afficherFilm">
+                                                        <xsl:with-param name="idFilm" select="../@film" />
+                                                    </xsl:call-template>
+                                                    »
                                                 </p>
                                             </xsl:for-each>
                                         </xsl:if>
                                         <xsl:if test="not(attribution/@artiste)">
                                             <xsl:for-each select="attribution/@film">
                                                 <p>
-                                                    Pour
-                                                    FILM!!!
+                                                    Pour «
+                                                    <xsl:call-template name="afficherFilm">
+                                                        <xsl:with-param name="idFilm" select="../@film" />
+                                                    </xsl:call-template>
+                                                    »
                                                 </p>
                                             </xsl:for-each>
                                         </xsl:if>
@@ -265,5 +271,10 @@
     <xsl:template name="afficherPays">
         <xsl:param name="codePays"/>
         <xsl:value-of select="//nationalites/pays[@code=$codePays]"/>
+    </xsl:template>
+
+    <xsl:template name="afficherFilm">
+        <xsl:param name="idFilm"/>
+        <xsl:value-of select="//film[@id=$idFilm]/titre"/>
     </xsl:template>
 </xsl:stylesheet>
