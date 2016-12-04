@@ -180,7 +180,7 @@
                             <div class="panel-heading">
                                 <h3 class="panel-title">
                                     <xsl:value-of select="nom"/>
-                                    &#160;
+                                    <xsl:text> </xsl:text>
                                     <xsl:value-of select="prenom"/>
                                 </h3>
                             </div>
@@ -224,9 +224,9 @@
         </html>
     </xsl:template>
 
-    <!-- Affichage nom artiste -->
     <xsl:template name="afficher_nom_artiste">
         <xsl:param name="artiste_id"/>
+        <!-- if sexe -->
         <a href="#{//artiste[@id=$artiste_id]/nom}{//artiste[@id=$artiste_id]/prenom}" title="Sexe : {//artiste[@id=$artiste_id]/@sexe}, Nationalité : {//pays[@code=//artiste[@id=$artiste_id]/@pays]}">
             <xsl:value-of select="//artiste[@id=$artiste_id]/nom" />
             <xsl:text> </xsl:text>
