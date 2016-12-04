@@ -107,21 +107,17 @@
                                         </div>
                                     </xsl:for-each>
 
-                                    <!-- -->
-                                    <!-- -->
                                     <div class="col-md-12">
                                         <p>Synopsis :</p>
                                         <p><xsl:value-of select="synopsis"/></p>
                                     </div>
 
-                                    <!-- -->
-                                    <!-- -->
                                     <div class="col-md-12">
                                         <p>Casting :</p>
                                         <xsl:for-each select="personnages/personnage">
                                             <p>
                                                 <xsl:call-template name="afficher_nom_artiste">
-                                                    <xsl:with-param name="artiste" select="." />
+                                                    <xsl:with-param name="artiste_id" select="@incarne_par" />
                                                 </xsl:call-template>
                                             </p>
                                         </xsl:for-each>
@@ -137,11 +133,13 @@
                     </div>
                     <xsl:for-each select="/festival_cannes/jury/membre">
                         <div class="panel panel-default">
-
-                            <xsl:call-template name="afficherNomArtiste">
-                                <xsl:with-param name="abreviationNomActeur" select="@artiste" />
-                            </xsl:call-template>
-
+                            <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <xsl:call-template name="afficher_nom_artiste">
+                                    <xsl:with-param name="artiste_id" select="@artiste" />
+                                </xsl:call-template>
+                            </h3>
+                            </div>
                             <div class="panel-body">
                                 <div class="row">
                                     <!-- details membre -->
@@ -188,7 +186,6 @@
                                     <div class="col-md-4">
                                         <p>
                                             Sexe :
-                                            <!-- condition pour afficher correctement feminin/masculin -->
                                             <xsl:if test="@sexe != 'M'">
                                                 Homme
                                             </xsl:if>
@@ -200,19 +197,19 @@
                                     <div class="col-md-4">
                                         <p>
                                             Nationalité :
-                                            <!-- lien pays -->
                                             <xsl:call-template name="afficherPays">
-                                                <xsl:with-param name="codePays" select="./@pays" />
+                                                <xsl:with-param name="codePays" select="@pays" />
                                             </xsl:call-template>
                                         </p>
                                     </div>
-                                    <!-- condition biographie -->
-                                    <div class="col-md-12">
-                                        <p>Biographie :</p>
-                                        <p>
-                                            <xsl:value-of select="biographie"/>
-                                        </p>
-                                    </div>
+                                    <xsl:if test="biographie">
+                                        <div class="col-md-12">
+                                            <p>Biographie :</p>
+                                            <p>
+                                                <xsl:value-of select="biographie"/>
+                                            </p>
+                                        </div>
+                                    </xsl:if>
                                 </div>
                             </div>
                         </div>
@@ -223,10 +220,11 @@
             </body>
         </html>
     </xsl:template>
-
+    <!-- Afiichage nom artiste -->
     <xsl:template name="afficher_nom_artiste">
         <xsl:param name="artiste_id"/>
         <xsl:value-of select="//artiste[@id=$artiste_id]/nom" />
+        &#160;
         <xsl:value-of select="//artiste[@id=$artiste_id]/prenom" />
     </xsl:template>
 
@@ -235,28 +233,13 @@
         <a href="#{$personnage/@incarne_par}">
             <h4 title="Sexe&#160;:&#160;{//artiste[@id=$personnage/@incarne_par]/@sexe},&#160;Pays&#160;:&#160;{//nationalites/pays[@code=//artiste[@id=$personnage/@incarne_par]/@pays]}">
                 <xsl:value-of select="//artiste[@id=$personnage/@incarne_par]/prenom" />
-                &#160;
                 <xsl:value-of select="//artiste[@id=$personnage/@incarne_par]/nom" />
             </h4>
         </a>
     </xsl:template>
-
     <!-- Affichage Pays -->
     <xsl:template name="afficherPays">
         <xsl:param name="codePays"/>
         <xsl:value-of select="//nationalites/pays[@code=$codePays]"/>
     </xsl:template>
-
-    <!-- Afficher nom + prenom jury -->
-    <xsl:template name="afficherNomArtiste">
-        <xsl:param name="abreviationNomActeur"/>
-        <div class="panel-heading">
-        <h3 class="panel-title">
-            <xsl:value-of select="//artistes/artiste[@id=$abreviationNomActeur]/prenom"/>
-            &#160;
-            <xsl:value-of select="//artistes/artiste[@id=$abreviationNomActeur]/nom"/>
-        </h3>
-        </div>
-    </xsl:template>
-
 </xsl:stylesheet>
