@@ -180,7 +180,7 @@
                         <h2>Liste des atistes</h2>
                     </div>
                     <xsl:for-each select="//artiste">
-                        <div class="panel panel-default">
+                        <div class="panel panel-default" id="{nom}{prenom}">
                             <div class="panel-heading">
                                 <h3 class="panel-title">
                                     <xsl:value-of select="nom"/>
@@ -230,9 +230,11 @@
     <!-- Afiichage nom artiste -->
     <xsl:template name="afficher_nom_artiste">
         <xsl:param name="artiste_id"/>
-        <xsl:value-of select="//artiste[@id=$artiste_id]/nom" />
-        <xsl:text> </xsl:text>
-        <xsl:value-of select="//artiste[@id=$artiste_id]/prenom" />
+        <a href="#{//artiste[@id=$artiste_id]/nom}{//artiste[@id=$artiste_id]/prenom}">
+            <xsl:value-of select="//artiste[@id=$artiste_id]/nom" />
+            <xsl:text> </xsl:text>
+            <xsl:value-of select="//artiste[@id=$artiste_id]/prenom" />
+        </a>
     </xsl:template>
 
     <xsl:template name="afficherActeur">
