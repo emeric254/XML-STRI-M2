@@ -143,7 +143,7 @@
                                     <xsl:call-template name="afficher_nom_artiste">
                                         <xsl:with-param name="artiste_id" select="@artiste" />
                                     </xsl:call-template>
-                                    <xsl:if test="role">
+                                    <xsl:if test="@role">
                                         (Président)
                                     </xsl:if>
                                 </h3>
@@ -223,26 +223,17 @@
             </body>
         </html>
     </xsl:template>
-    <!-- Afiichage nom artiste -->
+
+    <!-- Affichage nom artiste -->
     <xsl:template name="afficher_nom_artiste">
         <xsl:param name="artiste_id"/>
-        <a href="#{//artiste[@id=$artiste_id]/nom}{//artiste[@id=$artiste_id]/prenom}">
+        <a href="#{//artiste[@id=$artiste_id]/nom}{//artiste[@id=$artiste_id]/prenom}" title="Sexe : {//artiste[@id=$artiste_id]/@sexe}, Nationalité : {//pays[@code=//artiste[@id=$artiste_id]/@pays]}">
             <xsl:value-of select="//artiste[@id=$artiste_id]/nom" />
             <xsl:text> </xsl:text>
             <xsl:value-of select="//artiste[@id=$artiste_id]/prenom" />
         </a>
     </xsl:template>
 
-    <xsl:template name="afficherActeur">
-        <xsl:param name="personnage"/>
-        <a href="#{$personnage/@incarne_par}">
-            <h4 title="Sexe&#160;:&#160;{//artiste[@id=$personnage/@incarne_par]/@sexe},&#160;Pays&#160;:&#160;{//nationalites/pays[@code=//artiste[@id=$personnage/@incarne_par]/@pays]}">
-                <xsl:value-of select="//artiste[@id=$personnage/@incarne_par]/prenom" />
-                <xsl:value-of select="//artiste[@id=$personnage/@incarne_par]/nom" />
-            </h4>
-        </a>
-    </xsl:template>
-    <!-- Affichage Pays -->
     <xsl:template name="afficherPays">
         <xsl:param name="codePays"/>
         <xsl:value-of select="//nationalites/pays[@code=$codePays]"/>
