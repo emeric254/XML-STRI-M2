@@ -124,6 +124,8 @@
                                                 <xsl:call-template name="afficher_nom_artiste">
                                                     <xsl:with-param name="artiste_id" select="@incarne_par" />
                                                 </xsl:call-template>
+                                                dans le role de
+                                                <xsl:value-of select="."/>
                                             </p>
                                         </xsl:for-each>
                                     </div>
@@ -229,7 +231,7 @@
     <xsl:template name="afficher_nom_artiste">
         <xsl:param name="artiste_id"/>
         <xsl:value-of select="//artiste[@id=$artiste_id]/nom" />
-        &#160;
+        <xsl:text> </xsl:text>
         <xsl:value-of select="//artiste[@id=$artiste_id]/prenom" />
     </xsl:template>
 
