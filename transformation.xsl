@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="3.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:template match="/">
         <html>
             <head>
@@ -246,8 +246,16 @@
 
     <xsl:template name="afficher_nom_artiste">
         <xsl:param name="artiste_id"/>
-        <!-- if sexe -->
-        <a href="#{//artiste[@id=$artiste_id]/nom}{//artiste[@id=$artiste_id]/prenom}" title="Sexe : {//artiste[@id=$artiste_id]/@sexe}, Nationalité : {//pays[@code=//artiste[@id=$artiste_id]/@pays]}">
+        <a href="#{//artiste[@id=$artiste_id]/nom}{//artiste[@id=$artiste_id]/prenom}">
+            <xsl:attribute name="title">
+                <xsl:text>Sexe : </xsl:text>
+                <xsl:choose>
+                    <xsl:when test="//artiste[@id=$artiste_id]/@sexe = 'M'">Homme</xsl:when>
+                    <xsl:otherwise>Femme</xsl:otherwise>
+                </xsl:choose>
+                <xsl:text>, Nationalité : </xsl:text>
+                <xsl:value-of select="//pays[@code=//artiste[@id=$artiste_id]/@pays]"/>
+            </xsl:attribute>
             <xsl:value-of select="//artiste[@id=$artiste_id]/nom" />
             <xsl:text> </xsl:text>
             <xsl:value-of select="//artiste[@id=$artiste_id]/prenom" />
